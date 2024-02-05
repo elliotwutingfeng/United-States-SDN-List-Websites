@@ -9,8 +9,6 @@
 
 Machine-readable `.txt` blocklist of websites belonging to entities listed under the [United States Specially Designated Nationals List (SDN List)](https://ofac.treasury.gov/specially-designated-nationals-list-data-formats-data-schemas), updated once a day.
 
-
-
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the United States Government._
 
 ## Blocklist download
