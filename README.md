@@ -9,6 +9,8 @@
 
 Machine-readable `.txt` blocklist of websites belonging to entities listed under the [United States Specially Designated Nationals List (SDN List)](https://ofac.treasury.gov/specially-designated-nationals-list-data-formats-data-schemas), updated once a day.
 
+
+
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the United States Government._
 
 ## Blocklist download
@@ -46,6 +48,10 @@ venv/bin/python3 scraper.py
 
 - [defusedxml](https://github.com/tiran/defusedxml)
 - [tldextract](https://github.com/john-kurkowski/tldextract)
+
+## Feedback
+
+Sanctioned entities may sometimes use generic email addresses or host their webpages on non-sanctioned websites such as free webhosts. This can cause false positives in the hostname-only lists like [urls-pihole.txt](urls-pihole.txt). You can report them [here](https://github.com/elliotwutingfeng/United-States-SDN-List-Websites/issues).
 
 &nbsp;
 

@@ -142,7 +142,6 @@
 ||kibank.ru^
 ||kk-pu.com^
 ||kmolz.ru^
-||kotomachinery.wixsite.com^
 ||kpars.ir^
 ||kps-co.com^
 ||kpsk-ins.ru^
@@ -567,7 +566,6 @@
 ||www.hdsac.net^
 ||www.hebeicrovell.com^
 ||www.herzallah.ps^
-||www.hib.uk.com^
 ||www.hibank24.ir^
 ||www.hong-union.com^
 ||www.hormoz-fc.com^

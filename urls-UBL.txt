@@ -839,7 +839,6 @@
 *://*.tuta.io/*
 *://*.ubrr.ru/*
 *://*.uec-saturn.ru/*
-*://*.uk.com/*
 *://*.ukrport.org.ua/*
 *://*.ukrpost.ua/*
 *://*.ukrtel.net/*
@@ -896,7 +895,6 @@
 *://*.wasteelco.com/*
 *://*.webkamerton.ru/*
 *://*.whc.or.id/*
-*://*.wixsite.com/*
 *://*.wscb.ru/*
 *://*.xiaolipharma.com/*
 *://*.xiunashangmao.com/*
