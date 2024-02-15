@@ -602,6 +602,7 @@
 ||www.irmf.ir^$all
 ||www.irmti.ir^$all
 ||www.iruae.ae^$all
+||www.isc.co.ir^$all
 ||www.isleasingco.com^$all
 ||www.isotope.ir^$all
 ||www.iteranet.ru^$all

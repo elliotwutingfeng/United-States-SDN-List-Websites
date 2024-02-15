@@ -353,6 +353,7 @@
 *://*.irmf.ir/*
 *://*.irmti.ir/*
 *://*.iruae.ae/*
+*://*.isc.co.ir/*
 *://*.isleasingco.com/*
 *://*.isotope.ir/*
 *://*.itb.ru/*
