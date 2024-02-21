@@ -977,6 +977,7 @@
 ||www.zrenergy.com^$all
 ||www.zvezda.spb.ru^$all
 ||xiunashangmao.com^$all
+||ya.ru^$all
 ||yaltaport.com.ua^$all
 ||yaroslavl.ru^$all
 ||yolimachine.com^$all

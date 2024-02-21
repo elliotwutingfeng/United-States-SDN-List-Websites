@@ -900,6 +900,7 @@
 *://*.xiaolipharma.com/*
 *://*.xiunashangmao.com/*
 *://*.xr-shipping.com/*
+*://*.ya.ru/*
 *://*.yaltaport.com.ua/*
 *://*.yaroslavl.ru/*
 *://*.yazdrollingmill.com/*
