@@ -1,4 +1,5 @@
 ||0day.llc^$all
+||3data.ru^$all
 ||911.af^$all
 ||abdulkarimgroup.com^$all
 ||abr.ru^$all
@@ -28,7 +29,6 @@
 ||artual.co^$all
 ||asiafuel.net^$all
 ||barkatventures.com^$all
-||bazalt.ru^$all
 ||begemot.media^$all
 ||best2pay.net^$all
 ||bk.ru^$all
@@ -58,6 +58,7 @@
 ||dafos1990.business.site^$all
 ||daletours.com^$all
 ||daralsalam-lb.com^$all
+||datana.ru^$all
 ||daum.net^$all
 ||davos.exchange^$all
 ||day-cc.com^$all
@@ -168,8 +169,10 @@
 ||mehdishipping.com^$all
 ||mexpackingsolutions.com^$all
 ||ministeriopublico.gob.ni^$all
+||miran.ru^$all
 ||mksofttech.com^$all
 ||mmkturkey.com.tr^$all
+||modulbank.ru^$all
 ||mofa.lat^$all
 ||mopmr.gov.sy^$all
 ||moreship.ru^$all
@@ -206,6 +209,7 @@
 ||odnarodyna.org^$all
 ||omiddayins.ir^$all
 ||onerearth.xyz^$all
+||online.databank.ru^$all
 ||onmedia.io^$all
 ||ooosgm.ru^$all
 ||orc.ru^$all
@@ -250,6 +254,7 @@
 ||satech.com.my^$all
 ||sb24.ir^$all
 ||sbrf.com.ua^$all
+||scanform.ru^$all
 ||scemsal.site^$all
 ||sceptic.online^$all
 ||scn-net.org^$all
@@ -292,6 +297,7 @@
 ||southfront.org^$all
 ||sovcombank-leasing.ru^$all
 ||sovcombank.ru^$all
+||sovcomflot.ru^$all
 ||sovcomlife.ru^$all
 ||sovershopp.online^$all
 ||sovfracht.ru^$all
@@ -314,6 +320,7 @@
 ||supermeasn.lat^$all
 ||swaidexchange.com^$all
 ||t-platforms.ru^$all
+||t1.ru^$all
 ||tdday.ir^$all
 ||tdpmolds.com^$all
 ||tehranprisons.ir^$all
@@ -416,7 +423,9 @@
 ||www.atlassarafi.com^$all
 ||www.atunchemical.com^$all
 ||www.aukcion-sbrf.ru^$all
+||www.ausay.com^$all
 ||www.avangard-plastik.ru^$all
+||www.avangard.ru^$all
 ||www.avia-group.su^$all
 ||www.bahmangroup.com^$all
 ||www.baikalinc.ru^$all
@@ -432,7 +441,6 @@
 ||www.banksepah.com^$all
 ||www.banksepah.de^$all
 ||www.banksepah.ir^$all
-||www.bazalt.ru^$all
 ||www.bcco.co^$all
 ||www.behranoil.co^$all
 ||www.behsazco.ir^$all
@@ -461,6 +469,7 @@
 ||www.bspb.ru^$all
 ||www.btc.co.ir^$all
 ||www.burgaz.ru^$all
+||www.bystrobank.ru^$all
 ||www.bzpc.ir^$all
 ||www.cabanaslalomatapalpa.com^$all
 ||www.cabanaslasflores.com^$all
@@ -475,6 +484,7 @@
 ||www.cgstc.com^$all
 ||www.cgtradefze.com^$all
 ||www.chadormalu.com^$all
+||www.chelindbank.ru^$all
 ||www.chinaseparator.com^$all
 ||www.choubshomal.com^$all
 ||www.cidco.ir^$all
@@ -612,6 +622,7 @@
 ||www.iyari.com.mx^$all
 ||www.izbank.com^$all
 ||www.izh-bs.ru^$all
+||www.izhcombank.ru^$all
 ||www.izmdc.com^$all
 ||www.jalili.ir^$all
 ||www.jambanyani.com^$all
@@ -619,6 +630,7 @@
 ||www.jotrin.com^$all
 ||www.jp-adv.com^$all
 ||www.jpcomplex.ir^$all
+||www.jxlszb.com^$all
 ||www.jyalco.com^$all
 ||www.kalco.ir^$all
 ||www.karafarinbank.com^$all
@@ -660,6 +672,7 @@
 ||www.madkandaloo.com^$all
 ||www.manartv.com^$all
 ||www.marcap.ru^$all
+||www.maritimebank.com^$all
 ||www.massandra.net.ua^$all
 ||www.mbbru.com^$all
 ||www.mcs-tch.com^$all
@@ -679,6 +692,7 @@
 ||www.metilsteel.ir^$all
 ||www.mexpacking.com^$all
 ||www.mfbco.ir^$all
+||www.mfk-bank.ru^$all
 ||www.mibic.ir^$all
 ||www.mic-ir.com^$all
 ||www.midasrs.com^$all
@@ -811,6 +825,7 @@
 ||www.roe.ru^$all
 ||www.rosbank.ru^$all
 ||www.rosneft.com^$all
+||www.rostfinance.ru^$all
 ||www.rouhinasteel.com^$all
 ||www.royalpearlchem.com^$all
 ||www.rrbank.ru^$all
@@ -834,6 +849,7 @@
 ||www.sberbank.ru^$all
 ||www.sberbank.ua^$all
 ||www.sberleasing.ru^$all
+||www.scf-group.com^$all
 ||www.scot-syria.com^$all
 ||www.scsco.net^$all
 ||www.sdm.ru^$all
@@ -863,6 +879,7 @@
 ||www.somicgroup.net^$all
 ||www.source1herbs.com^$all
 ||www.sourceonewellness.com^$all
+||www.spbbank.com^$all
 ||www.spc.co.ir^$all
 ||www.spmco.co^$all
 ||www.sslil.net^$all

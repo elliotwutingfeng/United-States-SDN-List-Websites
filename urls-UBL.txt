@@ -1,4 +1,5 @@
 *://*.0day.llc/*
+*://*.3data.ru/*
 *://*.911.af/*
 *://*.aaestudioarquitectonico.com/*
 *://*.abdulkarimgroup.com/*
@@ -85,7 +86,9 @@
 *://*.atlassarafi.com/*
 *://*.atunchemical.com/*
 *://*.aukcion-sbrf.ru/*
+*://*.ausay.com/*
 *://*.avangard-plastik.ru/*
+*://*.avangard.ru/*
 *://*.avia-group.su/*
 *://*.bahmangroup.com/*
 *://*.baikalinc.ru/*
@@ -102,7 +105,6 @@
 *://*.banksepah.de/*
 *://*.banksepah.ir/*
 *://*.barkatventures.com/*
-*://*.bazalt.ru/*
 *://*.bcco.co/*
 *://*.begemot.media/*
 *://*.behranoil.co/*
@@ -141,6 +143,7 @@
 *://*.burgaz.ru/*
 *://*.business.site/*
 *://*.bveb.by/*
+*://*.bystrobank.ru/*
 *://*.bzpc.ir/*
 *://*.cabanaslalomatapalpa.com/*
 *://*.cabanaslasflores.com/*
@@ -158,6 +161,7 @@
 *://*.chadormalu.com/*
 *://*.chatex.com/*
 *://*.chatextech.com/*
+*://*.chelindbank.ru/*
 *://*.chesin.com/*
 *://*.chinaseparator.com/*
 *://*.choubshomal.com/*
@@ -188,6 +192,8 @@
 *://*.damavandmining.com/*
 *://*.damavandpg.co.ir/*
 *://*.daralsalam-lb.com/*
+*://*.databank.ru/*
+*://*.datana.ru/*
 *://*.daum.net/*
 *://*.davos.exchange/*
 *://*.day-cc.com/*
@@ -365,6 +371,7 @@
 *://*.iyari.com.mx/*
 *://*.izbank.com/*
 *://*.izh-bs.ru/*
+*://*.izhcombank.ru/*
 *://*.izmdc.com/*
 *://*.jalili.ir/*
 *://*.jambanyani.com/*
@@ -374,6 +381,7 @@
 *://*.journal-neo.org/*
 *://*.jp-adv.com/*
 *://*.jpcomplex.ir/*
+*://*.jxlszb.com/*
 *://*.jyalco.com/*
 *://*.kafa.crimea.ua/*
 *://*.kalco.ir/*
@@ -435,6 +443,7 @@
 *://*.mako.ua/*
 *://*.manartv.com/*
 *://*.marcap.ru/*
+*://*.maritimebank.com/*
 *://*.massandra.net.ua/*
 *://*.massandra.ua/*
 *://*.mazakatrading.com/*
@@ -458,6 +467,7 @@
 *://*.mexpacking.com/*
 *://*.mexpackingsolutions.com/*
 *://*.mfbco.ir/*
+*://*.mfk-bank.ru/*
 *://*.mibic.ir/*
 *://*.mic-ir.com/*
 *://*.midasrs.com/*
@@ -467,6 +477,7 @@
 *://*.milenyumshipping.com/*
 *://*.ministeriopublico.gob.ni/*
 *://*.miragewm.com/*
+*://*.miran.ru/*
 *://*.mitdco.com/*
 *://*.miu.ac/*
 *://*.mizusushi.mx/*
@@ -475,6 +486,7 @@
 *://*.mmkturkey.com.tr/*
 *://*.mobinogp.com/*
 *://*.mobinpc.net/*
+*://*.modulbank.ru/*
 *://*.mofa.lat/*
 *://*.mopmr.gov.sy/*
 *://*.moreship.ru/*
@@ -649,6 +661,7 @@
 *://*.roseurofactoring.ru/*
 *://*.rosneft.com/*
 *://*.rossia3.ru/*
+*://*.rostfinance.ru/*
 *://*.rouhinasteel.com/*
 *://*.round.ru/*
 *://*.royalpearlchem.com/*
@@ -683,8 +696,10 @@
 *://*.sberbank.ua/*
 *://*.sberleasing.ru/*
 *://*.sbrf.com.ua/*
+*://*.scanform.ru/*
 *://*.scemsal.site/*
 *://*.sceptic.online/*
+*://*.scf-group.com/*
 *://*.scn-net.org/*
 *://*.scot-syria.com/*
 *://*.scsco.net/*
@@ -750,11 +765,13 @@
 *://*.southfront.org/*
 *://*.sovcombank-leasing.ru/*
 *://*.sovcombank.ru/*
+*://*.sovcomflot.ru/*
 *://*.sovcomlife.ru/*
 *://*.sovershopp.online/*
 *://*.sovfracht.ru/*
 *://*.sovmortrans.com/*
 *://*.spb.ru/*
+*://*.spbbank.com/*
 *://*.spbexchange.ru/*
 *://*.spc.co.ir/*
 *://*.spiint.co.za/*
@@ -791,6 +808,7 @@
 *://*.sz-alloy.com/*
 *://*.t-platforms.ru/*
 *://*.t-rubber.com/*
+*://*.t1.ru/*
 *://*.tabchem.ir/*
 *://*.tadbirbroker.com/*
 *://*.tadbirdrilling.com/*
