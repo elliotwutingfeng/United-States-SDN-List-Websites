@@ -256,7 +256,6 @@
 *://*.fondvostok.ru/*
 *://*.forsys.ru/*
 *://*.forwarderz.com/*
-*://*.fossilagro.com/*
 *://*.fossilcontracting.org/*
 *://*.fsday.ir/*
 *://*.futurebank.com.bh/*

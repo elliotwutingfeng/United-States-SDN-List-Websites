@@ -91,7 +91,6 @@
 ||fkutaman.ru^$all
 ||fondvostok.ru^$all
 ||forwarderz.com^$all
-||fossilagro.com^$all
 ||fothigarage.business.site^$all
 ||fpi.gov.ru^$all
 ||fsday.ir^$all
