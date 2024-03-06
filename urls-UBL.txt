@@ -187,6 +187,7 @@
 *://*.ctexlb.com/*
 *://*.ctr-co.com/*
 *://*.cyberpolice.ir/*
+*://*.cytrox.com/*
 *://*.daletours.com/*
 *://*.daltrd.com/*
 *://*.damavandmining.com/*

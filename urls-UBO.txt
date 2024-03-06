@@ -497,6 +497,7 @@
 ||www.csc-sb.hr^$all
 ||www.ctexlb.com^$all
 ||www.cyberpolice.ir^$all
+||www.cytrox.com^$all
 ||www.daltrd.com^$all
 ||www.damavandmining.com^$all
 ||www.damavandpg.co.ir^$all
