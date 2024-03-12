@@ -117,6 +117,7 @@
 ||gwt.com.my^
 ||gzgomei.cn^
 ||h-terre.org^
+||haleelcommodities.com^
 ||hejabtextile.com^
 ||hotel-plaza-mexicali.negocio.site^
 ||hotelastorres.com^
@@ -568,6 +569,7 @@
 ||www.gsk-sd.com^
 ||www.guanlang-group.com^
 ||www.gzsc.ir^
+||www.haleel.co^
 ||www.hals-development.ru^
 ||www.hanhong-med.com^
 ||www.haokunny.com^

@@ -306,6 +306,8 @@
 *://*.gzgomei.cn/*
 *://*.gzsc.ir/*
 *://*.h-terre.org/*
+*://*.haleel.co/*
+*://*.haleelcommodities.com/*
 *://*.hals-development.ru/*
 *://*.hanhong-med.com/*
 *://*.haokunny.com/*
