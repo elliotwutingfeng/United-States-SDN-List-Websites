@@ -302,6 +302,7 @@
 ||sovershopp.online^
 ||sovfracht.ru^
 ||sovmortrans.com^
+||sp-agency.ru^
 ||spbexchange.ru^
 ||spiint.co.za^
 ||srpt.ir^
@@ -315,6 +316,7 @@
 ||stpr.ru^
 ||strategic-culture.org^
 ||street-motor-services.business.site^
+||structura.pro^
 ||sudocompozit.ru^
 ||suex.io^
 ||supermeasn.lat^
@@ -556,6 +558,7 @@
 ||www.globaltradinggroup.com^
 ||www.gmiprojects.de^
 ||www.gmships.com^
+||www.goklergroup.com^
 ||www.goldenrc.com^
 ||www.goldenstar-co.com^
 ||www.golfrateangola.com^

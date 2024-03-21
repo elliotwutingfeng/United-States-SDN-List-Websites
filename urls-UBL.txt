@@ -286,6 +286,7 @@
 *://*.globalvisiness.com/*
 *://*.gmiprojects.de/*
 *://*.gmships.com/*
+*://*.goklergroup.com/*
 *://*.goldenrc.com/*
 *://*.goldenstar-co.com/*
 *://*.golfrate.com/*
@@ -772,6 +773,7 @@
 *://*.sovershopp.online/*
 *://*.sovfracht.ru/*
 *://*.sovmortrans.com/*
+*://*.sp-agency.ru/*
 *://*.spb.ru/*
 *://*.spbbank.com/*
 *://*.spbexchange.ru/*
@@ -795,6 +797,7 @@
 *://*.straitship.com/*
 *://*.strategic-culture.org/*
 *://*.stroytransgaz.ru/*
+*://*.structura.pro/*
 *://*.sudanmaster.com/*
 *://*.sudocompozit.ru/*
 *://*.sudoexport.ru/*
