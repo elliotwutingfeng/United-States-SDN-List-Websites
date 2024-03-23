@@ -40,6 +40,7 @@
 ||burgaz.gazprom.ru^$all
 ||bveb.by^$all
 ||cdredos.site^$all
+||celulandiatallerstore.negocio.site^$all
 ||chatex.com^$all
 ||chatextech.com^$all
 ||ckb-rubin.ru^$all
@@ -933,6 +934,7 @@
 ||www.tmico.ir^$all
 ||www.topfashion-online.de^$all
 ||www.toplabrc.com^$all
+||www.totallook.mx^$all
 ||www.tourismbank.ir^$all
 ||www.tplshipping.com^$all
 ||www.trans-flot.ru^$all

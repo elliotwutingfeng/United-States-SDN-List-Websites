@@ -851,6 +851,7 @@
 *://*.topfashion-online.de/*
 *://*.toplabrc.com/*
 *://*.tornado.cash/*
+*://*.totallook.mx/*
 *://*.tourismbank.ir/*
 *://*.tpe.ru/*
 *://*.tplshipping.com/*
