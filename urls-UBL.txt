@@ -84,12 +84,15 @@
 *://*.asiafuel.net/*
 *://*.atlasdoviz.com/*
 *://*.atlassarafi.com/*
+*://*.atomyze.ru/*
 *://*.atunchemical.com/*
 *://*.aukcion-sbrf.ru/*
 *://*.ausay.com/*
 *://*.avangard-plastik.ru/*
 *://*.avangard.ru/*
 *://*.avia-group.su/*
+*://*.awex.pro/*
+*://*.b-crypto.ru/*
 *://*.bahmangroup.com/*
 *://*.baikalinc.ru/*
 *://*.bakeandkitchen.com/*
@@ -116,6 +119,8 @@
 *://*.bidc.ir/*
 *://*.bilad-bank.com/*
 *://*.bim.ir/*
+*://*.bitpapa.com/*
+*://*.bitpapa.org/*
 *://*.bk.ru/*
 *://*.bki.ir/*
 *://*.blender.io/*
@@ -449,6 +454,7 @@
 *://*.maritimebank.com/*
 *://*.massandra.net.ua/*
 *://*.massandra.ua/*
+*://*.masterchain.ru/*
 *://*.mazakatrading.com/*
 *://*.mbbru.com/*
 *://*.mcs-tch.com/*
@@ -520,6 +526,10 @@
 *://*.negocio.site/*
 *://*.neovox.ru/*
 *://*.net.kp/*
+*://*.netex.trade/*
+*://*.netex24.com/*
+*://*.netex24.net/*
+*://*.netexchange.ru/*
 *://*.newhorizon.ir/*
 *://*.news-front.info/*
 *://*.nicico.com/*
@@ -918,6 +928,7 @@
 *://*.waatasemu.org/*
 *://*.waatasemu.org.ly/*
 *://*.wasteelco.com/*
+*://*.web3tech.ru/*
 *://*.webkamerton.ru/*
 *://*.whc.or.id/*
 *://*.wscb.ru/*

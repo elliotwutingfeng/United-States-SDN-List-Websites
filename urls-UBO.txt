@@ -424,12 +424,15 @@
 ||www.asealu.com^$all
 ||www.atlasdoviz.com^$all
 ||www.atlassarafi.com^$all
+||www.atomyze.ru^$all
 ||www.atunchemical.com^$all
 ||www.aukcion-sbrf.ru^$all
 ||www.ausay.com^$all
 ||www.avangard-plastik.ru^$all
 ||www.avangard.ru^$all
 ||www.avia-group.su^$all
+||www.awex.pro^$all
+||www.b-crypto.ru^$all
 ||www.bahmangroup.com^$all
 ||www.baikalinc.ru^$all
 ||www.bakeandkitchen.com^$all
@@ -453,6 +456,8 @@
 ||www.bidc.ir^$all
 ||www.bilad-bank.com^$all
 ||www.bim.ir^$all
+||www.bitpapa.com^$all
+||www.bitpapa.org^$all
 ||www.bki.ir^$all
 ||www.bluecalmmarineservices.net^$all
 ||www.bmi.ir^$all
@@ -680,6 +685,7 @@
 ||www.marcap.ru^$all
 ||www.maritimebank.com^$all
 ||www.massandra.net.ua^$all
+||www.masterchain.ru^$all
 ||www.mbbru.com^$all
 ||www.mcs-tch.com^$all
 ||www.meaccesstechnology.com^$all
@@ -723,6 +729,10 @@
 ||www.nahb.my^$all
 ||www.nascopolymers.com^$all
 ||www.ndco.ir^$all
+||www.netex.trade^$all
+||www.netex24.com^$all
+||www.netex24.net^$all
+||www.netexchange.ru^$all
 ||www.nicico.com^$all
 ||www.niip.ru^$all
 ||www.nimidco.com^$all
@@ -978,6 +988,7 @@
 ||www.vvbank.ru^$all
 ||www.vyborgshipyard.ru^$all
 ||www.wasteelco.com^$all
+||www.web3tech.ru^$all
 ||www.webkamerton.ru^$all
 ||www.whc.or.id^$all
 ||www.wscb.ru^$all
