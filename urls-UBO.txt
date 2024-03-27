@@ -115,6 +115,7 @@
 ||gosbank.su^$all
 ||gpsm.ru^$all
 ||gr8researchchemicals-eu.com^$all
+||grains-middleeast.com^$all
 ||gwt.com.my^$all
 ||gzgomei.cn^$all
 ||h-terre.org^$all
