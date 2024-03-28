@@ -452,7 +452,6 @@
 ||www.behranoil.co^$all
 ||www.behsazco.ir^$all
 ||www.belinvestbank.by^$all
-||www.bellizo.nl^$all
 ||www.bid.com.ve^$all
 ||www.bidc.ir^$all
 ||www.bilad-bank.com^$all

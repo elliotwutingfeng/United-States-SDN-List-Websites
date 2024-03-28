@@ -113,7 +113,6 @@
 *://*.behranoil.co/*
 *://*.behsazco.ir/*
 *://*.belinvestbank.by/*
-*://*.bellizo.nl/*
 *://*.best2pay.net/*
 *://*.bid.com.ve/*
 *://*.bidc.ir/*
