@@ -981,7 +981,6 @@
 ||www.vtb.ao^$all
 ||www.vtb.com^$all
 ||www.vtb.com.ge^$all
-||www.vtb.eu^$all
 ||www.vtb.ru^$all
 ||www.vtbf.ru^$all
 ||www.vtbreg.ru^$all

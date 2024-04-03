@@ -918,7 +918,6 @@
 *://*.vtb.az/*
 *://*.vtb.com/*
 *://*.vtb.com.ge/*
-*://*.vtb.eu/*
 *://*.vtb.ru/*
 *://*.vtbcapital.com/*
 *://*.vtbf.ru/*
