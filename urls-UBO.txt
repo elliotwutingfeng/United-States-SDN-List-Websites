@@ -434,7 +434,6 @@
 ||www.avia-group.su^$all
 ||www.awex.pro^$all
 ||www.b-crypto.ru^$all
-||www.bahmangroup.com^$all
 ||www.baikalinc.ru^$all
 ||www.bakeandkitchen.com^$all
 ||www.baltinfocom.ru^$all

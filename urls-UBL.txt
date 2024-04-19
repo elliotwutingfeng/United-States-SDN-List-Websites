@@ -93,7 +93,6 @@
 *://*.avia-group.su/*
 *://*.awex.pro/*
 *://*.b-crypto.ru/*
-*://*.bahmangroup.com/*
 *://*.baikalinc.ru/*
 *://*.bakeandkitchen.com/*
 *://*.baltinfocom.ru/*
