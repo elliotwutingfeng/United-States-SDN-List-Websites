@@ -570,6 +570,7 @@
 ||www.gosbank.su^$all
 ||www.gpetroc.ir^$all
 ||www.gpsm.ru^$all
+||www.granpect.com^$all
 ||www.grarquitectos.mx^$all
 ||www.greenarea.me^$all
 ||www.grupoarosfran.net^$all
@@ -677,6 +678,7 @@
 ||www.lavinapuls.ru^$all
 ||www.lockobank.ru^$all
 ||www.lolalolita.com^$all
+||www.lontek.cn^$all
 ||www.lordegan.co^$all
 ||www.m23mars.org^$all
 ||www.madkandaloo.com^$all

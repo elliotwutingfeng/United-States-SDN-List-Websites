@@ -301,6 +301,7 @@
 *://*.gpsm.ru/*
 *://*.gr8researchchemicals-eu.com/*
 *://*.grains-middleeast.com/*
+*://*.granpect.com/*
 *://*.grarquitectos.mx/*
 *://*.greenarea.me/*
 *://*.grupoarosfran.net/*
@@ -437,6 +438,7 @@
 *://*.lescpanama.com/*
 *://*.lockobank.ru/*
 *://*.lolalolita.com/*
+*://*.lontek.cn/*
 *://*.lordegan.co/*
 *://*.lumiere-elysees.fr/*
 *://*.m23mars.org/*
