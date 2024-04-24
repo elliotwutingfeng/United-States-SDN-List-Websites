@@ -191,6 +191,7 @@
 *://*.ctr-co.com/*
 *://*.cyberpolice.ir/*
 *://*.cytrox.com/*
+*://*.daa.computer/*
 *://*.daletours.com/*
 *://*.daltrd.com/*
 *://*.damavandmining.com/*
