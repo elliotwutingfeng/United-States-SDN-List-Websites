@@ -418,6 +418,7 @@
 ||www.arian-bank.com.af^
 ||www.arianikan.com^
 ||www.arrai.tv^
+||www.arsangco.com^
 ||www.arttronix.com^
 ||www.arvancloud.com^
 ||www.arvandpvc.ir^
@@ -852,6 +853,7 @@
 ||www.sadaf-cb.com^
 ||www.sadra.ir^
 ||www.sahab.ir^
+||www.saharathunder.com^
 ||www.saidshuhada.com^
 ||www.salavathz.ru^
 ||www.sanabel.org.uk^
@@ -950,6 +952,7 @@
 ||www.tourismbank.ir^
 ||www.tplshipping.com^
 ||www.trans-flot.ru^
+||www.transgulfagency.ae^
 ||www.transmartdmcc.com^
 ||www.trendgyo.com.tr^
 ||www.ttbank.ir^
@@ -1007,6 +1010,7 @@
 ||www.zapsibkombank.ru^
 ||www.zarrincement.com^
 ||www.zenit.ru^
+||www.zenships.com^
 ||www.zest-leasing.ru^
 ||www.zhongsheng-magnet.com^
 ||www.zjwonder.com^

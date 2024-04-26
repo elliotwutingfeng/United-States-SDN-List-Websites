@@ -74,6 +74,7 @@
 *://*.arian-bank.com.af/*
 *://*.arianikan.com/*
 *://*.arrai.tv/*
+*://*.arsangco.com/*
 *://*.arttronix.com/*
 *://*.artual.co/*
 *://*.arvancloud.com/*
@@ -691,6 +692,7 @@
 *://*.sadaf-cb.com/*
 *://*.sadra.ir/*
 *://*.sahab.ir/*
+*://*.saharathunder.com/*
 *://*.saidshuhada.com/*
 *://*.salavathz.ru/*
 *://*.salcocompany.com/*
@@ -868,6 +870,7 @@
 *://*.tpe.ru/*
 *://*.tplshipping.com/*
 *://*.trans-flot.ru/*
+*://*.transgulfagency.ae/*
 *://*.transmartdmcc.com/*
 *://*.trendgyo.com.tr/*
 *://*.tribit.ru/*
@@ -953,6 +956,7 @@
 *://*.zarrincement.com/*
 *://*.zawayagroup.com/*
 *://*.zenit.ru/*
+*://*.zenships.com/*
 *://*.zest-leasing.ru/*
 *://*.zhongsheng-magnet.com/*
 *://*.zik.ru/*
