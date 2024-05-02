@@ -108,6 +108,7 @@
 ||gge.ru^$all
 ||gicdf.org^$all
 ||giesgroup.com^$all
+||global-key.ru^$all
 ||globalrc.net^$all
 ||globalvisiness.com^$all
 ||golfrate.com^$all
@@ -281,6 +282,7 @@
 ||shoga.net^$all
 ||shsaintlog.com^$all
 ||shuman-exchange.business.site^$all
+||shvabe-oe.com^$all
 ||sidar-dz.com^$all
 ||signaltec.ru^$all
 ||silibank.net.kp^$all
@@ -345,6 +347,7 @@
 ||tula.net^$all
 ||tuta.io^$all
 ||ukrpost.ua^$all
+||ultran.ru^$all
 ||unicious.com^$all
 ||unijet.ru^$all
 ||univestltd.com^$all
@@ -495,6 +498,7 @@
 ||www.chadormalu.com^$all
 ||www.chelindbank.ru^$all
 ||www.chinaseparator.com^$all
+||www.chipspace-elec.com^$all
 ||www.choubshomal.com^$all
 ||www.cidco.ir^$all
 ||www.clarashipping.com^$all
@@ -652,6 +656,7 @@
 ||www.kbptula.ru^$all
 ||www.kenzosushi.mx^$all
 ||www.kerchport.com^$all
+||www.keylinkwireless.com^$all
 ||www.kfcc.com.cn^$all
 ||www.khadijasm.com^$all
 ||www.khaitiholding.com^$all
@@ -756,6 +761,7 @@
 ||www.oceanpribor.ru^$all
 ||www.odk.ru^$all
 ||www.oiic-ir.com^$all
+||www.oko-kb.ru^$all
 ||www.oldcitykarst.ru^$all
 ||www.oleinik.win^$all
 ||www.omaday.ir^$all
