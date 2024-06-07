@@ -152,6 +152,7 @@
 *://*.cabanaslalomatapalpa.com/*
 *://*.cabanaslasflores.com/*
 *://*.calcimin.com/*
+*://*.capitaltap.com/*
 *://*.caruna.com.ni/*
 *://*.casagrande-mne.com/*
 *://*.catalistparsian.com/*
@@ -185,6 +186,7 @@
 *://*.cortez.com.mx/*
 *://*.cra.ir/*
 *://*.crb-dnr.ru/*
+*://*.creative-python.com/*
 *://*.crimea.com/*
 *://*.crimearw.ru/*
 *://*.cryogenmash.ru/*

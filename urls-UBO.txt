@@ -486,6 +486,7 @@
 ||www.cabanaslalomatapalpa.com^$all
 ||www.cabanaslasflores.com^$all
 ||www.calcimin.com^$all
+||www.capitaltap.com^$all
 ||www.caruna.com.ni^$all
 ||www.casagrande-mne.com^$all
 ||www.catalistparsian.com^$all
@@ -506,6 +507,7 @@
 ||www.cortez.com.mx^$all
 ||www.cra.ir^$all
 ||www.crb-dnr.ru^$all
+||www.creative-python.com^$all
 ||www.crimearw.ru^$all
 ||www.cryogenmash.ru^$all
 ||www.csc-sb.hr^$all
