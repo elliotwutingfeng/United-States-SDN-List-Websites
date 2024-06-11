@@ -887,6 +887,7 @@
 ||www.sfi.co.ir^$all
 ||www.sgc.gov.sy^$all
 ||www.shahedaviation.com^$all
+||www.shark-intl.com^$all
 ||www.shomalcement.com^$all
 ||www.sibmoll.ru^$all
 ||www.sinabank.ir^$all

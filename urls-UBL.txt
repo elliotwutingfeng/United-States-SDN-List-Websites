@@ -748,6 +748,7 @@
 *://*.shahr-bank.ir/*
 *://*.shamexpress.com.tr/*
 *://*.sharif.edu/*
+*://*.shark-intl.com/*
 *://*.shastan.ir/*
 *://*.shoga.net/*
 *://*.shomalcement.com/*
