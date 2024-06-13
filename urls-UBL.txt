@@ -54,9 +54,11 @@
 *://*.alquds-online.org/*
 *://*.alturath.org/*
 *://*.alzarooniexchange.ae/*
+*://*.amanuf.ru/*
 *://*.aminib.com/*
 *://*.amnafzar.com/*
 *://*.amsterdamtradebank.com/*
+*://*.analogtechnology.net/*
 *://*.ankaport-tr.com/*
 *://*.ansarbank.com/*
 *://*.ansarexchange.ir/*
@@ -118,6 +120,7 @@
 *://*.bidc.ir/*
 *://*.bilad-bank.com/*
 *://*.bim.ir/*
+*://*.biopharmist.com/*
 *://*.bitpapa.com/*
 *://*.bitpapa.org/*
 *://*.bk.ru/*
@@ -168,6 +171,7 @@
 *://*.chatextech.com/*
 *://*.chelindbank.ru/*
 *://*.chesin.com/*
+*://*.chimmed.ru/*
 *://*.chinaseparator.com/*
 *://*.chipspace-elec.com/*
 *://*.choubshomal.com/*
@@ -235,10 +239,12 @@
 *://*.elemento.com.mt/*
 *://*.elgoliat.com.ni/*
 *://*.elitdiamond.net/*
+*://*.eluent.ru/*
 *://*.emtp.com.ua/*
 *://*.enbank.ir/*
 *://*.energyglobal.info/*
 *://*.enexchanger.com/*
+*://*.enkatrade.com/*
 *://*.era-tehnopolis.ru/*
 *://*.eramedia.com.ua/*
 *://*.eric1234.com/*
@@ -469,6 +475,7 @@
 *://*.meaccesstechnology.com/*
 *://*.mebank.ir/*
 *://*.med-obd.com/*
+*://*.med-std.ru/*
 *://*.medpacking.com/*
 *://*.mehdishipping.com/*
 *://*.mehdishipping.net/*
@@ -504,8 +511,10 @@
 *://*.mobinogp.com/*
 *://*.mobinpc.net/*
 *://*.modulbank.ru/*
+*://*.moex.com/*
 *://*.mofa.lat/*
 *://*.mopmr.gov.sy/*
+*://*.moran-group.org/*
 *://*.moreship.ru/*
 *://*.morgan.ae/*
 *://*.morganme.com/*
@@ -559,6 +568,7 @@
 *://*.npfsberbanka.ru/*
 *://*.npomash.ru/*
 *://*.npv.su/*
+*://*.nsd.ru/*
 *://*.nsg-ins.ru/*
 *://*.nskbl.ru/*
 *://*.nstri.ir/*
@@ -583,6 +593,7 @@
 *://*.optimafreight.fi/*
 *://*.orc.ru/*
 *://*.oreanda.biz/*
+*://*.oreelaser.cn/*
 *://*.orientalreview.org/*
 *://*.ovlas-trading.com/*
 *://*.oxinsteel.ir/*
@@ -692,6 +703,7 @@
 *://*.ruschemtrade.com/*
 *://*.rusconsult.ru/*
 *://*.rusimperia.info/*
+*://*.rusmedtorg.ru/*
 *://*.russia-now.com/*
 *://*.russianstandard.com/*
 *://*.rvc.ru/*
@@ -825,6 +837,7 @@
 *://*.sudoexport.ru/*
 *://*.suex.io/*
 *://*.sunwaytech.cn/*
+*://*.superchip-ltd.com/*
 *://*.supermeasn.lat/*
 *://*.surabayahobby.com/*
 *://*.swaidexchange.com/*
@@ -861,6 +874,7 @@
 *://*.therealrc.com/*
 *://*.theyangonrestaurant.com/*
 *://*.tibalaji.com/*
+*://*.tiber.su/*
 *://*.ticketpremier.mx/*
 *://*.tidewaterco.com/*
 *://*.tidewaterco.ir/*
@@ -870,6 +884,7 @@
 *://*.tkbbank.ru/*
 *://*.tmgic.ir/*
 *://*.tmico.ir/*
+*://*.tochka.com/*
 *://*.topfashion-online.de/*
 *://*.toplabrc.com/*
 *://*.tornado.cash/*
@@ -970,5 +985,6 @@
 *://*.zhongsheng-magnet.com/*
 *://*.zik.ru/*
 *://*.zjwonder.com/*
+*://*.zmat.com/*
 *://*.zr-group.net/*
 *://*.zrenergy.com/*

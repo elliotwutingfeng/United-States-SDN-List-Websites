@@ -17,6 +17,7 @@
 ||almahdi.ir^$all
 ||alquds-city.com^$all
 ||alquds-online.org^$all
+||amanuf.ru^$all
 ||amnafzar.com^$all
 ||annaboylechem.globalimporter.net^$all
 ||ansarexchange.ir^$all
@@ -31,6 +32,7 @@
 ||barkatventures.com^$all
 ||begemot.media^$all
 ||best2pay.net^$all
+||biopharmist.com^$all
 ||bk.ru^$all
 ||blender.io^$all
 ||blender.to^$all
@@ -43,8 +45,10 @@
 ||celulandiatallerstore.negocio.site^$all
 ||chatex.com^$all
 ||chatextech.com^$all
+||chimmed.ru^$all
 ||ckb-rubin.ru^$all
 ||cmrbank.ru^$all
+||cn.zmat.com^$all
 ||cniiag.ru^$all
 ||cniieisu.ru^$all
 ||cniihm.ru^$all
@@ -75,6 +79,7 @@
 ||dorstroycom.ru^$all
 ||ebonet.net^$all
 ||elgoliat.com.ni^$all
+||eluent.ru^$all
 ||emtp.com.ua^$all
 ||en.ivbb.ir^$all
 ||en.miu.ac^$all
@@ -170,6 +175,7 @@
 ||marcap.ru^$all
 ||massandra.ua^$all
 ||mazakatrading.com^$all
+||med-std.ru^$all
 ||mehdishipping.com^$all
 ||mexpackingsolutions.com^$all
 ||ministeriopublico.gob.ni^$all
@@ -179,6 +185,7 @@
 ||modulbank.ru^$all
 ||mofa.lat^$all
 ||mopmr.gov.sy^$all
+||moran-group.org^$all
 ||moreship.ru^$all
 ||morgan.ae^$all
 ||morport.sebastopol.ua^$all
@@ -250,6 +257,7 @@
 ||ruschemtrade.com^$all
 ||rusconsult.ru^$all
 ||rusimperia.info^$all
+||rusmedtorg.ru^$all
 ||russianstandard.com^$all
 ||rvc.ru^$all
 ||salcocompany.com^$all
@@ -408,6 +416,7 @@
 ||www.aminib.com^$all
 ||www.amnafzar.com^$all
 ||www.amsterdamtradebank.com^$all
+||www.analogtechnology.net^$all
 ||www.ankaport-tr.com^$all
 ||www.ansarbank.com^$all
 ||www.ao-star.ru^$all
@@ -541,6 +550,7 @@
 ||www.en.tmgic.ir^$all
 ||www.enbank.ir^$all
 ||www.enexchanger.com^$all
+||www.enkatrade.com^$all
 ||www.era-tehnopolis.ru^$all
 ||www.eric1234.com^$all
 ||www.erjmltd.com^$all
@@ -728,6 +738,7 @@
 ||www.mkb.ru^$all
 ||www.mobinogp.com^$all
 ||www.mobinpc.net^$all
+||www.moex.com^$all
 ||www.morganme.com^$all
 ||www.morskoybank.com^$all
 ||www.mostro.ru^$all
@@ -757,6 +768,7 @@
 ||www.npomash.ru^$all
 ||www.npp-kvant.kret.com^$all
 ||www.npve.narod.ru^$all
+||www.nsd.ru^$all
 ||www.nsg-ins.ru^$all
 ||www.nskbl.ru^$all
 ||www.oceanos.ru^$all
@@ -774,6 +786,7 @@
 ||www.open.ru^$all
 ||www.optimafreight.fi^$all
 ||www.oreanda.biz^$all
+||www.oreelaser.cn^$all
 ||www.orientalreview.org^$all
 ||www.ovlas-trading.com^$all
 ||www.oxinsteel.ir^$all
@@ -924,6 +937,7 @@
 ||www.sudanmaster.com^$all
 ||www.sudoexport.ru^$all
 ||www.sunwaytech.cn^$all
+||www.superchip-ltd.com^$all
 ||www.surabayahobby.com^$all
 ||www.swedishmanagement.ae^$all
 ||www.sweetaparts.com^$all
@@ -950,11 +964,13 @@
 ||www.tempbank.ru^$all
 ||www.tequilaonze.com^$all
 ||www.tibalaji.com^$all
+||www.tiber.su^$all
 ||www.ticketpremier.mx^$all
 ||www.tidewaterco.com^$all
 ||www.tinkoff.ru^$all
 ||www.tkbbank.ru^$all
 ||www.tmico.ir^$all
+||www.tochka.com^$all
 ||www.topfashion-online.de^$all
 ||www.toplabrc.com^$all
 ||www.totallook.mx^$all
@@ -1033,6 +1049,7 @@
 ||yorvinmobiliaria.com^$all
 ||zalivkerch.com^$all
 ||zaovad.com^$all
+||zapad-invest.gazprom.ru^$all
 ||zawayagroup.com^$all
 ||zik.ru^$all
 ||zisco.midhco.com^$all
