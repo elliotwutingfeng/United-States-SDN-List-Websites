@@ -749,6 +749,7 @@
 ||www.mut.ac.ir^
 ||www.nahb.my^
 ||www.nascopolymers.com^
+||www.nbsaige.com^
 ||www.ndco.ir^
 ||www.netex.trade^
 ||www.netex24.com^
@@ -1028,6 +1029,7 @@
 ||www.yonastar.com^
 ||www.ytkmachine.com^
 ||www.ytkpack.com^
+||www.yuzemachinery.com^
 ||www.zadna-int.com^
 ||www.zaliv.com^
 ||www.zalivkerch.com^

@@ -539,6 +539,7 @@
 *://*.narod.ru/*
 *://*.nascopolymers.com/*
 *://*.naver.com/*
+*://*.nbsaige.com/*
 *://*.ndco.ir/*
 *://*.negocio.site/*
 *://*.neovox.ru/*
@@ -972,6 +973,7 @@
 *://*.yorvinmobiliaria.com/*
 *://*.ytkmachine.com/*
 *://*.ytkpack.com/*
+*://*.yuzemachinery.com/*
 *://*.zadna-int.com/*
 *://*.zaliv.com/*
 *://*.zalivkerch.com/*
