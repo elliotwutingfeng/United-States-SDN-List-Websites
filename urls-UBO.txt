@@ -128,6 +128,7 @@
 ||h-terre.org^$all
 ||haleelcommodities.com^$all
 ||hejabtextile.com^$all
+||hermexint.com^$all
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
@@ -260,6 +261,7 @@
 ||rusmedtorg.ru^$all
 ||russianstandard.com^$all
 ||rvc.ru^$all
+||sadafexchange.com^$all
 ||salcocompany.com^$all
 ||sanabel.org.uk^$all
 ||sapa.ir^$all
@@ -513,7 +515,6 @@
 ||www.cidco.ir^$all
 ||www.clarashipping.com^$all
 ||www.congofutur.com^$all
-||www.cortez.com.mx^$all
 ||www.cra.ir^$all
 ||www.crb-dnr.ru^$all
 ||www.creative-python.com^$all

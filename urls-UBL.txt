@@ -187,7 +187,6 @@
 *://*.congofutur.com/*
 *://*.consol-stroi.ru/*
 *://*.consolstroy.ru/*
-*://*.cortez.com.mx/*
 *://*.cra.ir/*
 *://*.crb-dnr.ru/*
 *://*.creative-python.com/*
@@ -334,6 +333,7 @@
 *://*.hdsac.net/*
 *://*.hebeicrovell.com/*
 *://*.hejabtextile.com/*
+*://*.hermexint.com/*
 *://*.herzallah.ps/*
 *://*.hibank24.ir/*
 *://*.hong-union.com/*
@@ -709,6 +709,7 @@
 *://*.russianstandard.com/*
 *://*.rvc.ru/*
 *://*.sadaf-cb.com/*
+*://*.sadafexchange.com/*
 *://*.sadra.ir/*
 *://*.sahab.ir/*
 *://*.saharathunder.com/*
