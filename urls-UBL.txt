@@ -83,6 +83,7 @@
 *://*.arvandpvc.ir/*
 *://*.aryasasol.com/*
 *://*.asbgroup.com.tr/*
+*://*.ascentgeneralinsurance.com/*
 *://*.asealu.com/*
 *://*.asiafuel.net/*
 *://*.atlasdoviz.com/*

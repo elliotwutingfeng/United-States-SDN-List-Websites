@@ -28,6 +28,7 @@
 ||aquanikacompany.ru^$all
 ||arrai.tv^$all
 ||artual.co^$all
+||ascentgeneralinsurance.com^$all
 ||asiafuel.net^$all
 ||barkatventures.com^$all
 ||begemot.media^$all
