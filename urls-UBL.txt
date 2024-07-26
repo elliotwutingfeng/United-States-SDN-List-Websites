@@ -42,6 +42,7 @@
 *://*.alinmaa-group.com/*
 *://*.alinmaa.com.lb/*
 *://*.allianceenergy.pk/*
+*://*.alliancefleuvecongo.org/*
 *://*.almahdi.ir/*
 *://*.almanar.com.lb/*
 *://*.almaz-kb.ru/*

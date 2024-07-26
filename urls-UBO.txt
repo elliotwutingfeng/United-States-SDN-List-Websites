@@ -14,6 +14,7 @@
 ||alhadhagroup.com^$all
 ||aliafco.com^$all
 ||allianceenergy.pk^$all
+||alliancefleuvecongo.org^$all
 ||almahdi.ir^$all
 ||alquds-city.com^$all
 ||alquds-online.org^$all
