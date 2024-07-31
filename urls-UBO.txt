@@ -32,6 +32,7 @@
 ||ascentgeneralinsurance.com^$all
 ||asiafuel.net^$all
 ||barkatventures.com^$all
+||bbe.ir^$all
 ||begemot.media^$all
 ||best2pay.net^$all
 ||biopharmist.com^$all
@@ -42,6 +43,7 @@
 ||bonrailco.ir^$all
 ||bookstarrtion.online^$all
 ||burgaz.gazprom.ru^$all
+||buybestelectronic.com^$all
 ||bveb.by^$all
 ||cdredos.site^$all
 ||celulandiatallerstore.negocio.site^$all
@@ -340,6 +342,7 @@
 ||swaidexchange.com^$all
 ||t-platforms.ru^$all
 ||t1.ru^$all
+||tas-tek.com^$all
 ||tdday.ir^$all
 ||tdpmolds.com^$all
 ||tehranprisons.ir^$all
@@ -862,6 +865,8 @@
 ||www.rfabank.ru^$all
 ||www.rfpc.ir^$all
 ||www.rgsbank.ru^$all
+||www.rion-tech.net^$all
+||www.rionsystem.com^$all
 ||www.ritmeurasia.org^$all
 ||www.rncb.ru^$all
 ||www.rnt.ru^$all

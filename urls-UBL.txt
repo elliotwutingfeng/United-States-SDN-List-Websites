@@ -112,6 +112,7 @@
 *://*.banksepah.de/*
 *://*.banksepah.ir/*
 *://*.barkatventures.com/*
+*://*.bbe.ir/*
 *://*.bcco.co/*
 *://*.begemot.media/*
 *://*.behranoil.co/*
@@ -151,6 +152,7 @@
 *://*.btc.co.ir/*
 *://*.burgaz.ru/*
 *://*.business.site/*
+*://*.buybestelectronic.com/*
 *://*.bveb.by/*
 *://*.bystrobank.ru/*
 *://*.bzpc.ir/*
@@ -687,6 +689,8 @@
 *://*.rfabank.ru/*
 *://*.rfpc.ir/*
 *://*.rgsbank.ru/*
+*://*.rion-tech.net/*
+*://*.rionsystem.com/*
 *://*.ritmeurasia.org/*
 *://*.rivierasunrise.com/*
 *://*.rncb.ru/*
@@ -861,6 +865,7 @@
 *://*.tajcogambia.com/*
 *://*.taloon.ir/*
 *://*.tarasteel.com/*
+*://*.tas-tek.com/*
 *://*.tasnimnews.com/*
 *://*.tcbank.by/*
 *://*.tdday.ir/*
