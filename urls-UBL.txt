@@ -858,6 +858,7 @@
 *://*.t-rubber.com/*
 *://*.t1.ru/*
 *://*.tabchem.ir/*
+*://*.tabesa.com.py/*
 *://*.tadbirbroker.com/*
 *://*.tadbirdrilling.com/*
 *://*.tadbirenergy.com/*

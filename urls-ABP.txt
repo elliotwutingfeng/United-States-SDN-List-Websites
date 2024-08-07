@@ -955,6 +955,7 @@
 ||www.sz-alloy.com^
 ||www.t-rubber.com^
 ||www.tabchem.ir^
+||www.tabesa.com.py^
 ||www.tadbirbroker.com^
 ||www.tadbirdrilling.com^
 ||www.tadbirenergy.com^
