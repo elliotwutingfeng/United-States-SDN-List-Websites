@@ -1015,6 +1015,7 @@
 ||www.virgo-marine.com^
 ||www.vniigaz.ru^
 ||www.vostochniy-capital.ru^
+||www.vpk.gov.by^
 ||www.vtb-bank.by^
 ||www.vtb-leasing.ru^
 ||www.vtb.am^

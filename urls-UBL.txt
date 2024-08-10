@@ -948,6 +948,7 @@
 *://*.vniigaz.ru/*
 *://*.vostobank.ru/*
 *://*.vostochniy-capital.ru/*
+*://*.vpk.gov.by/*
 *://*.vrbank.com.vn/*
 *://*.vtb-bank.by/*
 *://*.vtb-bank.kz/*
