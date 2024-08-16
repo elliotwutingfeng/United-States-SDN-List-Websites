@@ -198,6 +198,7 @@
 ||mostro.ru^
 ||mriyaresort.com^
 ||myaviation.biz^
+||mytransmarine.com^
 ||nabco-ye.com^
 ||nabu-leaks.com^
 ||nabu-leaks.info^
@@ -676,6 +677,7 @@
 ||www.kerchport.com^
 ||www.keylinkwireless.com^
 ||www.kfcc.com.cn^
+||www.kfdgeneraltrading.com^
 ||www.khadijasm.com^
 ||www.khaitiholding.com^
 ||www.khargpetrochemical.com^
@@ -788,6 +790,7 @@
 ||www.omaday.ir^
 ||www.omidrey.com^
 ||www.onegastar.ru^
+||www.onxtrading.com^
 ||www.ooosgm.com^
 ||www.ooosgm.ru^
 ||www.open.ru^

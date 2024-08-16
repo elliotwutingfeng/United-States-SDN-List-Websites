@@ -419,6 +419,7 @@
 *://*.kes.co.ir/*
 *://*.keylinkwireless.com/*
 *://*.kfcc.com.cn/*
+*://*.kfdgeneraltrading.com/*
 *://*.kfins.ru/*
 *://*.khadijasm.com/*
 *://*.khaitiholding.com/*
@@ -533,6 +534,7 @@
 *://*.mtsbank.ru/*
 *://*.mut.ac.ir/*
 *://*.myaviation.biz/*
+*://*.mytransmarine.com/*
 *://*.nabco-ye.com/*
 *://*.nabu-leaks.com/*
 *://*.nabu-leaks.info/*
@@ -592,6 +594,7 @@
 *://*.onegastar.ru/*
 *://*.onerearth.xyz/*
 *://*.onmedia.io/*
+*://*.onxtrading.com/*
 *://*.ooosgm.com/*
 *://*.ooosgm.ru/*
 *://*.open.ru/*
