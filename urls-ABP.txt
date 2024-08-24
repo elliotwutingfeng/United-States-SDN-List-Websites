@@ -3,10 +3,12 @@
 ||911.af^
 ||abdulkarimgroup.com^
 ||abr.ru^
+||afinor.biz^
 ||air-burg.ru^
 ||al-nour.net^
 ||aladham-exchange.com.sy^
 ||alameyahexpress-ye.com^
+||alfa-instr.ru^
 ||alfabank.com^
 ||alfabank.ru^
 ||alfadelex.com^
@@ -59,6 +61,7 @@
 ||cnpo.ru^
 ||co.chesin.com^
 ||comitet.su^
+||comscan.ru^
 ||consol-stroi.ru^
 ||consolstroy.ru^
 ||council.gov.ru^
@@ -82,6 +85,7 @@
 ||dongchuangchem.com^
 ||dorstroycom.ru^
 ||ebonet.net^
+||element-msc.ru^
 ||elgoliat.com.ni^
 ||eluent.ru^
 ||emtp.com.ua^
@@ -91,6 +95,7 @@
 ||en.vtb.az^
 ||energyglobal.info^
 ||eramedia.com.ua^
+||etm-p.ru^
 ||exiar.ru^
 ||eximbank.ru^
 ||exportcenter.ru^
@@ -117,6 +122,7 @@
 ||gge.ru^
 ||gicdf.org^
 ||giesgroup.com^
+||gkmotor.com^
 ||global-key.ru^
 ||globalrc.net^
 ||globalvisiness.com^
@@ -197,6 +203,7 @@
 ||morskoybank.com^
 ||mostro.ru^
 ||mriyaresort.com^
+||mtronics.ru^
 ||myaviation.biz^
 ||mytransmarine.com^
 ||nabco-ye.com^
@@ -253,6 +260,7 @@
 ||qinvictory.com^
 ||quarta.su^
 ||quartierlatinapartments.com^
+||rairi.frccsc.ru^
 ||rambler.ru^
 ||raspletin.ru^
 ||rivierasunrise.com^
@@ -349,6 +357,7 @@
 ||tehranprisons.ir^
 ||tempbank.ru^
 ||terra.net.lb^
+||tesart.ru^
 ||theoxytech.com^
 ||therealrc.com^
 ||theyangonrestaurant.com^
@@ -377,11 +386,13 @@
 ||vela-marine.ru^
 ||vniigaz.gazprom.ru^
 ||vostobank.ru^
+||vostok-kb.ru^
 ||vrbank.com.vn^
 ||vtbcapital.com^
 ||waatasemu.org^
 ||waatasemu.org.ly^
 ||wmi.midhco.com^
+||www.4test.ru^
 ||www.aaestudioarquitectonico.com^
 ||www.abr.ru^
 ||www.absolutbank.by^
@@ -621,6 +632,7 @@
 ||www.icgoo.net^
 ||www.iciiclab.com^
 ||www.icioc.ir^
+||www.idronaut.it^
 ||www.iedc.ir^
 ||www.ieicorp.com^
 ||www.ieimil.ir^
@@ -780,6 +792,7 @@
 ||www.nsd.ru^
 ||www.nsg-ins.ru^
 ||www.nskbl.ru^
+||www.oceanen-tech.com^
 ||www.oceanos.ru^
 ||www.oceanpribor.ru^
 ||www.odk.ru^
@@ -993,6 +1006,7 @@
 ||www.transgulfagency.ae^
 ||www.transmartdmcc.com^
 ||www.trendgyo.com.tr^
+||www.trv-e.ru^
 ||www.ttbank.ir^
 ||www.ubrr.ru^
 ||www.uec-saturn.ru^

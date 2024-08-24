@@ -3,10 +3,12 @@
 ||911.af^$all
 ||abdulkarimgroup.com^$all
 ||abr.ru^$all
+||afinor.biz^$all
 ||air-burg.ru^$all
 ||al-nour.net^$all
 ||aladham-exchange.com.sy^$all
 ||alameyahexpress-ye.com^$all
+||alfa-instr.ru^$all
 ||alfabank.com^$all
 ||alfabank.ru^$all
 ||alfadelex.com^$all
@@ -59,6 +61,7 @@
 ||cnpo.ru^$all
 ||co.chesin.com^$all
 ||comitet.su^$all
+||comscan.ru^$all
 ||consol-stroi.ru^$all
 ||consolstroy.ru^$all
 ||council.gov.ru^$all
@@ -82,6 +85,7 @@
 ||dongchuangchem.com^$all
 ||dorstroycom.ru^$all
 ||ebonet.net^$all
+||element-msc.ru^$all
 ||elgoliat.com.ni^$all
 ||eluent.ru^$all
 ||emtp.com.ua^$all
@@ -91,6 +95,7 @@
 ||en.vtb.az^$all
 ||energyglobal.info^$all
 ||eramedia.com.ua^$all
+||etm-p.ru^$all
 ||exiar.ru^$all
 ||eximbank.ru^$all
 ||exportcenter.ru^$all
@@ -117,6 +122,7 @@
 ||gge.ru^$all
 ||gicdf.org^$all
 ||giesgroup.com^$all
+||gkmotor.com^$all
 ||global-key.ru^$all
 ||globalrc.net^$all
 ||globalvisiness.com^$all
@@ -197,6 +203,7 @@
 ||morskoybank.com^$all
 ||mostro.ru^$all
 ||mriyaresort.com^$all
+||mtronics.ru^$all
 ||myaviation.biz^$all
 ||mytransmarine.com^$all
 ||nabco-ye.com^$all
@@ -253,6 +260,7 @@
 ||qinvictory.com^$all
 ||quarta.su^$all
 ||quartierlatinapartments.com^$all
+||rairi.frccsc.ru^$all
 ||rambler.ru^$all
 ||raspletin.ru^$all
 ||rivierasunrise.com^$all
@@ -349,6 +357,7 @@
 ||tehranprisons.ir^$all
 ||tempbank.ru^$all
 ||terra.net.lb^$all
+||tesart.ru^$all
 ||theoxytech.com^$all
 ||therealrc.com^$all
 ||theyangonrestaurant.com^$all
@@ -377,11 +386,13 @@
 ||vela-marine.ru^$all
 ||vniigaz.gazprom.ru^$all
 ||vostobank.ru^$all
+||vostok-kb.ru^$all
 ||vrbank.com.vn^$all
 ||vtbcapital.com^$all
 ||waatasemu.org^$all
 ||waatasemu.org.ly^$all
 ||wmi.midhco.com^$all
+||www.4test.ru^$all
 ||www.aaestudioarquitectonico.com^$all
 ||www.abr.ru^$all
 ||www.absolutbank.by^$all
@@ -621,6 +632,7 @@
 ||www.icgoo.net^$all
 ||www.iciiclab.com^$all
 ||www.icioc.ir^$all
+||www.idronaut.it^$all
 ||www.iedc.ir^$all
 ||www.ieicorp.com^$all
 ||www.ieimil.ir^$all
@@ -780,6 +792,7 @@
 ||www.nsd.ru^$all
 ||www.nsg-ins.ru^$all
 ||www.nskbl.ru^$all
+||www.oceanen-tech.com^$all
 ||www.oceanos.ru^$all
 ||www.oceanpribor.ru^$all
 ||www.odk.ru^$all
@@ -993,6 +1006,7 @@
 ||www.transgulfagency.ae^$all
 ||www.transmartdmcc.com^$all
 ||www.trendgyo.com.tr^$all
+||www.trv-e.ru^$all
 ||www.ttbank.ir^$all
 ||www.ubrr.ru^$all
 ||www.uec-saturn.ru^$all

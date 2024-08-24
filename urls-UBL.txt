@@ -1,5 +1,6 @@
 *://*.0day.llc/*
 *://*.3data.ru/*
+*://*.4test.ru/*
 *://*.911.af/*
 *://*.aaestudioarquitectonico.com/*
 *://*.abdulkarimgroup.com/*
@@ -13,6 +14,7 @@
 *://*.aeoi.org.ir/*
 *://*.aerosila.ru/*
 *://*.aerskyone.com/*
+*://*.afinor.biz/*
 *://*.ag-nord.ru/*
 *://*.agdbank.com/*
 *://*.agri-bank.com/*
@@ -33,6 +35,7 @@
 *://*.alamir-lb.com/*
 *://*.aldarproperties.qa/*
 *://*.aleseb.com/*
+*://*.alfa-instr.ru/*
 *://*.alfabank.com/*
 *://*.alfabank.ru/*
 *://*.alfadelex.com/*
@@ -188,6 +191,7 @@
 *://*.cniihm.ru/*
 *://*.cnpo.ru/*
 *://*.comitet.su/*
+*://*.comscan.ru/*
 *://*.congofutur.com/*
 *://*.consol-stroi.ru/*
 *://*.consolstroy.ru/*
@@ -239,6 +243,7 @@
 *://*.eihbank.de/*
 *://*.ekt2.com/*
 *://*.element-capital.com/*
+*://*.element-msc.ru/*
 *://*.elemento.com.mt/*
 *://*.elgoliat.com.ni/*
 *://*.elitdiamond.net/*
@@ -255,6 +260,7 @@
 *://*.esata.ir/*
 *://*.esfahansteel.ir/*
 *://*.esfst.com/*
+*://*.etm-p.ru/*
 *://*.exiar.ru/*
 *://*.eximbank.ru/*
 *://*.expobank.ru/*
@@ -275,6 +281,7 @@
 *://*.forsys.ru/*
 *://*.forwarderz.com/*
 *://*.fossilcontracting.org/*
+*://*.frccsc.ru/*
 *://*.fsday.ir/*
 *://*.futurebank.com.bh/*
 *://*.fznc.world/*
@@ -297,6 +304,7 @@
 *://*.ghbi.ir/*
 *://*.gicdf.org/*
 *://*.giesgroup.com/*
+*://*.gkmotor.com/*
 *://*.global-key.ru/*
 *://*.globalimporter.net/*
 *://*.globalrc.net/*
@@ -352,6 +360,7 @@
 *://*.iciiclab.com/*
 *://*.icioc.ir/*
 *://*.ideascup.me/*
+*://*.idronaut.it/*
 *://*.iedc.ir/*
 *://*.ieicorp.com/*
 *://*.ieimil.ir/*
@@ -531,6 +540,7 @@
 *://*.msc.ir/*
 *://*.msd.co.za/*
 *://*.mse-overseas.com/*
+*://*.mtronics.ru/*
 *://*.mtsbank.ru/*
 *://*.mut.ac.ir/*
 *://*.myaviation.biz/*
@@ -580,6 +590,7 @@
 *://*.nskbl.ru/*
 *://*.nstri.ir/*
 *://*.nsvet.com.ua/*
+*://*.oceanen-tech.com/*
 *://*.oceanos.ru/*
 *://*.oceanpribor.ru/*
 *://*.odk.ru/*
@@ -883,6 +894,7 @@
 *://*.tempbank.ru/*
 *://*.tequilaonze.com/*
 *://*.terra.net.lb/*
+*://*.tesart.ru/*
 *://*.theoxytech.com/*
 *://*.therealrc.com/*
 *://*.theyangonrestaurant.com/*
@@ -910,6 +922,7 @@
 *://*.transmartdmcc.com/*
 *://*.trendgyo.com.tr/*
 *://*.tribit.ru/*
+*://*.trv-e.ru/*
 *://*.ttbank.ir/*
 *://*.tula.net/*
 *://*.tuta.io/*
@@ -951,6 +964,7 @@
 *://*.vniigaz.ru/*
 *://*.vostobank.ru/*
 *://*.vostochniy-capital.ru/*
+*://*.vostok-kb.ru/*
 *://*.vpk.gov.by/*
 *://*.vrbank.com.vn/*
 *://*.vtb-bank.by/*
