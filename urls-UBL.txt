@@ -64,6 +64,7 @@
 *://*.amsterdamtradebank.com/*
 *://*.analogtechnology.net/*
 *://*.ankaport-tr.com/*
+*://*.anodialog.ru/*
 *://*.ansarbank.com/*
 *://*.ansarexchange.ir/*
 *://*.anti-global.ru/*
@@ -223,6 +224,8 @@
 *://*.dbosaas.ru/*
 *://*.dec.ir/*
 *://*.des.com.tw/*
+*://*.dialog-regions.ru/*
+*://*.dialog.info/*
 *://*.didaaaa.com/*
 *://*.dirac-tech.com/*
 *://*.dlmm.com.cn/*

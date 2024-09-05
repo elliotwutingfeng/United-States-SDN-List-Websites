@@ -437,6 +437,7 @@
 ||www.amsterdamtradebank.com^$all
 ||www.analogtechnology.net^$all
 ||www.ankaport-tr.com^$all
+||www.anodialog.ru^$all
 ||www.ansarbank.com^$all
 ||www.ao-star.ru^$all
 ||www.aqsatv.ps^$all
@@ -549,6 +550,8 @@
 ||www.dayexchange.ir^$all
 ||www.dec.ir^$all
 ||www.des.com.tw^$all
+||www.dialog-regions.ru^$all
+||www.dialog.info^$all
 ||www.didaaaa.com^$all
 ||www.dnppetronic.com.ni^$all
 ||www.dpi-co.ir^$all
