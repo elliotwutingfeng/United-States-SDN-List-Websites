@@ -274,6 +274,7 @@
 *://*.famintrading.com/*
 *://*.fanamoj.com/*
 *://*.farsnews.ir/*
+*://*.farzaneganpb.com/*
 *://*.feodosia.com.ua/*
 *://*.ferrogilan.com/*
 *://*.fiib.com.my/*

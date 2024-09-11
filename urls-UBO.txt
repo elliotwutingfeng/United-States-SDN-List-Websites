@@ -103,6 +103,7 @@
 ||fadicogroup.com^$all
 ||famintrading.com^$all
 ||fanamoj.com^$all
+||farzaneganpb.com^$all
 ||fintender.ru^$all
 ||fkutaman.ru^$all
 ||fondvostok.ru^$all
