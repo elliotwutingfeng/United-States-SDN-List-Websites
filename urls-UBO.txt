@@ -628,6 +628,8 @@
 ||www.hebeicrovell.com^$all
 ||www.herzallah.ps^$all
 ||www.hibank24.ir^$all
+||www.hiflb.com^$all
+||www.hodico.com^$all
 ||www.hong-union.com^$all
 ||www.hormoz-fc.com^$all
 ||www.hotelito.com^$all

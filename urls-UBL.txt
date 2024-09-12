@@ -352,6 +352,8 @@
 *://*.hermexint.com/*
 *://*.herzallah.ps/*
 *://*.hibank24.ir/*
+*://*.hiflb.com/*
+*://*.hodico.com/*
 *://*.hong-union.com/*
 *://*.hormoz-fc.com/*
 *://*.hotelastorres.com/*
