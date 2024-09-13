@@ -115,6 +115,7 @@
 ||g3n3sis.org^$all
 ||g3n3sis.pro^$all
 ||garantex.io^$all
+||gardencityhotel.com.kh^$all
 ||genbank.ru^$all
 ||generative.ir^$all
 ||genesis.market^$all
@@ -164,6 +165,7 @@
 ||kibank.ru^$all
 ||kk-pu.com^$all
 ||kmolz.ru^$all
+||kohkongresort.com^$all
 ||kpars.ir^$all
 ||kps-co.com^$all
 ||kpsk-ins.ru^$all
@@ -248,6 +250,7 @@
 ||peykasa.com^$all
 ||peykasa.ir^$all
 ||pgapco.ir^$all
+||phnompenhhotel.com^$all
 ||pib.ua^$all
 ||picreadi.com^$all
 ||picreadi.ru^$all
@@ -590,6 +593,7 @@
 ||www.forsys.ru^$all
 ||www.fossilcontracting.org^$all
 ||www.futurebank.com.bh^$all
+||www.gardencityhotel.com.kh^$all
 ||www.gatewick.com^$all
 ||www.gbpc.net^$all
 ||www.gchfinland.fi^$all
@@ -725,6 +729,7 @@
 ||www.lolalolita.com^$all
 ||www.lontek.cn^$all
 ||www.lordegan.co^$all
+||www.lypgroup.com^$all
 ||www.m23mars.org^$all
 ||www.madkandaloo.com^$all
 ||www.manartv.com^$all
@@ -847,6 +852,7 @@
 ||www.pgpicc.com^$all
 ||www.pgsoc.ir^$all
 ||www.phiolent.com^$all
+||www.phnompenhhotel.com^$all
 ||www.pidmco.ir^$all
 ||www.pishrowiran.ir^$all
 ||www.plazavirreyes.com^$all
