@@ -545,6 +545,7 @@
 *://*.morskoybank.com/*
 *://*.mostro.ru/*
 *://*.mpc.ir/*
+*://*.mrb-bank.ru/*
 *://*.mriyaresort.com/*
 *://*.msc.ir/*
 *://*.msd.co.za/*
@@ -913,6 +914,7 @@
 *://*.ticketpremier.mx/*
 *://*.tidewaterco.com/*
 *://*.tidewaterco.ir/*
+*://*.timerbank.ru/*
 *://*.tinkoff.ru/*
 *://*.tiscali.net/*
 *://*.tkbbank.com/*
