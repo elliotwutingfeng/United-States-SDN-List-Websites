@@ -66,6 +66,7 @@
 ||consolstroy.ru^$all
 ||council.gov.ru^$all
 ||crb-dnr.ru^$all
+||cryptex.net^$all
 ||ctr-co.com^$all
 ||daa.computer^$all
 ||dafos1990.business.site^$all

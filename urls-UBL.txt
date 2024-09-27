@@ -202,6 +202,7 @@
 *://*.crimea.com/*
 *://*.crimearw.ru/*
 *://*.cryogenmash.ru/*
+*://*.cryptex.net/*
 *://*.csc-sb.hr/*
 *://*.ctexlb.com/*
 *://*.ctr-co.com/*
