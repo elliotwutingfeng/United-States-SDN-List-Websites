@@ -664,7 +664,6 @@
 *://*.pgsoc.ir/*
 *://*.phiolent.com/*
 *://*.phnompenhhotel.com/*
-*://*.pib.ua/*
 *://*.picreadi.com/*
 *://*.picreadi.ru/*
 *://*.pidmco.ir/*

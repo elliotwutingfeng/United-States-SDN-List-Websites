@@ -253,7 +253,6 @@
 ||peykasa.ir^$all
 ||pgapco.ir^$all
 ||phnompenhhotel.com^$all
-||pib.ua^$all
 ||picreadi.com^$all
 ||picreadi.ru^$all
 ||pishro-tejarat.com^$all
