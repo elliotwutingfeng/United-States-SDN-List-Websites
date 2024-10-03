@@ -417,6 +417,7 @@
 *://*.jalili.ir/*
 *://*.jambanyani.com/*
 *://*.janskinmn.lol/*
+*://*.jhcircuits.com/*
 *://*.jhminshengpm.com/*
 *://*.jotrin.com/*
 *://*.journal-neo.org/*

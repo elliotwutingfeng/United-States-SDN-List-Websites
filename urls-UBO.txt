@@ -686,6 +686,7 @@
 ||www.izmdc.com^$all
 ||www.jalili.ir^$all
 ||www.jambanyani.com^$all
+||www.jhcircuits.com^$all
 ||www.jhminshengpm.com^$all
 ||www.jotrin.com^$all
 ||www.jp-adv.com^$all
