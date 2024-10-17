@@ -129,6 +129,7 @@
 ||global-key.ru^
 ||globalrc.net^
 ||globalvisiness.com^
+||gmfarmco.com^
 ||golfrate.com^
 ||golfrateangola.com^
 ||gomei.com.hk^

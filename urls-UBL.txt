@@ -316,6 +316,7 @@
 *://*.globalrc.net/*
 *://*.globaltradinggroup.com/*
 *://*.globalvisiness.com/*
+*://*.gmfarmco.com/*
 *://*.gmiprojects.de/*
 *://*.gmships.com/*
 *://*.goklergroup.com/*
