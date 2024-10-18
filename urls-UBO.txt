@@ -464,7 +464,6 @@
 ||www.aryasasol.com^$all
 ||www.asbgroup.com.tr^$all
 ||www.asealu.com^$all
-||www.atlasdoviz.com^$all
 ||www.atlassarafi.com^$all
 ||www.atomyze.ru^$all
 ||www.atunchemical.com^$all
@@ -565,6 +564,7 @@
 ||www.dscmmc.com^$all
 ||www.duma.gov.ru^$all
 ||www.eastasiatrading.net^$all
+||www.ecomaxtrade.com^$all
 ||www.edbi.ir^$all
 ||www.egsepehr.com^$all
 ||www.egsepehr.ir^$all
@@ -651,6 +651,7 @@
 ||www.ieimil.ir^$all
 ||www.ifdk.com^$all
 ||www.igisco.com^$all
+||www.igsm.ae^$all
 ||www.ihu.ac.ir^$all
 ||www.iib.int^$all
 ||www.ilampetro.com^$all

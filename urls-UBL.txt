@@ -91,7 +91,6 @@
 *://*.ascentgeneralinsurance.com/*
 *://*.asealu.com/*
 *://*.asiafuel.net/*
-*://*.atlasdoviz.com/*
 *://*.atlassarafi.com/*
 *://*.atomyze.ru/*
 *://*.atunchemical.com/*
@@ -241,6 +240,7 @@
 *://*.eastasiatrading.net/*
 *://*.ebonet.net/*
 *://*.echelon.ru/*
+*://*.ecomaxtrade.com/*
 *://*.edbi.ir/*
 *://*.egsepehr.com/*
 *://*.egsepehr.ir/*
@@ -375,6 +375,7 @@
 *://*.ieimil.ir/*
 *://*.ifdk.com/*
 *://*.igisco.com/*
+*://*.igsm.ae/*
 *://*.ihu.ac.ir/*
 *://*.iib.int/*
 *://*.ilampetro.com/*
