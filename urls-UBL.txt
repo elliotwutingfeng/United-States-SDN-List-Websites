@@ -60,6 +60,7 @@
 *://*.alzarooniexchange.ae/*
 *://*.amanuf.ru/*
 *://*.aminib.com/*
+*://*.amlogistics.ru/*
 *://*.amnafzar.com/*
 *://*.amsterdamtradebank.com/*
 *://*.analogtechnology.net/*
@@ -99,7 +100,9 @@
 *://*.avangard-plastik.ru/*
 *://*.avangard.ru/*
 *://*.avia-group.su/*
+*://*.avinextech.com/*
 *://*.awex.pro/*
+*://*.aytcnc.com/*
 *://*.b-crypto.ru/*
 *://*.baikalinc.ru/*
 *://*.bakeandkitchen.com/*
@@ -151,6 +154,7 @@
 *://*.bpi.ir/*
 *://*.bps-sberbank.by/*
 *://*.bricinmobiliaria.com/*
+*://*.brklogistics.com/*
 *://*.bspb.ru/*
 *://*.btc.co.ir/*
 *://*.burgaz.ru/*
@@ -338,6 +342,7 @@
 *://*.grupoepta.com/*
 *://*.gsk-sd.com/*
 *://*.guanlang-group.com/*
+*://*.guhring.ru/*
 *://*.gwt.com.my/*
 *://*.gzgomei.cn/*
 *://*.gzsc.ir/*
@@ -383,6 +388,7 @@
 *://*.imsengco.com/*
 *://*.inb.ps/*
 *://*.industrialbank.gov.sy/*
+*://*.inekocom.ru/*
 *://*.inforion.ru/*
 *://*.inforos.ru/*
 *://*.intajia.sy/*
@@ -504,6 +510,7 @@
 *://*.med-obd.com/*
 *://*.med-std.ru/*
 *://*.medpacking.com/*
+*://*.mega-chips.cn/*
 *://*.mehdishipping.com/*
 *://*.mehdishipping.net/*
 *://*.mehrpc.com/*
@@ -521,6 +528,7 @@
 *://*.mfk-bank.ru/*
 *://*.mibic.ir/*
 *://*.mic-ir.com/*
+*://*.midas-lighting.cn/*
 *://*.midasrs.com/*
 *://*.middleeastbank.ir/*
 *://*.midhco.com/*
@@ -538,6 +546,7 @@
 *://*.mobinogp.com/*
 *://*.mobinpc.net/*
 *://*.modulbank.ru/*
+*://*.modulsan.com/*
 *://*.moex.com/*
 *://*.mofa.lat/*
 *://*.mopmr.gov.sy/*
@@ -751,6 +760,7 @@
 *://*.salavathz.ru/*
 *://*.salcocompany.com/*
 *://*.sanabel.org.uk/*
+*://*.sanlitun.com.tr/*
 *://*.sapa.ir/*
 *://*.sapidshpg.com/*
 *://*.saraproperties.co.uk/*
@@ -812,10 +822,13 @@
 *://*.sinbad.io/*
 *://*.sinbadiovklgdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion/*
 *://*.sinko-bank.ru/*
+*://*.sinnoelec.com/*
+*://*.sinnogroup.ru/*
 *://*.sinocnc.com.cn/*
 *://*.sinocpa.com/*
 *://*.sjsco.ir/*
 *://*.skynet.be/*
+*://*.sld-logistics.org/*
 *://*.smilebitcard.com/*
 *://*.smilepayments.com/*
 *://*.smiletechnologies.com.ar/*
@@ -954,6 +967,7 @@
 *://*.unitedgservice.com/*
 *://*.unitedworldint.com/*
 *://*.univestltd.com/*
+*://*.upt.ru/*
 *://*.uralsib.ru/*
 *://*.uranis.net/*
 *://*.urpcc.ir/*

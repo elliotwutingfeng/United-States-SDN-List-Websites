@@ -21,6 +21,7 @@
 ||alquds-city.com^$all
 ||alquds-online.org^$all
 ||amanuf.ru^$all
+||amlogistics.ru^$all
 ||amnafzar.com^$all
 ||annaboylechem.globalimporter.net^$all
 ||ansarexchange.ir^$all
@@ -33,6 +34,7 @@
 ||artual.co^$all
 ||ascentgeneralinsurance.com^$all
 ||asiafuel.net^$all
+||avinextech.com^$all
 ||barkatventures.com^$all
 ||bbe.ir^$all
 ||begemot.media^$all
@@ -194,6 +196,7 @@
 ||med-std.ru^$all
 ||mehdishipping.com^$all
 ||mexpackingsolutions.com^$all
+||midas-lighting.cn^$all
 ||ministeriopublico.gob.ni^$all
 ||miran.ru^$all
 ||mksofttech.com^$all
@@ -318,8 +321,11 @@
 ||sinacomposite.com^$all
 ||sinbad.io^$all
 ||sinbadiovklgdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion^$all
+||sinnoelec.com^$all
+||sinnogroup.ru^$all
 ||sinocpa.com^$all
 ||skynet.be^$all
+||sld-logistics.org^$all
 ||smilebitcard.com^$all
 ||smilepayments.com^$all
 ||smokeyschemsite.com^$all
@@ -383,6 +389,7 @@
 ||unicious.com^$all
 ||unijet.ru^$all
 ||univestltd.com^$all
+||upt.ru^$all
 ||uranis.net^$all
 ||utekcomposite.com^$all
 ||veb-leasing.ru^$all
@@ -473,6 +480,7 @@
 ||www.avangard.ru^$all
 ||www.avia-group.su^$all
 ||www.awex.pro^$all
+||www.aytcnc.com^$all
 ||www.b-crypto.ru^$all
 ||www.baikalinc.ru^$all
 ||www.bakeandkitchen.com^$all
@@ -513,6 +521,7 @@
 ||www.bpi.ir^$all
 ||www.bps-sberbank.by^$all
 ||www.bricinmobiliaria.com^$all
+||www.brklogistics.com^$all
 ||www.bspb.ru^$all
 ||www.btc.co.ir^$all
 ||www.burgaz.ru^$all
@@ -624,6 +633,7 @@
 ||www.grupoepta.com^$all
 ||www.gsk-sd.com^$all
 ||www.guanlang-group.com^$all
+||www.guhring.ru^$all
 ||www.gzsc.ir^$all
 ||www.haleel.co^$all
 ||www.hals-development.ru^$all
@@ -659,6 +669,7 @@
 ||www.imsengco.com^$all
 ||www.inb.ps^$all
 ||www.industrialbank.gov.sy^$all
+||www.inekocom.ru^$all
 ||www.investcapitalbank.ru^$all
 ||www.investinrussia.com^$all
 ||www.iranair.co.ir^$all
@@ -748,6 +759,7 @@
 ||www.mebank.ir^$all
 ||www.med-obd.com^$all
 ||www.medpacking.com^$all
+||www.mega-chips.cn^$all
 ||www.mehdishipping.net^$all
 ||www.mehrpc.com^$all
 ||www.mekpco.com^$all
@@ -774,6 +786,7 @@
 ||www.mkb.ru^$all
 ||www.mobinogp.com^$all
 ||www.mobinpc.net^$all
+||www.modulsan.com^$all
 ||www.moex.com^$all
 ||www.morganme.com^$all
 ||www.morskoybank.com^$all
@@ -920,6 +933,7 @@
 ||www.saidshuhada.com^$all
 ||www.salavathz.ru^$all
 ||www.sanabel.org.uk^$all
+||www.sanlitun.com.tr^$all
 ||www.sapidshpg.com^$all
 ||www.saraproperties.co.uk^$all
 ||www.sayehbansepehr.com^$all
