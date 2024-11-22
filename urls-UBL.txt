@@ -3,6 +3,7 @@
 *://*.4test.ru/*
 *://*.911.af/*
 *://*.aaestudioarquitectonico.com/*
+*://*.abank.ru/*
 *://*.abdulkarimgroup.com/*
 *://*.abr.ru/*
 *://*.absolutbank.by/*
@@ -19,12 +20,15 @@
 *://*.agdbank.com/*
 *://*.agri-bank.com/*
 *://*.agrobank.gov.sy/*
+*://*.agroros.ru/*
 *://*.aictc.ir/*
 *://*.aionov.ru/*
 *://*.air-burg.ru/*
 *://*.aja.ir/*
 *://*.ajmac.com/*
 *://*.akbars.ru/*
+*://*.akcept.ru/*
+*://*.akibank.ru/*
 *://*.akpc.ir/*
 *://*.aks.co.ir/*
 *://*.al-khaleejbank.com/*
@@ -35,6 +39,7 @@
 *://*.alamir-lb.com/*
 *://*.aldarproperties.qa/*
 *://*.aleseb.com/*
+*://*.alexbank.ru/*
 *://*.alfa-instr.ru/*
 *://*.alfabank.com/*
 *://*.alfabank.ru/*
@@ -65,6 +70,7 @@
 *://*.amsterdamtradebank.com/*
 *://*.analogtechnology.net/*
 *://*.ankaport-tr.com/*
+*://*.ankb.ru/*
 *://*.anodialog.ru/*
 *://*.ansarbank.com/*
 *://*.ansarexchange.ir/*
@@ -97,6 +103,7 @@
 *://*.atunchemical.com/*
 *://*.aukcion-sbrf.ru/*
 *://*.ausay.com/*
+*://*.autofinancebank.ru/*
 *://*.avangard-plastik.ru/*
 *://*.avangard.ru/*
 *://*.avia-group.su/*
@@ -108,9 +115,11 @@
 *://*.bakeandkitchen.com/*
 *://*.baltinfocom.ru/*
 *://*.bangdeyapharm.com/*
+*://*.bank-hlynov.ru/*
 *://*.bank-maskan.ir/*
 *://*.bankdabrabyt.by/*
 *://*.bankmellat.ir/*
+*://*.bankorange.ru/*
 *://*.bankpasargad.ir/*
 *://*.bankrefah.ir/*
 *://*.banksepah.co.uk/*
@@ -119,7 +128,9 @@
 *://*.banksepah.ir/*
 *://*.barkatventures.com/*
 *://*.bbe.ir/*
+*://*.bbr.ru/*
 *://*.bcco.co/*
+*://*.bcs.ru/*
 *://*.begemot.media/*
 *://*.behranoil.co/*
 *://*.behsazco.ir/*
@@ -171,10 +182,12 @@
 *://*.casagrande-mne.com/*
 *://*.catalistparsian.com/*
 *://*.cbde-liquids.co.uk/*
+*://*.ccb.ru/*
 *://*.cdredos.site/*
 *://*.cecchem.com/*
 *://*.ceiec.com/*
 *://*.cetelem.ru/*
+*://*.cfb.ru/*
 *://*.cgstc.com/*
 *://*.cgtradefze.com/*
 *://*.chadormalu.com/*
@@ -194,6 +207,7 @@
 *://*.cniieisu.ru/*
 *://*.cniihm.ru/*
 *://*.cnpo.ru/*
+*://*.coalmetbank.ru/*
 *://*.comitet.su/*
 *://*.comscan.ru/*
 *://*.congofutur.com/*
@@ -227,6 +241,7 @@
 *://*.dayexchange.ir/*
 *://*.dbosaas.ru/*
 *://*.dec.ir/*
+*://*.derzhava.ru/*
 *://*.des.com.tw/*
 *://*.dialog-regions.ru/*
 *://*.dialog.info/*
@@ -237,6 +252,7 @@
 *://*.dnp.com.ni/*
 *://*.dnppetronic.com.ni/*
 *://*.dnronline.su/*
+*://*.domrfbank.ru/*
 *://*.dongchuangchem.com/*
 *://*.dorstroycom.ru/*
 *://*.dpi-co.ir/*
@@ -258,6 +274,8 @@
 *://*.eluent.ru/*
 *://*.emtp.com.ua/*
 *://*.enbank.ir/*
+*://*.energobank.ru/*
+*://*.energotransbank.com/*
 *://*.energyglobal.info/*
 *://*.enexchanger.com/*
 *://*.enkatrade.com/*
@@ -268,8 +286,11 @@
 *://*.esata.ir/*
 *://*.esfahansteel.ir/*
 *://*.esfst.com/*
+*://*.etbank.ru/*
 *://*.etm-p.ru/*
+*://*.evrofinance.ru/*
 *://*.exiar.ru/*
+*://*.exibank.ru/*
 *://*.eximbank.ru/*
 *://*.expobank.ru/*
 *://*.exportcenter.ru/*
@@ -283,10 +304,12 @@
 *://*.feodosia.com.ua/*
 *://*.ferrogilan.com/*
 *://*.fiib.com.my/*
+*://*.finsb.ru/*
 *://*.fintender.ru/*
 *://*.fkutaman.ru/*
 *://*.fnpcc.com/*
 *://*.fondvostok.ru/*
+*://*.forabank.ru/*
 *://*.forsys.ru/*
 *://*.forwarderz.com/*
 *://*.fossilcontracting.org/*
@@ -300,6 +323,9 @@
 *://*.gardencityhotel.com.kh/*
 *://*.gatewick.com/*
 *://*.gazprom.ru/*
+*://*.gazprombank.ch/*
+*://*.gazprombank.lu/*
+*://*.gazprombank.ru/*
 *://*.gbpc.net/*
 *://*.gchfinland.fi/*
 *://*.geg.ir/*
@@ -312,6 +338,7 @@
 *://*.gge.ru/*
 *://*.ghadir-invest.com/*
 *://*.ghbi.ir/*
+*://*.gibank.ru/*
 *://*.gicdf.org/*
 *://*.giesgroup.com/*
 *://*.gkmotor.com/*
@@ -331,6 +358,8 @@
 *://*.gomei.com.hk/*
 *://*.gosbank.su/*
 *://*.gov.ru/*
+*://*.gpbame.com/*
+*://*.gpbfs.com.cy/*
 *://*.gpetroc.ir/*
 *://*.gpsm.ru/*
 *://*.gr8researchchemicals-eu.com/*
@@ -343,6 +372,7 @@
 *://*.gsk-sd.com/*
 *://*.guanlang-group.com/*
 *://*.guhring.ru/*
+*://*.gutabank.ru/*
 *://*.gwt.com.my/*
 *://*.gzgomei.cn/*
 *://*.gzsc.ir/*
@@ -408,6 +438,7 @@
 *://*.irmf.ir/*
 *://*.irmti.ir/*
 *://*.iruae.ae/*
+*://*.isbnk.org/*
 *://*.isc.co.ir/*
 *://*.isleasingco.com/*
 *://*.isotope.ir/*
@@ -416,6 +447,7 @@
 *://*.itm.co.ir/*
 *://*.itqan-realestate.com/*
 *://*.itritec.com/*
+*://*.iturupbank.ru/*
 *://*.ivbb.ir/*
 *://*.iyari.com.mx/*
 *://*.izbank.com/*
@@ -435,6 +467,7 @@
 *://*.jyalco.com/*
 *://*.kafa.crimea.ua/*
 *://*.kalco.ir/*
+*://*.kamkombank.ru/*
 *://*.karafarinbank.com/*
 *://*.katranji.com/*
 *://*.kbm.ru/*
@@ -466,9 +499,11 @@
 *://*.kpsk-ins.ru/*
 *://*.kraftway.ru/*
 *://*.kratol-aviation.ae/*
+*://*.kremlinbank.ru/*
 *://*.kret.com/*
 *://*.krimtec.com/*
 *://*.krnpc.com/*
+*://*.krona-bank.ru/*
 *://*.ksc.ir/*
 *://*.kunlunholding.com/*
 *://*.kupol.ru/*
@@ -521,6 +556,7 @@
 *://*.mellisakhteman.com/*
 *://*.metallinvestbank.ru/*
 *://*.metallurgbank.ru/*
+*://*.metcom.ru/*
 *://*.metilsteel.ir/*
 *://*.mexpacking.com/*
 *://*.mexpackingsolutions.com/*
@@ -579,6 +615,7 @@
 *://*.nascopolymers.com/*
 *://*.naver.com/*
 *://*.nbsaige.com/*
+*://*.ndb24.ru/*
 *://*.ndco.ir/*
 *://*.negocio.site/*
 *://*.neovox.ru/*
@@ -598,7 +635,9 @@
 *://*.nitc.co.ir/*
 *://*.nitcsharjah.com/*
 *://*.nitcshipping.com/*
+*://*.nkbank.ru/*
 *://*.nko-cmr.ru/*
+*://*.nmbank.ru/*
 *://*.nnov.ru/*
 *://*.novikom.ru/*
 *://*.novilabmobile.com/*
@@ -608,6 +647,9 @@
 *://*.npfsberbanka.ru/*
 *://*.npomash.ru/*
 *://*.npv.su/*
+*://*.nrb.ru/*
+*://*.ns-bank.ru/*
+*://*.nsbank.ru/*
 *://*.nsd.ru/*
 *://*.nsg-ins.ru/*
 *://*.nskbl.ru/*
@@ -619,6 +661,7 @@
 *://*.odk.ru/*
 *://*.odnarodyna.org/*
 *://*.oiic-ir.com/*
+*://*.okbank.ru/*
 *://*.oko-kb.ru/*
 *://*.oldcitykarst.ru/*
 *://*.oleinik.win/*
@@ -696,7 +739,9 @@
 *://*.primbank.ru/*
 *://*.psbank.ru/*
 *://*.pscb.ru/*
+*://*.pskb.com/*
 *://*.ptccenter.de/*
+*://*.ptkb.ru/*
 *://*.ptrco.ir/*
 *://*.ptsecurity.com/*
 *://*.ptsecurity.ru/*
@@ -715,6 +760,7 @@
 *://*.raven-black.com/*
 *://*.raybeam.cn/*
 *://*.razavi.ir/*
+*://*.rdb.ru/*
 *://*.rdif.ru/*
 *://*.redsurveyor.site/*
 *://*.reempharma.com/*
@@ -741,15 +787,18 @@
 *://*.rostfinance.ru/*
 *://*.rouhinasteel.com/*
 *://*.round.ru/*
+*://*.royal-bank.ru/*
 *://*.royalpearlchem.com/*
 *://*.rrbank.ru/*
 *://*.rsb.ru/*
+*://*.rubank.ru/*
 *://*.ruschemtrade.com/*
 *://*.rusconsult.ru/*
 *://*.rusimperia.info/*
 *://*.rusmedtorg.ru/*
 *://*.russia-now.com/*
 *://*.russianstandard.com/*
+*://*.russitabank.ru/*
 *://*.rvc.ru/*
 *://*.sadaf-cb.com/*
 *://*.sadafexchange.com/*
@@ -797,6 +846,7 @@
 *://*.selkbaf.ir/*
 *://*.septemcapital.ru/*
 *://*.sequoia.li/*
+*://*.severgazbank.ru/*
 *://*.sevmorzavod.com/*
 *://*.sfi.co.ir/*
 *://*.sgc.gov.sy/*
@@ -812,12 +862,14 @@
 *://*.shomalcement.com/*
 *://*.shsaintlog.com/*
 *://*.shvabe-oe.com/*
+*://*.siab.ru/*
 *://*.sibmoll.ru/*
 *://*.sidar-dz.com/*
 *://*.signaltec.ru/*
 *://*.sinabank.ir/*
 *://*.sinacomposite.com/*
 *://*.sinapad.ir/*
+*://*.sinara.ru/*
 *://*.sinatile.ir/*
 *://*.sinbad.io/*
 *://*.sinbadiovklgdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion/*
@@ -828,6 +880,7 @@
 *://*.sinocpa.com/*
 *://*.sjsco.ir/*
 *://*.skynet.be/*
+*://*.slaviabank.ru/*
 *://*.sld-logistics.org/*
 *://*.smilebitcard.com/*
 *://*.smilepayments.com/*
@@ -950,6 +1003,7 @@
 *://*.transmartdmcc.com/*
 *://*.trendgyo.com.tr/*
 *://*.tribit.ru/*
+*://*.trust.ru/*
 *://*.trv-e.ru/*
 *://*.ttbank.ir/*
 *://*.tula.net/*
@@ -964,10 +1018,12 @@
 *://*.unicumtrade.fi/*
 *://*.unijet.ru/*
 *://*.unistream.ru/*
+*://*.united.ru/*
 *://*.unitedgservice.com/*
 *://*.unitedworldint.com/*
 *://*.univestltd.com/*
 *://*.upt.ru/*
+*://*.uralfd.ru/*
 *://*.uralsib.ru/*
 *://*.uranis.net/*
 *://*.urpcc.ir/*
@@ -989,7 +1045,9 @@
 *://*.vela-marine.ru/*
 *://*.viam.ru/*
 *://*.viansteel.com/*
+*://*.vikingbank.ru/*
 *://*.virgo-marine.com/*
+*://*.vitabank.ru/*
 *://*.vniigaz.ru/*
 *://*.vostobank.ru/*
 *://*.vostochniy-capital.ru/*
@@ -1013,6 +1071,7 @@
 *://*.waatasemu.org/*
 *://*.waatasemu.org.ly/*
 *://*.wasteelco.com/*
+*://*.waybank.ru/*
 *://*.web3tech.ru/*
 *://*.webkamerton.ru/*
 *://*.whc.or.id/*
