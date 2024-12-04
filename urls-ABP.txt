@@ -630,6 +630,7 @@
 ||www.forsys.ru^
 ||www.fossilcontracting.org^
 ||www.futurebank.com.bh^
+||www.galileosmarine.com^
 ||www.gardencityhotel.com.kh^
 ||www.gatewick.com^
 ||www.gazprombank.ch^
@@ -777,6 +778,7 @@
 ||www.lapc.ir^
 ||www.larrycom-invest.com^
 ||www.lavinapuls.ru^
+||www.light-shipmanagement.com^
 ||www.lockobank.ru^
 ||www.lolalolita.com^
 ||www.lontek.cn^

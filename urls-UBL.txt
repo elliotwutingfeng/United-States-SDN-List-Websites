@@ -319,6 +319,7 @@
 *://*.fznc.world/*
 *://*.g3n3sis.org/*
 *://*.g3n3sis.pro/*
+*://*.galileosmarine.com/*
 *://*.garantex.io/*
 *://*.gardencityhotel.com.kh/*
 *://*.gatewick.com/*
@@ -516,6 +517,7 @@
 *://*.lcis.media/*
 *://*.leasingday.ir/*
 *://*.lescpanama.com/*
+*://*.light-shipmanagement.com/*
 *://*.lockobank.ru/*
 *://*.lolalolita.com/*
 *://*.lontek.cn/*
