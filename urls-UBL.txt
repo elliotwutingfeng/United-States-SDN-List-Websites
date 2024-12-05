@@ -747,6 +747,7 @@
 *://*.ptrco.ir/*
 *://*.ptsecurity.com/*
 *://*.ptsecurity.ru/*
+*://*.pullman.solutions/*
 *://*.pulseniru.com/*
 *://*.qinvictory.com/*
 *://*.qmb.ir/*
@@ -977,6 +978,7 @@
 *://*.tequilaonze.com/*
 *://*.terra.net.lb/*
 *://*.tesart.ru/*
+*://*.tgr.partners/*
 *://*.theoxytech.com/*
 *://*.therealrc.com/*
 *://*.theyangonrestaurant.com/*

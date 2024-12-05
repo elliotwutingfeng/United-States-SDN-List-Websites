@@ -373,6 +373,7 @@
 ||tempbank.ru^$all
 ||terra.net.lb^$all
 ||tesart.ru^$all
+||tgr.partners^$all
 ||theoxytech.com^$all
 ||therealrc.com^$all
 ||theyangonrestaurant.com^$all
@@ -937,6 +938,7 @@
 ||www.ptkb.ru^$all
 ||www.ptsecurity.com^$all
 ||www.ptsecurity.ru^$all
+||www.pullman.solutions^$all
 ||www.qinvictory.com^$all
 ||www.qmb.ir^$all
 ||www.radioautomatic.ru^$all
