@@ -267,6 +267,7 @@
 ||polo-trading.com^$all
 ||port.kafa.crimea.ua^$all
 ||pouyaair.com^$all
+||precious-bullion.com^$all
 ||ptrco.ir^$all
 ||pulseniru.com^$all
 ||qinvictory.com^$all
@@ -280,6 +281,7 @@
 ||roseurofactoring.ru^$all
 ||rossia3.ru^$all
 ||round.ru^$all
+||ruhmeerdiamonds.com^$all
 ||ruschemtrade.com^$all
 ||rusconsult.ru^$all
 ||rusimperia.info^$all
@@ -362,6 +364,7 @@
 ||structura.pro^$all
 ||sudocompozit.ru^$all
 ||suex.io^$all
+||sunmultinational.com^$all
 ||supermeasn.lat^$all
 ||swaidexchange.com^$all
 ||t-platforms.ru^$all
@@ -1051,6 +1054,7 @@
 ||www.stroytransgaz.ru^$all
 ||www.sudanmaster.com^$all
 ||www.sudoexport.ru^$all
+||www.sunstartravels.com^$all
 ||www.sunwaytech.cn^$all
 ||www.superchip-ltd.com^$all
 ||www.surabayahobby.com^$all

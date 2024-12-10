@@ -736,6 +736,7 @@
 *://*.postbank.ir/*
 *://*.pouyaair.com/*
 *://*.pouyacontrol.com/*
+*://*.precious-bullion.com/*
 *://*.presstv.ir/*
 *://*.primax.com.cy/*
 *://*.primbank.ru/*
@@ -795,6 +796,7 @@
 *://*.rrbank.ru/*
 *://*.rsb.ru/*
 *://*.rubank.ru/*
+*://*.ruhmeerdiamonds.com/*
 *://*.ruschemtrade.com/*
 *://*.rusconsult.ru/*
 *://*.rusimperia.info/*
@@ -941,6 +943,8 @@
 *://*.sudocompozit.ru/*
 *://*.sudoexport.ru/*
 *://*.suex.io/*
+*://*.sunmultinational.com/*
+*://*.sunstartravels.com/*
 *://*.sunwaytech.cn/*
 *://*.superchip-ltd.com/*
 *://*.supermeasn.lat/*
