@@ -351,6 +351,7 @@
 ||spbexchange.ru^$all
 ||spiint.co.za^$all
 ||srpt.ir^$all
+||star-co.net.kp^$all
 ||star.ru^$all
 ||starsmz.ru^$all
 ||status-it.com^$all
