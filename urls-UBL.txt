@@ -498,6 +498,7 @@
 *://*.kpars.ir/*
 *://*.kps-co.com/*
 *://*.kpsk-ins.ru/*
+*://*.kraden.com/*
 *://*.kraftway.ru/*
 *://*.kratol-aviation.ae/*
 *://*.kremlinbank.ru/*
@@ -884,6 +885,7 @@
 *://*.sinocnc.com.cn/*
 *://*.sinocpa.com/*
 *://*.sjsco.ir/*
+*://*.skyda.co/*
 *://*.skynet.be/*
 *://*.slaviabank.ru/*
 *://*.sld-logistics.org/*

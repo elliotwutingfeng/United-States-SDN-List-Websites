@@ -329,6 +329,7 @@
 ||sinnoelec.com^
 ||sinnogroup.ru^
 ||sinocpa.com^
+||skyda.co^
 ||skynet.be^
 ||sld-logistics.org^
 ||smilebitcard.com^
@@ -769,6 +770,7 @@
 ||www.kk-pu.com^
 ||www.knaapo.ru^
 ||www.kps-co.com^
+||www.kraden.com^
 ||www.kratol-aviation.ae^
 ||www.kremlinbank.ru^
 ||www.krimtec.com^
