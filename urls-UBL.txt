@@ -46,6 +46,7 @@
 *://*.alfadelex.com/*
 *://*.alhadha.group/*
 *://*.alhadhagroup.com/*
+*://*.alhazmiex.com/*
 *://*.aliafco.com/*
 *://*.alinmaa-group.com/*
 *://*.alinmaa.com.lb/*
@@ -557,6 +558,7 @@
 *://*.mellatinsurance.com/*
 *://*.mellibank.com/*
 *://*.mellisakhteman.com/*
+*://*.merkurenergyports.com/*
 *://*.metallinvestbank.ru/*
 *://*.metallurgbank.ru/*
 *://*.metcom.ru/*
@@ -786,6 +788,7 @@
 *://*.rodsmc.com/*
 *://*.roe.ru/*
 *://*.rosbank.ru/*
+*://*.rose-shipping.gr/*
 *://*.roseurofactoring.ru/*
 *://*.rosneft.com/*
 *://*.rossia3.ru/*
@@ -976,6 +979,7 @@
 *://*.tdpmolds.com/*
 *://*.tdpsell.com/*
 *://*.tecnotar.com/*
+*://*.tefcas.com.my/*
 *://*.tehrancement.com/*
 *://*.tehranprisons.ir/*
 *://*.tejaratbank.ir/*

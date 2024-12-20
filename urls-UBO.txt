@@ -198,6 +198,7 @@
 ||mazakatrading.com^$all
 ||med-std.ru^$all
 ||mehdishipping.com^$all
+||merkurenergyports.com^$all
 ||mexpackingsolutions.com^$all
 ||midas-lighting.cn^$all
 ||ministeriopublico.gob.ni^$all
@@ -374,6 +375,7 @@
 ||tas-tek.com^$all
 ||tdday.ir^$all
 ||tdpmolds.com^$all
+||tefcas.com.my^$all
 ||tehranprisons.ir^$all
 ||tempbank.ru^$all
 ||terra.net.lb^$all
@@ -449,6 +451,7 @@
 ||www.aldarproperties.qa^$all
 ||www.aleseb.com^$all
 ||www.alexbank.ru^$all
+||www.alhazmiex.com^$all
 ||www.alinmaa-group.com^$all
 ||www.alinmaa.com.lb^$all
 ||www.almanar.com.lb^$all
@@ -976,6 +979,7 @@
 ||www.rodsmc.com^$all
 ||www.roe.ru^$all
 ||www.rosbank.ru^$all
+||www.rose-shipping.gr^$all
 ||www.rosneft.com^$all
 ||www.rostfinance.ru^$all
 ||www.rouhinasteel.com^$all

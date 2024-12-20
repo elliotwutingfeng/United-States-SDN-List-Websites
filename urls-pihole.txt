@@ -198,6 +198,7 @@ massandra.ua
 mazakatrading.com
 med-std.ru
 mehdishipping.com
+merkurenergyports.com
 mexpackingsolutions.com
 midas-lighting.cn
 ministeriopublico.gob.ni
@@ -374,6 +375,7 @@ t1.ru
 tas-tek.com
 tdday.ir
 tdpmolds.com
+tefcas.com.my
 tehranprisons.ir
 tempbank.ru
 terra.net.lb
@@ -449,6 +451,7 @@ www.alamir-lb.com
 www.aldarproperties.qa
 www.aleseb.com
 www.alexbank.ru
+www.alhazmiex.com
 www.alinmaa-group.com
 www.alinmaa.com.lb
 www.almanar.com.lb
@@ -976,6 +979,7 @@ www.rnt.ru
 www.rodsmc.com
 www.roe.ru
 www.rosbank.ru
+www.rose-shipping.gr
 www.rosneft.com
 www.rostfinance.ru
 www.rouhinasteel.com
