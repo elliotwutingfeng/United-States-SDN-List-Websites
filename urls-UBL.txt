@@ -424,6 +424,7 @@
 *://*.inforion.ru/*
 *://*.inforos.ru/*
 *://*.intajia.sy/*
+*://*.integritytech.com.cn/*
 *://*.internet.ir/*
 *://*.investcapitalbank.ru/*
 *://*.investinrussia.com/*

@@ -711,6 +711,7 @@
 ||www.inb.ps^
 ||www.industrialbank.gov.sy^
 ||www.inekocom.ru^
+||www.integritytech.com.cn^
 ||www.investcapitalbank.ru^
 ||www.investinrussia.com^
 ||www.iranair.co.ir^
