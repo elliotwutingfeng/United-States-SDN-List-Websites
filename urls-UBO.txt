@@ -36,6 +36,7 @@
 ||asiafuel.net^$all
 ||autofinancebank.ru^$all
 ||avinextech.com^$all
+||baltnet.ru^$all
 ||bank.bcs.ru^$all
 ||barkatventures.com^$all
 ||bbe.ir^$all
@@ -81,6 +82,7 @@
 ||davos.exchange^$all
 ||day-cc.com^$all
 ||dbosaas.ru^$all
+||dep.tvcom.ru^$all
 ||didaaaa.com^$all
 ||dirac-tech.com^$all
 ||dlmm.com.cn^$all
@@ -170,6 +172,7 @@
 ||kes.co.ir^$all
 ||kfins.ru^$all
 ||kibank.ru^$all
+||kinef.ru^$all
 ||kk-pu.com^$all
 ||kmolz.ru^$all
 ||kohkongresort.com^$all
@@ -182,6 +185,7 @@
 ||lcis.media^$all
 ||leasingday.ir^$all
 ||lescpanama.com^$all
+||lgnch.spb.ru^$all
 ||lumiere-elysees.fr^$all
 ||m3eliteclub.com^$all
 ||magarach-institut.ru^$all
@@ -235,6 +239,7 @@
 ||nitc.co.ir^$all
 ||nitcsharjah.com^$all
 ||nitcshipping.com^$all
+||nnp.surgutneftegas.ru^$all
 ||novilabmobile.com^$all
 ||novilabmobile.ru^$all
 ||novorossia.co^$all
@@ -248,6 +253,7 @@
 ||onerearth.xyz^$all
 ||online.databank.ru^$all
 ||onmedia.io^$all
+||ooorngrp.rosneft.com^$all
 ||ooosgm.ru^$all
 ||orc.ru^$all
 ||oreanda.biz^$all
@@ -369,6 +375,7 @@
 ||suex.io^$all
 ||sunmultinational.com^$all
 ||supermeasn.lat^$all
+||surgutneftegas.ru^$all
 ||swaidexchange.com^$all
 ||t-platforms.ru^$all
 ||t1.ru^$all
@@ -451,6 +458,7 @@
 ||www.aldarproperties.qa^$all
 ||www.aleseb.com^$all
 ||www.alexbank.ru^$all
+||www.alfastrah.ru^$all
 ||www.alhazmiex.com^$all
 ||www.alinmaa-group.com^$all
 ||www.alinmaa.com.lb^$all
@@ -770,6 +778,8 @@
 ||www.khitiholding.com^$all
 ||www.khorasansteel.com^$all
 ||www.kibank.ru^$all
+||www.kinef.ru^$all
+||www.kirishiavtoservis.ru^$all
 ||www.kishpandi.com^$all
 ||www.kk-pu.com^$all
 ||www.knaapo.ru^$all
@@ -944,6 +954,7 @@
 ||www.psbank.ru^$all
 ||www.pscb.ru^$all
 ||www.pskb.com^$all
+||www.pskovnefteprodukt.ru^$all
 ||www.ptccenter.de^$all
 ||www.ptkb.ru^$all
 ||www.ptsecurity.com^$all
@@ -1039,6 +1050,7 @@
 ||www.smiletechnologies.com.ar^$all
 ||www.smiletraveltours.com^$all
 ||www.smpbank.ru^$all
+||www.sngb.ru^$all
 ||www.sniperafrica.com^$all
 ||www.sobinbank.ru^$all
 ||www.solid.ru^$all
@@ -1066,6 +1078,7 @@
 ||www.sunwaytech.cn^$all
 ||www.superchip-ltd.com^$all
 ||www.surabayahobby.com^$all
+||www.surgutneftegas.ru^$all
 ||www.swedishmanagement.ae^$all
 ||www.sweetaparts.com^$all
 ||www.syditek.com.ni^$all
@@ -1111,6 +1124,7 @@
 ||www.trust.ru^$all
 ||www.trv-e.ru^$all
 ||www.ttbank.ir^$all
+||www.tvernefteproduct.ru^$all
 ||www.ubrr.ru^$all
 ||www.uec-saturn.ru^$all
 ||www.ukrport.org.ua^$all

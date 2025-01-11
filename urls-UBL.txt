@@ -44,6 +44,7 @@
 *://*.alfabank.com/*
 *://*.alfabank.ru/*
 *://*.alfadelex.com/*
+*://*.alfastrah.ru/*
 *://*.alhadha.group/*
 *://*.alhadhagroup.com/*
 *://*.alhazmiex.com/*
@@ -115,6 +116,7 @@
 *://*.baikalinc.ru/*
 *://*.bakeandkitchen.com/*
 *://*.baltinfocom.ru/*
+*://*.baltnet.ru/*
 *://*.bangdeyapharm.com/*
 *://*.bank-hlynov.ru/*
 *://*.bank-maskan.ir/*
@@ -492,6 +494,8 @@
 *://*.khitiholding.com/*
 *://*.khorasansteel.com/*
 *://*.kibank.ru/*
+*://*.kinef.ru/*
+*://*.kirishiavtoservis.ru/*
 *://*.kishpandi.com/*
 *://*.kk-pu.com/*
 *://*.kmolz.ru/*
@@ -747,6 +751,7 @@
 *://*.psbank.ru/*
 *://*.pscb.ru/*
 *://*.pskb.com/*
+*://*.pskovnefteprodukt.ru/*
 *://*.ptccenter.de/*
 *://*.ptkb.ru/*
 *://*.ptrco.ir/*
@@ -901,6 +906,7 @@
 *://*.smp.com.ua/*
 *://*.smpbank.ru/*
 *://*.smt-k.ru/*
+*://*.sngb.ru/*
 *://*.sniperafrica.com/*
 *://*.snte.co.ao/*
 *://*.sobinbank.ru/*
@@ -955,6 +961,7 @@
 *://*.superchip-ltd.com/*
 *://*.supermeasn.lat/*
 *://*.surabayahobby.com/*
+*://*.surgutneftegas.ru/*
 *://*.swaidexchange.com/*
 *://*.swedishmanagement.ae/*
 *://*.sweetaparts.com/*
@@ -1023,6 +1030,8 @@
 *://*.ttbank.ir/*
 *://*.tula.net/*
 *://*.tuta.io/*
+*://*.tvcom.ru/*
+*://*.tvernefteproduct.ru/*
 *://*.ubrr.ru/*
 *://*.uec-saturn.ru/*
 *://*.ukrport.org.ua/*
