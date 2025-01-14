@@ -614,7 +614,6 @@
 ||www.egsepehr.ir^$all
 ||www.eihbank.de^$all
 ||www.ekt2.com^$all
-||www.element-capital.com^$all
 ||www.elemento.com.mt^$all
 ||www.elgoliat.com.ni^$all
 ||www.elitdiamond.net^$all
@@ -750,7 +749,6 @@
 ||www.izhcombank.ru^$all
 ||www.izmdc.com^$all
 ||www.jalili.ir^$all
-||www.jambanyani.com^$all
 ||www.jhcircuits.com^$all
 ||www.jhminshengpm.com^$all
 ||www.jotrin.com^$all

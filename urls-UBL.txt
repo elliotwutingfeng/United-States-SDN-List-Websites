@@ -269,7 +269,6 @@
 *://*.egsepehr.ir/*
 *://*.eihbank.de/*
 *://*.ekt2.com/*
-*://*.element-capital.com/*
 *://*.element-msc.ru/*
 *://*.elemento.com.mt/*
 *://*.elgoliat.com.ni/*
@@ -460,7 +459,6 @@
 *://*.izhcombank.ru/*
 *://*.izmdc.com/*
 *://*.jalili.ir/*
-*://*.jambanyani.com/*
 *://*.janskinmn.lol/*
 *://*.jhcircuits.com/*
 *://*.jhminshengpm.com/*
