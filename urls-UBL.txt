@@ -541,6 +541,7 @@
 *://*.manartv.com/*
 *://*.marcap.ru/*
 *://*.maritimebank.com/*
+*://*.marshal-shipmanagement.com/*
 *://*.massandra.net.ua/*
 *://*.massandra.ua/*
 *://*.masterchain.ru/*

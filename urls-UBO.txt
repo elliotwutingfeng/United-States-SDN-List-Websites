@@ -808,6 +808,7 @@
 ||www.manartv.com^$all
 ||www.marcap.ru^$all
 ||www.maritimebank.com^$all
+||www.marshal-shipmanagement.com^$all
 ||www.massandra.net.ua^$all
 ||www.masterchain.ru^$all
 ||www.mbbru.com^$all
