@@ -1203,3 +1203,4 @@
 ||zik.ru^$all
 ||zisco.midhco.com^$all
 ||zr-group.net^$all
+||zservers.ru^$all

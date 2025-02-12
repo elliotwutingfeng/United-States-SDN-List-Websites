@@ -1128,3 +1128,4 @@
 *://*.zmat.com/*
 *://*.zr-group.net/*
 *://*.zrenergy.com/*
+*://*.zservers.ru/*
