@@ -173,6 +173,7 @@
 ||kfins.ru^$all
 ||kibank.ru^$all
 ||kinef.ru^$all
+||kingstonholding.com^$all
 ||kk-pu.com^$all
 ||kmolz.ru^$all
 ||kohkongresort.com^$all

@@ -493,6 +493,7 @@
 *://*.khorasansteel.com/*
 *://*.kibank.ru/*
 *://*.kinef.ru/*
+*://*.kingstonholding.com/*
 *://*.kirishiavtoservis.ru/*
 *://*.kishpandi.com/*
 *://*.kk-pu.com/*
