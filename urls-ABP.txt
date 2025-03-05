@@ -403,6 +403,7 @@
 ||trport.kerch.crimea.com^
 ||tula.net^
 ||tuta.io^
+||tutanota.com^
 ||ukrpost.ua^
 ||ultran.ru^
 ||unicious.com^
