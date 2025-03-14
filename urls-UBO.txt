@@ -199,6 +199,7 @@
 ||manartv.com^$all
 ||maps.southfront.org^$all
 ||marcap.ru^$all
+||marines-solution.com^$all
 ||massandra.ua^$all
 ||mazakatrading.com^$all
 ||med-std.ru^$all
@@ -795,6 +796,7 @@
 ||www.kunlunholding.com^$all
 ||www.kupol.ru^$all
 ||www.kurganmash.ru^$all
+||www.lakeviewshipmanagement.in^$all
 ||www.lanta.ru^$all
 ||www.lapc.ir^$all
 ||www.larrycom-invest.com^$all

@@ -515,6 +515,7 @@
 *://*.kunlunholding.com/*
 *://*.kupol.ru/*
 *://*.kurganmash.ru/*
+*://*.lakeviewshipmanagement.in/*
 *://*.lanta.ru/*
 *://*.lapc.ir/*
 *://*.larrycom-invest.com/*
@@ -541,6 +542,7 @@
 *://*.mako.ua/*
 *://*.manartv.com/*
 *://*.marcap.ru/*
+*://*.marines-solution.com/*
 *://*.maritimebank.com/*
 *://*.marshal-shipmanagement.com/*
 *://*.massandra.net.ua/*
