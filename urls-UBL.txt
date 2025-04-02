@@ -424,6 +424,7 @@
 *://*.inekocom.ru/*
 *://*.inforion.ru/*
 *://*.inforos.ru/*
+*://*.infracommunication.com/*
 *://*.intajia.sy/*
 *://*.integritytech.com.cn/*
 *://*.internet.ir/*
@@ -766,6 +767,8 @@
 *://*.quarta.su/*
 *://*.quartierlatinapartments.com/*
 *://*.radioautomatic.ru/*
+*://*.rahroshd.ir/*
+*://*.rahroshd.net/*
 *://*.ramakdutyfree.net/*
 *://*.ramanco.ir/*
 *://*.rambler.ru/*

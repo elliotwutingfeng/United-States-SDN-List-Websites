@@ -721,6 +721,7 @@
 ||www.inb.ps^$all
 ||www.industrialbank.gov.sy^$all
 ||www.inekocom.ru^$all
+||www.infracommunication.com^$all
 ||www.integritytech.com.cn^$all
 ||www.investcapitalbank.ru^$all
 ||www.investinrussia.com^$all
@@ -966,6 +967,8 @@
 ||www.qinvictory.com^$all
 ||www.qmb.ir^$all
 ||www.radioautomatic.ru^$all
+||www.rahroshd.ir^$all
+||www.rahroshd.net^$all
 ||www.ramakdutyfree.net^$all
 ||www.ramanco.ir^$all
 ||www.ramor.com.tr^$all
