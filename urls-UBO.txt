@@ -511,6 +511,7 @@
 ||www.avia-group.su^$all
 ||www.awex.pro^$all
 ||www.aytcnc.com^$all
+||www.azarab.ir^$all
 ||www.b-crypto.ru^$all
 ||www.baikalinc.ru^$all
 ||www.bakeandkitchen.com^$all

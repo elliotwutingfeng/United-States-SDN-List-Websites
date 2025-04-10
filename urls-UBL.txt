@@ -112,6 +112,7 @@
 *://*.avinextech.com/*
 *://*.awex.pro/*
 *://*.aytcnc.com/*
+*://*.azarab.ir/*
 *://*.b-crypto.ru/*
 *://*.baikalinc.ru/*
 *://*.bakeandkitchen.com/*
