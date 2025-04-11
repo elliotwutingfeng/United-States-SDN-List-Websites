@@ -956,6 +956,7 @@
 ||www.presstv.ir^$all
 ||www.primax.com.cy^$all
 ||www.primbank.ru^$all
+||www.primetankers.ae^$all
 ||www.psbank.ru^$all
 ||www.pscb.ru^$all
 ||www.pskb.com^$all
