@@ -404,6 +404,7 @@
 *://*.hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/*
 *://*.hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/*
 *://*.iasco.ir/*
+*://*.ibyemen.com/*
 *://*.icgoo.net/*
 *://*.iciiclab.com/*
 *://*.icioc.ir/*
