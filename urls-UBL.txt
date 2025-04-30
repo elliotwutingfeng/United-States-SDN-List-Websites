@@ -69,6 +69,7 @@
 *://*.aminib.com/*
 *://*.amlogistics.ru/*
 *://*.amnafzar.com/*
+*://*.amorlogis.com/*
 *://*.amsterdamtradebank.com/*
 *://*.analogtechnology.net/*
 *://*.ankaport-tr.com/*

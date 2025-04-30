@@ -23,6 +23,7 @@
 ||amanuf.ru^$all
 ||amlogistics.ru^$all
 ||amnafzar.com^$all
+||amorlogis.com^$all
 ||annaboylechem.globalimporter.net^$all
 ||ansarexchange.ir^$all
 ||anti-global.ru^$all
