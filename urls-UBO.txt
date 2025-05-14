@@ -571,6 +571,8 @@
 ||www.catalistparsian.com^$all
 ||www.cbde-liquids.co.uk^$all
 ||www.ccb.ru^$all
+||www.ccic.com.sg^$all
+||www.ccicsg.com^$all
 ||www.cecchem.com^$all
 ||www.ceiec.com^$all
 ||www.cetelem.ru^$all

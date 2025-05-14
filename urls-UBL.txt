@@ -188,6 +188,8 @@
 *://*.catalistparsian.com/*
 *://*.cbde-liquids.co.uk/*
 *://*.ccb.ru/*
+*://*.ccic.com.sg/*
+*://*.ccicsg.com/*
 *://*.cdredos.site/*
 *://*.cecchem.com/*
 *://*.ceiec.com/*
