@@ -989,6 +989,7 @@
 ||www.reempharma.com^$all
 ||www.refah-bank.ir^$all
 ||www.researchgroupnederland.com^$all
+||www.reso-sh.com^$all
 ||www.rey-co.com^$all
 ||www.reyairlines.com^$all
 ||www.reyniroo.com^$all
@@ -1108,6 +1109,7 @@
 ||www.tarasteel.com^$all
 ||www.tasnimnews.com^$all
 ||www.tcbank.by^$all
+||www.tchaintech.com^$all
 ||www.tdpmolds.com^$all
 ||www.tdpsell.com^$all
 ||www.tecnotar.com^$all

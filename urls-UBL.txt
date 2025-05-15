@@ -790,6 +790,7 @@
 *://*.reempharma.com/*
 *://*.refah-bank.ir/*
 *://*.researchgroupnederland.com/*
+*://*.reso-sh.com/*
 *://*.rey-co.com/*
 *://*.reyairlines.com/*
 *://*.reyniroo.com/*
@@ -994,6 +995,7 @@
 *://*.tas-tek.com/*
 *://*.tasnimnews.com/*
 *://*.tcbank.by/*
+*://*.tchaintech.com/*
 *://*.tdday.ir/*
 *://*.tdpmolds.com/*
 *://*.tdpsell.com/*
