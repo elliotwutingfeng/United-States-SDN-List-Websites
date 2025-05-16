@@ -1158,7 +1158,6 @@
 ||www.vanessaimex.com^$all
 ||www.vaslab.ir^$all
 ||www.vast-chem.com^$all
-||www.vatech.com.lb^$all
 ||www.veb.ru^$all
 ||www.viam.ru^$all
 ||www.viansteel.com^$all

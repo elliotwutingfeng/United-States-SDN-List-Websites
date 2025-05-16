@@ -1073,7 +1073,6 @@
 *://*.vanessaimex.com/*
 *://*.vaslab.ir/*
 *://*.vast-chem.com/*
-*://*.vatech.com.lb/*
 *://*.veb-leasing.ru/*
 *://*.veb.ru/*
 *://*.vebcapital.ru/*
