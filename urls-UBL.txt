@@ -1015,7 +1015,6 @@
 *://*.theyangonrestaurant.com/*
 *://*.tibalaji.com/*
 *://*.tiber.su/*
-*://*.ticketpremier.mx/*
 *://*.tidewaterco.com/*
 *://*.tidewaterco.ir/*
 *://*.timerbank.ru/*

@@ -1120,7 +1120,6 @@
 ||www.tequilaonze.com^$all
 ||www.tibalaji.com^$all
 ||www.tiber.su^$all
-||www.ticketpremier.mx^$all
 ||www.tidewaterco.com^$all
 ||www.tinkoff.ru^$all
 ||www.tkbbank.ru^$all
