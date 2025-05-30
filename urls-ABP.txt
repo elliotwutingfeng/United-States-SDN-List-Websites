@@ -119,6 +119,10 @@
 ||fothigarage.business.site^
 ||fpi.gov.ru^
 ||fsday.ir^
+||funnull.app^
+||funnull.buzz^
+||funnull.com^
+||funnull.io^
 ||fznc.world^
 ||g3n3sis.org^
 ||g3n3sis.pro^
