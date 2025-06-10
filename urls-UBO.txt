@@ -1052,6 +1052,7 @@
 ||www.sgc.gov.sy^$all
 ||www.shahedaviation.com^$all
 ||www.shark-intl.com^$all
+||www.sheilauriaspa.com^$all
 ||www.shomalcement.com^$all
 ||www.siab.ru^$all
 ||www.sibmoll.ru^$all

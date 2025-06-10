@@ -889,6 +889,7 @@
 *://*.sharif.edu/*
 *://*.shark-intl.com/*
 *://*.shastan.ir/*
+*://*.sheilauriaspa.com/*
 *://*.shoga.net/*
 *://*.shomalcement.com/*
 *://*.shsaintlog.com/*
