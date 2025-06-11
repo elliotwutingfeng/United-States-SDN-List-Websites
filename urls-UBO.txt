@@ -112,6 +112,7 @@
 ||famintrading.com^$all
 ||fanamoj.com^$all
 ||farzaneganpb.com^$all
+||filistinvkf.org^$all
 ||fintender.ru^$all
 ||fkutaman.ru^$all
 ||fondvostok.ru^$all
@@ -442,6 +443,7 @@
 ||www.absolutbank.ru^$all
 ||www.acidsazan.ir^$all
 ||www.acuta.ru^$all
+||www.addameer.org^$all
 ||www.adoongroup.com^$all
 ||www.aeoi.org.ir^$all
 ||www.aerosila.ru^$all
@@ -628,6 +630,7 @@
 ||www.elemento.com.mt^$all
 ||www.elgoliat.com.ni^$all
 ||www.elitdiamond.net^$all
+||www.en.alweaam.ps^$all
 ||www.en.msc.ir^$all
 ||www.en.tmgic.ir^$all
 ||www.enbank.ir^$all

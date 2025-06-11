@@ -11,6 +11,7 @@
 *://*.absolutbank.ru/*
 *://*.acidsazan.ir/*
 *://*.acuta.ru/*
+*://*.addameer.org/*
 *://*.adoongroup.com/*
 *://*.aeoi.org.ir/*
 *://*.aerosila.ru/*
@@ -64,6 +65,7 @@
 *://*.alquds-city.com/*
 *://*.alquds-online.org/*
 *://*.alturath.org/*
+*://*.alweaam.ps/*
 *://*.alzarooniexchange.ae/*
 *://*.amanuf.ru/*
 *://*.aminib.com/*
@@ -310,6 +312,7 @@
 *://*.feodosia.com.ua/*
 *://*.ferrogilan.com/*
 *://*.fiib.com.my/*
+*://*.filistinvkf.org/*
 *://*.finsb.ru/*
 *://*.fintender.ru/*
 *://*.fkutaman.ru/*
