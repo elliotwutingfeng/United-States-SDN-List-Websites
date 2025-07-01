@@ -4,7 +4,6 @@
 *://*.911.af/*
 *://*.aaestudioarquitectonico.com/*
 *://*.abank.ru/*
-*://*.abdulkarimgroup.com/*
 *://*.abr.ru/*
 *://*.absolutbank.by/*
 *://*.absolutbank.com/*
@@ -20,7 +19,6 @@
 *://*.ag-nord.ru/*
 *://*.agdbank.com/*
 *://*.agri-bank.com/*
-*://*.agrobank.gov.sy/*
 *://*.agroros.ru/*
 *://*.aictc.ir/*
 *://*.aionov.ru/*
@@ -432,12 +430,10 @@
 *://*.imarwaiktissad.com/*
 *://*.imsengco.com/*
 *://*.inb.ps/*
-*://*.industrialbank.gov.sy/*
 *://*.inekocom.ru/*
 *://*.inforion.ru/*
 *://*.inforos.ru/*
 *://*.infracommunication.com/*
-*://*.intajia.sy/*
 *://*.integritytech.com.cn/*
 *://*.internet.ir/*
 *://*.investcapitalbank.ru/*
@@ -549,7 +545,6 @@
 *://*.madkandaloo.com/*
 *://*.magarach-institut.ru/*
 *://*.mahantravel.com.my/*
-*://*.mail.sy/*
 *://*.makeyev.ru/*
 *://*.mako-holding.com/*
 *://*.mako.ua/*
@@ -594,7 +589,6 @@
 *://*.middleeastbank.ir/*
 *://*.midhco.com/*
 *://*.miguelleone.com/*
-*://*.milenyumshipping.com/*
 *://*.ministeriopublico.gob.ni/*
 *://*.miragewm.com/*
 *://*.miran.ru/*
@@ -610,11 +604,8 @@
 *://*.modulsan.com/*
 *://*.moex.com/*
 *://*.mofa.lat/*
-*://*.mopmr.gov.sy/*
 *://*.moran-group.org/*
 *://*.moreship.ru/*
-*://*.morgan.ae/*
-*://*.morganme.com/*
 *://*.morport.sebastopol.ua/*
 *://*.morskoybank.com/*
 *://*.mostro.ru/*
@@ -637,7 +628,6 @@
 *://*.nahb.my/*
 *://*.najipars.com/*
 *://*.narod.ru/*
-*://*.nascopolymers.com/*
 *://*.naver.com/*
 *://*.nbsaige.com/*
 *://*.ndb24.ru/*
@@ -708,7 +698,6 @@
 *://*.ovlas-trading.com/*
 *://*.oxinsteel.ir/*
 *://*.ozonehobby.com/*
-*://*.pangates-me.com/*
 *://*.paravar-pars.com/*
 *://*.parom-k.ru/*
 *://*.pars-bana.com/*
@@ -728,7 +717,6 @@
 *://*.payasamanpars.ir/*
 *://*.pazargad.org/*
 *://*.pedex.ir/*
-*://*.perd.sy/*
 *://*.persiabank.co.uk/*
 *://*.persiahormoz.com/*
 *://*.persiangulffvc.com/*
@@ -761,7 +749,6 @@
 *://*.pouyacontrol.com/*
 *://*.precious-bullion.com/*
 *://*.presstv.ir/*
-*://*.primax.com.cy/*
 *://*.primbank.ru/*
 *://*.primetankers.ae/*
 *://*.psbank.ru/*
@@ -782,7 +769,6 @@
 *://*.radioautomatic.ru/*
 *://*.rahroshd.ir/*
 *://*.rahroshd.net/*
-*://*.ramakdutyfree.net/*
 *://*.ramanco.ir/*
 *://*.rambler.ru/*
 *://*.ramor.com.tr/*
@@ -801,7 +787,6 @@
 *://*.rey-co.com/*
 *://*.reyairlines.com/*
 *://*.reyniroo.com/*
-*://*.rfabank.ru/*
 *://*.rfpc.ir/*
 *://*.rgsbank.ru/*
 *://*.rion-tech.net/*
@@ -864,8 +849,6 @@
 *://*.scemsal.site/*
 *://*.sceptic.online/*
 *://*.scf-group.com/*
-*://*.scn-net.org/*
-*://*.scot-syria.com/*
 *://*.scsco.net/*
 *://*.sdm.ru/*
 *://*.seavenue.net/*
@@ -883,7 +866,6 @@
 *://*.severgazbank.ru/*
 *://*.sevmorzavod.com/*
 *://*.sfi.co.ir/*
-*://*.sgc.gov.sy/*
 *://*.sgp-france.com/*
 *://*.shabakah.net.sa/*
 *://*.shahedaviation.com/*
@@ -986,7 +968,6 @@
 *://*.swedishmanagement.ae/*
 *://*.sweetaparts.com/*
 *://*.syditek.com.ni/*
-*://*.syriatourism.org/*
 *://*.sz-alloy.com/*
 *://*.t-platforms.ru/*
 *://*.t-rubber.com/*
@@ -1013,7 +994,6 @@
 *://*.tehranprisons.ir/*
 *://*.tejaratbank.ir/*
 *://*.teleserveplus.com/*
-*://*.tempbank.ru/*
 *://*.tequilaonze.com/*
 *://*.terra.net.lb/*
 *://*.tesart.ru/*

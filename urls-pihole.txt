@@ -1,7 +1,6 @@
 0day.llc
 3data.ru
 911.af
-abdulkarimgroup.com
 abr.ru
 afinor.biz
 air-burg.ru
@@ -166,7 +165,6 @@ inb.ps
 inforion.ru
 inforos.ru
 inma-maldives.business.site
-intajia.sy
 internet.ir
 iransat.irib.ir
 itb.ru
@@ -197,7 +195,6 @@ lumiere-elysees.fr
 m3eliteclub.com
 magarach-institut.ru
 mahantravel.com.my
-mail.sy
 mail.ylt.crimea.com
 makeyev.ru
 mako-holding.com
@@ -219,10 +216,8 @@ mksofttech.com
 mmkturkey.com.tr
 modulbank.ru
 mofa.lat
-mopmr.gov.sy
 moran-group.org
 moreship.ru
-morgan.ae
 morport.sebastopol.ua
 morskoybank.com
 mostro.ru
@@ -265,12 +260,10 @@ ooorngrp.rosneft.com
 ooosgm.ru
 orc.ru
 oreanda.biz
-pangates-me.com
 parom-k.ru
 pars-tile.com
 parssarralle.ir
 pedex.ir
-perd.sy
 peykasa.com
 peykasa.ir
 pgapco.ir
@@ -313,7 +306,6 @@ sbrf.com.ua
 scanform.ru
 scemsal.site
 sceptic.online
-scn-net.org
 seavenue.net
 secondeyehost.com
 secondeyesolution.ch
@@ -324,7 +316,6 @@ selkbaf.ir
 septemcapital.ru
 sequoia.li
 sevmorzavod.com
-sgc.gov.sy
 sgp-france.com
 shabakah.net.sa
 shahr-bank.ir
@@ -392,7 +383,6 @@ tdday.ir
 tdpmolds.com
 tefcas.com.my
 tehranprisons.ir
-tempbank.ru
 terra.net.lb
 tesart.ru
 tgr.partners
@@ -451,7 +441,6 @@ www.aerskyone.com
 www.ag-nord.ru
 www.agdbank.com
 www.agri-bank.com
-www.agrobank.gov.sy
 www.agroros.ru
 www.aictc.ir
 www.aionov.ru
@@ -731,7 +720,6 @@ www.ilampetro.com
 www.imarwaiktissad.com
 www.imsengco.com
 www.inb.ps
-www.industrialbank.gov.sy
 www.inekocom.ru
 www.infracommunication.com
 www.integritytech.com.cn
@@ -855,7 +843,6 @@ www.midasrs.com
 www.middleeastbank.ir
 www.midhco.com
 www.miguelleone.com
-www.milenyumshipping.com
 www.miragewm.com
 www.mitdco.com
 www.mizusushi.mx
@@ -864,7 +851,6 @@ www.mobinogp.com
 www.mobinpc.net
 www.modulsan.com
 www.moex.com
-www.morganme.com
 www.morskoybank.com
 www.mostro.ru
 www.mpc.ir
@@ -873,7 +859,6 @@ www.mse-overseas.com
 www.mtsbank.ru
 www.mut.ac.ir
 www.nahb.my
-www.nascopolymers.com
 www.nbsaige.com
 www.ndb24.ru
 www.ndco.ir
@@ -926,7 +911,6 @@ www.orientalreview.org
 www.ovlas-trading.com
 www.oxinsteel.ir
 www.ozonehobby.com
-www.pangates-me.com
 www.paravar-pars.com
 www.pars-bana.com
 www.parsian-bank.com
@@ -965,7 +949,6 @@ www.postbank.ir
 www.pouyaair.com
 www.pouyacontrol.com
 www.presstv.ir
-www.primax.com.cy
 www.primbank.ru
 www.primetankers.ae
 www.psbank.ru
@@ -982,7 +965,6 @@ www.qmb.ir
 www.radioautomatic.ru
 www.rahroshd.ir
 www.rahroshd.net
-www.ramakdutyfree.net
 www.ramanco.ir
 www.ramor.com.tr
 www.rashedexchange.com
@@ -1000,7 +982,6 @@ www.reso-sh.com
 www.rey-co.com
 www.reyairlines.com
 www.reyniroo.com
-www.rfabank.ru
 www.rfpc.ir
 www.rgsbank.ru
 www.rion-tech.net
@@ -1044,7 +1025,6 @@ www.sberbank.ru
 www.sberbank.ua
 www.sberleasing.ru
 www.scf-group.com
-www.scot-syria.com
 www.scsco.net
 www.sdm.ru
 www.sebastianomoda.com
@@ -1052,7 +1032,6 @@ www.sedcompany.ir
 www.sedfirm.com
 www.severgazbank.ru
 www.sfi.co.ir
-www.sgc.gov.sy
 www.shahedaviation.com
 www.shark-intl.com
 www.sheilauriaspa.com
@@ -1103,7 +1082,6 @@ www.surgutneftegas.ru
 www.swedishmanagement.ae
 www.sweetaparts.com
 www.syditek.com.ni
-www.syriatourism.org
 www.sz-alloy.com
 www.t-rubber.com
 www.tabchem.ir
@@ -1124,7 +1102,6 @@ www.tecnotar.com
 www.tehrancement.com
 www.tejaratbank.ir
 www.teleserveplus.com
-www.tempbank.ru
 www.tequilaonze.com
 www.tibalaji.com
 www.tiber.su

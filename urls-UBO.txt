@@ -1,7 +1,6 @@
 ||0day.llc^$all
 ||3data.ru^$all
 ||911.af^$all
-||abdulkarimgroup.com^$all
 ||abr.ru^$all
 ||afinor.biz^$all
 ||air-burg.ru^$all
@@ -166,7 +165,6 @@
 ||inforion.ru^$all
 ||inforos.ru^$all
 ||inma-maldives.business.site^$all
-||intajia.sy^$all
 ||internet.ir^$all
 ||iransat.irib.ir^$all
 ||itb.ru^$all
@@ -197,7 +195,6 @@
 ||m3eliteclub.com^$all
 ||magarach-institut.ru^$all
 ||mahantravel.com.my^$all
-||mail.sy^$all
 ||mail.ylt.crimea.com^$all
 ||makeyev.ru^$all
 ||mako-holding.com^$all
@@ -219,10 +216,8 @@
 ||mmkturkey.com.tr^$all
 ||modulbank.ru^$all
 ||mofa.lat^$all
-||mopmr.gov.sy^$all
 ||moran-group.org^$all
 ||moreship.ru^$all
-||morgan.ae^$all
 ||morport.sebastopol.ua^$all
 ||morskoybank.com^$all
 ||mostro.ru^$all
@@ -265,12 +260,10 @@
 ||ooosgm.ru^$all
 ||orc.ru^$all
 ||oreanda.biz^$all
-||pangates-me.com^$all
 ||parom-k.ru^$all
 ||pars-tile.com^$all
 ||parssarralle.ir^$all
 ||pedex.ir^$all
-||perd.sy^$all
 ||peykasa.com^$all
 ||peykasa.ir^$all
 ||pgapco.ir^$all
@@ -313,7 +306,6 @@
 ||scanform.ru^$all
 ||scemsal.site^$all
 ||sceptic.online^$all
-||scn-net.org^$all
 ||seavenue.net^$all
 ||secondeyehost.com^$all
 ||secondeyesolution.ch^$all
@@ -324,7 +316,6 @@
 ||septemcapital.ru^$all
 ||sequoia.li^$all
 ||sevmorzavod.com^$all
-||sgc.gov.sy^$all
 ||sgp-france.com^$all
 ||shabakah.net.sa^$all
 ||shahr-bank.ir^$all
@@ -392,7 +383,6 @@
 ||tdpmolds.com^$all
 ||tefcas.com.my^$all
 ||tehranprisons.ir^$all
-||tempbank.ru^$all
 ||terra.net.lb^$all
 ||tesart.ru^$all
 ||tgr.partners^$all
@@ -451,7 +441,6 @@
 ||www.ag-nord.ru^$all
 ||www.agdbank.com^$all
 ||www.agri-bank.com^$all
-||www.agrobank.gov.sy^$all
 ||www.agroros.ru^$all
 ||www.aictc.ir^$all
 ||www.aionov.ru^$all
@@ -731,7 +720,6 @@
 ||www.imarwaiktissad.com^$all
 ||www.imsengco.com^$all
 ||www.inb.ps^$all
-||www.industrialbank.gov.sy^$all
 ||www.inekocom.ru^$all
 ||www.infracommunication.com^$all
 ||www.integritytech.com.cn^$all
@@ -855,7 +843,6 @@
 ||www.middleeastbank.ir^$all
 ||www.midhco.com^$all
 ||www.miguelleone.com^$all
-||www.milenyumshipping.com^$all
 ||www.miragewm.com^$all
 ||www.mitdco.com^$all
 ||www.mizusushi.mx^$all
@@ -864,7 +851,6 @@
 ||www.mobinpc.net^$all
 ||www.modulsan.com^$all
 ||www.moex.com^$all
-||www.morganme.com^$all
 ||www.morskoybank.com^$all
 ||www.mostro.ru^$all
 ||www.mpc.ir^$all
@@ -873,7 +859,6 @@
 ||www.mtsbank.ru^$all
 ||www.mut.ac.ir^$all
 ||www.nahb.my^$all
-||www.nascopolymers.com^$all
 ||www.nbsaige.com^$all
 ||www.ndb24.ru^$all
 ||www.ndco.ir^$all
@@ -926,7 +911,6 @@
 ||www.ovlas-trading.com^$all
 ||www.oxinsteel.ir^$all
 ||www.ozonehobby.com^$all
-||www.pangates-me.com^$all
 ||www.paravar-pars.com^$all
 ||www.pars-bana.com^$all
 ||www.parsian-bank.com^$all
@@ -965,7 +949,6 @@
 ||www.pouyaair.com^$all
 ||www.pouyacontrol.com^$all
 ||www.presstv.ir^$all
-||www.primax.com.cy^$all
 ||www.primbank.ru^$all
 ||www.primetankers.ae^$all
 ||www.psbank.ru^$all
@@ -982,7 +965,6 @@
 ||www.radioautomatic.ru^$all
 ||www.rahroshd.ir^$all
 ||www.rahroshd.net^$all
-||www.ramakdutyfree.net^$all
 ||www.ramanco.ir^$all
 ||www.ramor.com.tr^$all
 ||www.rashedexchange.com^$all
@@ -1000,7 +982,6 @@
 ||www.rey-co.com^$all
 ||www.reyairlines.com^$all
 ||www.reyniroo.com^$all
-||www.rfabank.ru^$all
 ||www.rfpc.ir^$all
 ||www.rgsbank.ru^$all
 ||www.rion-tech.net^$all
@@ -1044,7 +1025,6 @@
 ||www.sberbank.ua^$all
 ||www.sberleasing.ru^$all
 ||www.scf-group.com^$all
-||www.scot-syria.com^$all
 ||www.scsco.net^$all
 ||www.sdm.ru^$all
 ||www.sebastianomoda.com^$all
@@ -1052,7 +1032,6 @@
 ||www.sedfirm.com^$all
 ||www.severgazbank.ru^$all
 ||www.sfi.co.ir^$all
-||www.sgc.gov.sy^$all
 ||www.shahedaviation.com^$all
 ||www.shark-intl.com^$all
 ||www.sheilauriaspa.com^$all
@@ -1103,7 +1082,6 @@
 ||www.swedishmanagement.ae^$all
 ||www.sweetaparts.com^$all
 ||www.syditek.com.ni^$all
-||www.syriatourism.org^$all
 ||www.sz-alloy.com^$all
 ||www.t-rubber.com^$all
 ||www.tabchem.ir^$all
@@ -1124,7 +1102,6 @@
 ||www.tehrancement.com^$all
 ||www.tejaratbank.ir^$all
 ||www.teleserveplus.com^$all
-||www.tempbank.ru^$all
 ||www.tequilaonze.com^$all
 ||www.tibalaji.com^$all
 ||www.tiber.su^$all
