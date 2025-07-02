@@ -2,6 +2,9 @@
 ||3data.ru^
 ||911.af^
 ||abr.ru^
+||aeza.net^
+||aeza.ru^
+||aezadns.com^
 ||afinor.biz^
 ||air-burg.ru^
 ||al-nour.net^

@@ -15,6 +15,9 @@
 *://*.aeoi.org.ir/*
 *://*.aerosila.ru/*
 *://*.aerskyone.com/*
+*://*.aeza.net/*
+*://*.aeza.ru/*
+*://*.aezadns.com/*
 *://*.afinor.biz/*
 *://*.ag-nord.ru/*
 *://*.agdbank.com/*
