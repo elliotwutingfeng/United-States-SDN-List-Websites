@@ -429,6 +429,7 @@
 *://*.igsm.ae/*
 *://*.ihu.ac.ir/*
 *://*.iib.int/*
+*://*.ikonpetroleum.com/*
 *://*.ilampetro.com/*
 *://*.imarwaiktissad.com/*
 *://*.imsengco.com/*
@@ -792,6 +793,7 @@
 *://*.reyniroo.com/*
 *://*.rfpc.ir/*
 *://*.rgsbank.ru/*
+*://*.rhine-shipping.com/*
 *://*.rion-tech.net/*
 *://*.rionsystem.com/*
 *://*.ritmeurasia.org/*
@@ -980,6 +982,7 @@
 *://*.tadbirbroker.com/*
 *://*.tadbirdrilling.com/*
 *://*.tadbirenergy.com/*
+*://*.tagmspl.com/*
 *://*.tajco-ltd.com/*
 *://*.tajcogambia.com/*
 *://*.taloon.ir/*
@@ -1081,6 +1084,8 @@
 *://*.vostok-kb.ru/*
 *://*.vpk.gov.by/*
 *://*.vrbank.com.vn/*
+*://*.vsot.ae/*
+*://*.vspetroleum.ae/*
 *://*.vtb-bank.by/*
 *://*.vtb-bank.kz/*
 *://*.vtb-leasing.ru/*

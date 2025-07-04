@@ -381,6 +381,7 @@
 ||swaidexchange.com^$all
 ||t-platforms.ru^$all
 ||t1.ru^$all
+||tagmspl.com^$all
 ||tas-tek.com^$all
 ||tdday.ir^$all
 ||tdpmolds.com^$all
@@ -422,6 +423,7 @@
 ||vostobank.ru^$all
 ||vostok-kb.ru^$all
 ||vrbank.com.vn^$all
+||vsot.ae^$all
 ||vtbcapital.com^$all
 ||waatasemu.org^$all
 ||waatasemu.org.ly^$all
@@ -719,6 +721,7 @@
 ||www.igsm.ae^$all
 ||www.ihu.ac.ir^$all
 ||www.iib.int^$all
+||www.ikonpetroleum.com^$all
 ||www.ilampetro.com^$all
 ||www.imarwaiktissad.com^$all
 ||www.imsengco.com^$all
@@ -987,6 +990,7 @@
 ||www.reyniroo.com^$all
 ||www.rfpc.ir^$all
 ||www.rgsbank.ru^$all
+||www.rhine-shipping.com^$all
 ||www.rion-tech.net^$all
 ||www.rionsystem.com^$all
 ||www.ritmeurasia.org^$all
@@ -1154,6 +1158,7 @@
 ||www.vniigaz.ru^$all
 ||www.vostochniy-capital.ru^$all
 ||www.vpk.gov.by^$all
+||www.vspetroleum.ae^$all
 ||www.vtb-bank.by^$all
 ||www.vtb-leasing.ru^$all
 ||www.vtb.am^$all
