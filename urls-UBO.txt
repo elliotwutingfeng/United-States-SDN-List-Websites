@@ -33,7 +33,6 @@
 ||aqsatv.ps^$all
 ||aquanika.com^$all
 ||aquanikacompany.ru^$all
-||arrai.tv^$all
 ||artual.co^$all
 ||ascentgeneralinsurance.com^$all
 ||asiafuel.net^$all
@@ -494,7 +493,6 @@
 ||www.arfasteel.com^$all
 ||www.arian-bank.com.af^$all
 ||www.arianikan.com^$all
-||www.arrai.tv^$all
 ||www.arsangco.com^$all
 ||www.arttronix.com^$all
 ||www.arvancloud.com^$all
@@ -932,6 +930,7 @@
 ||www.payandan.com^$all
 ||www.payasamanpars.ir^$all
 ||www.pazargad.org^$all
+||www.peakwayglobal.com^$all
 ||www.persiabank.co.uk^$all
 ||www.persiahormoz.com^$all
 ||www.persiangulffvc.com^$all
@@ -1086,7 +1085,6 @@
 ||www.superchip-ltd.com^$all
 ||www.surabayahobby.com^$all
 ||www.surgutneftegas.ru^$all
-||www.swedishmanagement.ae^$all
 ||www.sweetaparts.com^$all
 ||www.syditek.com.ni^$all
 ||www.sz-alloy.com^$all

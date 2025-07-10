@@ -33,7 +33,6 @@ anticrisis.cc
 aqsatv.ps
 aquanika.com
 aquanikacompany.ru
-arrai.tv
 artual.co
 ascentgeneralinsurance.com
 asiafuel.net
@@ -494,7 +493,6 @@ www.arfada.com
 www.arfasteel.com
 www.arian-bank.com.af
 www.arianikan.com
-www.arrai.tv
 www.arsangco.com
 www.arttronix.com
 www.arvancloud.com
@@ -932,6 +930,7 @@ www.pasnaindustry.com
 www.payandan.com
 www.payasamanpars.ir
 www.pazargad.org
+www.peakwayglobal.com
 www.persiabank.co.uk
 www.persiahormoz.com
 www.persiangulffvc.com
@@ -1086,7 +1085,6 @@ www.sunwaytech.cn
 www.superchip-ltd.com
 www.surabayahobby.com
 www.surgutneftegas.ru
-www.swedishmanagement.ae
 www.sweetaparts.com
 www.syditek.com.ni
 www.sz-alloy.com

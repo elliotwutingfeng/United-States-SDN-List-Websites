@@ -93,7 +93,6 @@
 *://*.arfasteel.com/*
 *://*.arian-bank.com.af/*
 *://*.arianikan.com/*
-*://*.arrai.tv/*
 *://*.arsangco.com/*
 *://*.arttronix.com/*
 *://*.artual.co/*
@@ -720,6 +719,7 @@
 *://*.payandan.com/*
 *://*.payasamanpars.ir/*
 *://*.pazargad.org/*
+*://*.peakwayglobal.com/*
 *://*.pedex.ir/*
 *://*.persiabank.co.uk/*
 *://*.persiahormoz.com/*
@@ -970,7 +970,6 @@
 *://*.surabayahobby.com/*
 *://*.surgutneftegas.ru/*
 *://*.swaidexchange.com/*
-*://*.swedishmanagement.ae/*
 *://*.sweetaparts.com/*
 *://*.syditek.com.ni/*
 *://*.sz-alloy.com/*
