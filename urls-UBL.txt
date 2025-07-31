@@ -47,6 +47,7 @@
 *://*.alfabank.ru/*
 *://*.alfadelex.com/*
 *://*.alfastrah.ru/*
+*://*.algaeship.com/*
 *://*.alhadha.group/*
 *://*.alhadhagroup.com/*
 *://*.alhazmiex.com/*
@@ -171,6 +172,7 @@
 *://*.bpciran.com/*
 *://*.bpi.ir/*
 *://*.bps-sberbank.by/*
+*://*.bptshipping.com/*
 *://*.bricinmobiliaria.com/*
 *://*.brklogistics.com/*
 *://*.bspb.ru/*
@@ -185,6 +187,9 @@
 *://*.cabanaslasflores.com/*
 *://*.calcimin.com/*
 *://*.capitaltap.com/*
+*://*.captaindco.com/*
+*://*.carlingtonltd.com/*
+*://*.carlingtonpetchem.com/*
 *://*.caruna.com.ni/*
 *://*.casagrande-mne.com/*
 *://*.catalistparsian.com/*
@@ -265,6 +270,7 @@
 *://*.dongchuangchem.com/*
 *://*.dorstroycom.ru/*
 *://*.dpi-co.ir/*
+*://*.draco-buren.com/*
 *://*.dscmmc.com/*
 *://*.eastasiatrading.net/*
 *://*.ebonet.net/*
@@ -381,6 +387,7 @@
 *://*.granpect.com/*
 *://*.grarquitectos.mx/*
 *://*.greenarea.me/*
+*://*.greenen.com.tr/*
 *://*.grupoarosfran.net/*
 *://*.grupoepta.com/*
 *://*.gsk-sd.com/*
@@ -455,6 +462,7 @@
 *://*.irmti.ir/*
 *://*.iruae.ae/*
 *://*.isbnk.org/*
+*://*.isbship.com/*
 *://*.isc.co.ir/*
 *://*.isleasingco.com/*
 *://*.isotope.ir/*
@@ -559,6 +567,7 @@
 *://*.massandra.net.ua/*
 *://*.massandra.ua/*
 *://*.masterchain.ru/*
+*://*.maxenergyco.com/*
 *://*.mazakatrading.com/*
 *://*.mbbru.com/*
 *://*.mcs-tch.com/*
@@ -592,6 +601,7 @@
 *://*.middleeastbank.ir/*
 *://*.midhco.com/*
 *://*.miguelleone.com/*
+*://*.milvaousgroup.com/*
 *://*.ministeriopublico.gob.ni/*
 *://*.miragewm.com/*
 *://*.miran.ru/*
@@ -674,6 +684,7 @@
 *://*.nstri.ir/*
 *://*.nsvet.com.ua/*
 *://*.oceanen-tech.com/*
+*://*.oceanleonid.com/*
 *://*.oceanos.ru/*
 *://*.oceanpribor.ru/*
 *://*.odk.ru/*
@@ -999,12 +1010,14 @@
 *://*.tehranprisons.ir/*
 *://*.tejaratbank.ir/*
 *://*.teleserveplus.com/*
+*://*.teodor-shipping.com/*
 *://*.tequilaonze.com/*
 *://*.terra.net.lb/*
 *://*.tesart.ru/*
 *://*.tgr.partners/*
 *://*.theoxytech.com/*
 *://*.therealrc.com/*
+*://*.theultimatespirit.com/*
 *://*.theyangonrestaurant.com/*
 *://*.tibalaji.com/*
 *://*.tiber.su/*
@@ -1101,6 +1114,7 @@
 *://*.vyborgshipyard.ru/*
 *://*.waatasemu.org/*
 *://*.waatasemu.org.ly/*
+*://*.wantashipping.com/*
 *://*.wasteelco.com/*
 *://*.waybank.ru/*
 *://*.web3tech.ru/*

@@ -14,6 +14,7 @@
 ||alfabank.com^$all
 ||alfabank.ru^$all
 ||alfadelex.com^$all
+||algaeship.com^$all
 ||alhadha.group^$all
 ||alhadhagroup.com^$all
 ||aliafco.com^$all
@@ -51,9 +52,12 @@
 ||blenderjkul472odyrnpmnirqgpzd3kms54jrrfycledrvvfbyj3wnqd.onion^$all
 ||bonrailco.ir^$all
 ||bookstarrtion.online^$all
+||bptshipping.com^$all
 ||burgaz.gazprom.ru^$all
 ||buybestelectronic.com^$all
 ||bveb.by^$all
+||carlingtonltd.com^$all
+||carlingtonpetchem.com^$all
 ||cdredos.site^$all
 ||celulandiatallerstore.negocio.site^$all
 ||chatex.com^$all
@@ -93,6 +97,7 @@
 ||dnronline.su^$all
 ||dongchuangchem.com^$all
 ||dorstroycom.ru^$all
+||draco-buren.com^$all
 ||ebonet.net^$all
 ||element-msc.ru^$all
 ||elgoliat.com.ni^$all
@@ -151,6 +156,7 @@
 ||gpsm.ru^$all
 ||gr8researchchemicals-eu.com^$all
 ||grains-middleeast.com^$all
+||greenen.com.tr^$all
 ||gwt.com.my^$all
 ||gzgomei.cn^$all
 ||h-terre.org^$all
@@ -212,6 +218,7 @@
 ||merkurenergyports.com^$all
 ||mexpackingsolutions.com^$all
 ||midas-lighting.cn^$all
+||milvaousgroup.com^$all
 ||ministeriopublico.gob.ni^$all
 ||miran.ru^$all
 ||mksofttech.com^$all
@@ -253,6 +260,7 @@
 ||nstri.aeoi.org.ir^$all
 ||nstri.ir^$all
 ||nsvet.com.ua^$all
+||oceanleonid.com^$all
 ||odnarodyna.org^$all
 ||omiddayins.ir^$all
 ||onerearth.xyz^$all
@@ -386,11 +394,13 @@
 ||tdpmolds.com^$all
 ||tefcas.com.my^$all
 ||tehranprisons.ir^$all
+||teodor-shipping.com^$all
 ||terra.net.lb^$all
 ||tesart.ru^$all
 ||tgr.partners^$all
 ||theoxytech.com^$all
 ||therealrc.com^$all
+||theultimatespirit.com^$all
 ||theyangonrestaurant.com^$all
 ||tidewaterco.com^$all
 ||tidewaterco.ir^$all
@@ -426,6 +436,7 @@
 ||vtbcapital.com^$all
 ||waatasemu.org^$all
 ||waatasemu.org.ly^$all
+||wantashipping.com^$all
 ||waybank.ru^$all
 ||wmi.midhco.com^$all
 ||www.4test.ru^$all
@@ -564,6 +575,7 @@
 ||www.cabanaslasflores.com^$all
 ||www.calcimin.com^$all
 ||www.capitaltap.com^$all
+||www.captaindco.com^$all
 ||www.caruna.com.ni^$all
 ||www.casagrande-mne.com^$all
 ||www.catalistparsian.com^$all
@@ -743,6 +755,7 @@
 ||www.irmti.ir^$all
 ||www.iruae.ae^$all
 ||www.isbnk.org^$all
+||www.isbship.com^$all
 ||www.isc.co.ir^$all
 ||www.isleasingco.com^$all
 ||www.isotope.ir^$all
@@ -820,6 +833,7 @@
 ||www.marshal-shipmanagement.com^$all
 ||www.massandra.net.ua^$all
 ||www.masterchain.ru^$all
+||www.maxenergyco.com^$all
 ||www.mbbru.com^$all
 ||www.mcs-tch.com^$all
 ||www.meaccesstechnology.com^$all

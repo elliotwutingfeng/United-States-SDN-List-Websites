@@ -14,6 +14,7 @@
 ||alfabank.com^
 ||alfabank.ru^
 ||alfadelex.com^
+||algaeship.com^
 ||alhadha.group^
 ||alhadhagroup.com^
 ||aliafco.com^
@@ -51,9 +52,12 @@
 ||blenderjkul472odyrnpmnirqgpzd3kms54jrrfycledrvvfbyj3wnqd.onion^
 ||bonrailco.ir^
 ||bookstarrtion.online^
+||bptshipping.com^
 ||burgaz.gazprom.ru^
 ||buybestelectronic.com^
 ||bveb.by^
+||carlingtonltd.com^
+||carlingtonpetchem.com^
 ||cdredos.site^
 ||celulandiatallerstore.negocio.site^
 ||chatex.com^
@@ -93,6 +97,7 @@
 ||dnronline.su^
 ||dongchuangchem.com^
 ||dorstroycom.ru^
+||draco-buren.com^
 ||ebonet.net^
 ||element-msc.ru^
 ||elgoliat.com.ni^
@@ -151,6 +156,7 @@
 ||gpsm.ru^
 ||gr8researchchemicals-eu.com^
 ||grains-middleeast.com^
+||greenen.com.tr^
 ||gwt.com.my^
 ||gzgomei.cn^
 ||h-terre.org^
@@ -212,6 +218,7 @@
 ||merkurenergyports.com^
 ||mexpackingsolutions.com^
 ||midas-lighting.cn^
+||milvaousgroup.com^
 ||ministeriopublico.gob.ni^
 ||miran.ru^
 ||mksofttech.com^
@@ -253,6 +260,7 @@
 ||nstri.aeoi.org.ir^
 ||nstri.ir^
 ||nsvet.com.ua^
+||oceanleonid.com^
 ||odnarodyna.org^
 ||omiddayins.ir^
 ||onerearth.xyz^
@@ -386,11 +394,13 @@
 ||tdpmolds.com^
 ||tefcas.com.my^
 ||tehranprisons.ir^
+||teodor-shipping.com^
 ||terra.net.lb^
 ||tesart.ru^
 ||tgr.partners^
 ||theoxytech.com^
 ||therealrc.com^
+||theultimatespirit.com^
 ||theyangonrestaurant.com^
 ||tidewaterco.com^
 ||tidewaterco.ir^
@@ -426,6 +436,7 @@
 ||vtbcapital.com^
 ||waatasemu.org^
 ||waatasemu.org.ly^
+||wantashipping.com^
 ||waybank.ru^
 ||wmi.midhco.com^
 ||www.4test.ru^
@@ -564,6 +575,7 @@
 ||www.cabanaslasflores.com^
 ||www.calcimin.com^
 ||www.capitaltap.com^
+||www.captaindco.com^
 ||www.caruna.com.ni^
 ||www.casagrande-mne.com^
 ||www.catalistparsian.com^
@@ -743,6 +755,7 @@
 ||www.irmti.ir^
 ||www.iruae.ae^
 ||www.isbnk.org^
+||www.isbship.com^
 ||www.isc.co.ir^
 ||www.isleasingco.com^
 ||www.isotope.ir^
@@ -820,6 +833,7 @@
 ||www.marshal-shipmanagement.com^
 ||www.massandra.net.ua^
 ||www.masterchain.ru^
+||www.maxenergyco.com^
 ||www.mbbru.com^
 ||www.mcs-tch.com^
 ||www.meaccesstechnology.com^
