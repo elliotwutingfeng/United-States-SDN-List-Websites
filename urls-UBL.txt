@@ -313,6 +313,7 @@
 *://*.fadicogroup.com/*
 *://*.famintrading.com/*
 *://*.fanamoj.com/*
+*://*.fanap.ir/*
 *://*.farsnews.ir/*
 *://*.farzaneganpb.com/*
 *://*.feodosia.com.ua/*

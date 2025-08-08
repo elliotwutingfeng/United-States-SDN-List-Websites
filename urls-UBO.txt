@@ -654,6 +654,7 @@
 ||www.expobank.ru^$all
 ||www.facebook.com^$all
 ||www.fanamoj.com^$all
+||www.fanap.ir^$all
 ||www.farsnews.ir^$all
 ||www.ferrogilan.com^$all
 ||www.fiib.com.my^$all
