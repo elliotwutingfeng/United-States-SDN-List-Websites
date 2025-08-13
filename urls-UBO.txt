@@ -58,6 +58,7 @@
 ||bveb.by^$all
 ||carlingtonltd.com^$all
 ||carlingtonpetchem.com^$all
+||cdmcentite.com^$all
 ||cdredos.site^$all
 ||celulandiatallerstore.negocio.site^$all
 ||chatex.com^$all
@@ -98,6 +99,7 @@
 ||dongchuangchem.com^$all
 ||dorstroycom.ru^$all
 ||draco-buren.com^$all
+||eastrise.hk^$all
 ||ebonet.net^$all
 ||element-msc.ru^$all
 ||elgoliat.com.ni^$all
@@ -370,6 +372,7 @@
 ||srpt.ir^$all
 ||star-co.net.kp^$all
 ||star.ru^$all
+||stardragon.hk^$all
 ||starsmz.ru^$all
 ||status-it.com^$all
 ||stc-spb.ru^$all

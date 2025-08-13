@@ -197,6 +197,7 @@
 *://*.ccb.ru/*
 *://*.ccic.com.sg/*
 *://*.ccicsg.com/*
+*://*.cdmcentite.com/*
 *://*.cdredos.site/*
 *://*.cecchem.com/*
 *://*.ceiec.com/*
@@ -273,6 +274,7 @@
 *://*.draco-buren.com/*
 *://*.dscmmc.com/*
 *://*.eastasiatrading.net/*
+*://*.eastrise.hk/*
 *://*.ebonet.net/*
 *://*.echelon.ru/*
 *://*.ecomaxtrade.com/*
@@ -955,6 +957,7 @@
 *://*.srpt.ir/*
 *://*.sslil.net/*
 *://*.star.ru/*
+*://*.stardragon.hk/*
 *://*.starscom.net/*
 *://*.starsmz.ru/*
 *://*.status-it.com/*
