@@ -28,6 +28,7 @@
 *://*.air-burg.ru/*
 *://*.aja.ir/*
 *://*.ajmac.com/*
+*://*.akaliexpeditions.com/*
 *://*.akbars.ru/*
 *://*.akcept.ru/*
 *://*.akibank.ru/*
@@ -324,6 +325,7 @@
 *://*.filistinvkf.org/*
 *://*.finsb.ru/*
 *://*.fintender.ru/*
+*://*.fishingareus.com/*
 *://*.fkutaman.ru/*
 *://*.fnpcc.com/*
 *://*.fondvostok.ru/*
