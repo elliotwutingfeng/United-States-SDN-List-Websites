@@ -115,6 +115,7 @@
 ||exiar.ru^$all
 ||eximbank.ru^$all
 ||exportcenter.ru^$all
+||exved.com^$all
 ||factoring.ru^$all
 ||fadicogroup.com^$all
 ||famintrading.com^$all
@@ -137,6 +138,7 @@
 ||g3n3sis.org^$all
 ||g3n3sis.pro^$all
 ||garantex.io^$all
+||garantex.org^$all
 ||gardencityhotel.com.kh^$all
 ||genbank.ru^$all
 ||generative.ir^$all
@@ -173,6 +175,7 @@
 ||ideascup.me^$all
 ||ifdk.com^$all
 ||inb.ps^$all
+||indefibank.com^$all
 ||inforion.ru^$all
 ||inforos.ru^$all
 ||inma-maldives.business.site^$all

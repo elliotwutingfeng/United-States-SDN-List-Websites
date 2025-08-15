@@ -311,6 +311,7 @@
 *://*.eximbank.ru/*
 *://*.expobank.ru/*
 *://*.exportcenter.ru/*
+*://*.exved.com/*
 *://*.facebook.com/*
 *://*.factoring.ru/*
 *://*.fadicogroup.com/*
@@ -345,6 +346,7 @@
 *://*.g3n3sis.pro/*
 *://*.galileosmarine.com/*
 *://*.garantex.io/*
+*://*.garantex.org/*
 *://*.gardencityhotel.com.kh/*
 *://*.gatewick.com/*
 *://*.gazprom.ru/*
@@ -445,6 +447,7 @@
 *://*.imarwaiktissad.com/*
 *://*.imsengco.com/*
 *://*.inb.ps/*
+*://*.indefibank.com/*
 *://*.inekocom.ru/*
 *://*.inforion.ru/*
 *://*.inforos.ru/*
