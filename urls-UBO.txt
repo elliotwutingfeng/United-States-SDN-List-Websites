@@ -937,6 +937,7 @@
 ||www.orientalreview.org^$all
 ||www.ovlas-trading.com^$all
 ||www.oxinsteel.ir^$all
+||www.ozarkashipping.com^$all
 ||www.ozonehobby.com^$all
 ||www.paravar-pars.com^$all
 ||www.pars-bana.com^$all

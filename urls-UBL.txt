@@ -719,6 +719,7 @@
 *://*.orientalreview.org/*
 *://*.ovlas-trading.com/*
 *://*.oxinsteel.ir/*
+*://*.ozarkashipping.com/*
 *://*.ozonehobby.com/*
 *://*.paravar-pars.com/*
 *://*.parom-k.ru/*
