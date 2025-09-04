@@ -1061,6 +1061,7 @@
 *://*.tutanota.com/*
 *://*.tvcom.ru/*
 *://*.tvernefteproduct.ru/*
+*://*.tylocalanesthesia.com/*
 *://*.ubrr.ru/*
 *://*.uec-saturn.ru/*
 *://*.ukrport.org.ua/*

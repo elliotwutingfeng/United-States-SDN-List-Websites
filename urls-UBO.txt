@@ -1152,6 +1152,7 @@
 ||www.trv-e.ru^$all
 ||www.ttbank.ir^$all
 ||www.tvernefteproduct.ru^$all
+||www.tylocalanesthesia.com^$all
 ||www.ubrr.ru^$all
 ||www.uec-saturn.ru^$all
 ||www.ukrport.org.ua^$all
