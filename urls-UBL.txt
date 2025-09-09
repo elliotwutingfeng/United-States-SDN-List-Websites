@@ -417,6 +417,7 @@
 *://*.hejabtextile.com/*
 *://*.hermexint.com/*
 *://*.herzallah.ps/*
+*://*.hhbank.com.kh/*
 *://*.hibank24.ir/*
 *://*.hiflb.com/*
 *://*.hodico.com/*

@@ -168,6 +168,7 @@
 ||haleelcommodities.com^$all
 ||hejabtextile.com^$all
 ||hermexint.com^$all
+||hhbank.com.kh^$all
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
