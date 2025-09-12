@@ -499,6 +499,7 @@
 *://*.jyalco.com/*
 *://*.kafa.crimea.ua/*
 *://*.kalco.ir/*
+*://*.kamaran.com/*
 *://*.kamkombank.ru/*
 *://*.karafarinbank.com/*
 *://*.katranji.com/*
@@ -901,6 +902,7 @@
 *://*.shark-intl.com/*
 *://*.shastan.ir/*
 *://*.sheilauriaspa.com/*
+*://*.shibamholding.com/*
 *://*.shoga.net/*
 *://*.shomalcement.com/*
 *://*.shsaintlog.com/*
@@ -1140,6 +1142,7 @@
 *://*.yaltaport.com.ua/*
 *://*.yaroslavl.ru/*
 *://*.yazdrollingmill.com/*
+*://*.yemenarmored.com/*
 *://*.yolimachine.com/*
 *://*.yonastar.com/*
 *://*.yorvinmobiliaria.com/*

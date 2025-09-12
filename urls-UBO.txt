@@ -788,6 +788,7 @@
 ||www.jxlszb.com^$all
 ||www.jyalco.com^$all
 ||www.kalco.ir^$all
+||www.kamaran.com^$all
 ||www.kamkombank.ru^$all
 ||www.karafarinbank.com^$all
 ||www.katranji.com^$all
@@ -1066,6 +1067,7 @@
 ||www.shahedaviation.com^$all
 ||www.shark-intl.com^$all
 ||www.sheilauriaspa.com^$all
+||www.shibamholding.com^$all
 ||www.shomalcement.com^$all
 ||www.siab.ru^$all
 ||www.sibmoll.ru^$all
@@ -1202,6 +1204,7 @@
 ||www.xiaolipharma.com^$all
 ||www.xr-shipping.com^$all
 ||www.yazdrollingmill.com^$all
+||www.yemenarmored.com^$all
 ||www.yolimachine.com^$all
 ||www.yonastar.com^$all
 ||www.ytkmachine.com^$all
