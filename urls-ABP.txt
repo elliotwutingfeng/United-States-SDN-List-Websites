@@ -50,6 +50,7 @@
 ||blender.io^
 ||blender.to^
 ||blenderjkul472odyrnpmnirqgpzd3kms54jrrfycledrvvfbyj3wnqd.onion^
+||bombayrosarito.com^
 ||bonrailco.ir^
 ||bookstarrtion.online^
 ||bptshipping.com^
@@ -606,6 +607,7 @@
 ||www.cidco.ir^
 ||www.clarashipping.com^
 ||www.coalmetbank.ru^
+||www.cocobeachrosarito.com^
 ||www.congofutur.com^
 ||www.cra.ir^
 ||www.crb-dnr.ru^

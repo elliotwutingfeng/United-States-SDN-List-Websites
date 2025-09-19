@@ -165,6 +165,7 @@
 *://*.bntdtorg.by/*
 *://*.boceramic.com/*
 *://*.bodylab.company/*
+*://*.bombayrosarito.com/*
 *://*.bonrailco.ir/*
 *://*.bookstarrtion.online/*
 *://*.bosaco.ir/*
@@ -224,6 +225,7 @@
 *://*.cniihm.ru/*
 *://*.cnpo.ru/*
 *://*.coalmetbank.ru/*
+*://*.cocobeachrosarito.com/*
 *://*.comitet.su/*
 *://*.comscan.ru/*
 *://*.congofutur.com/*
