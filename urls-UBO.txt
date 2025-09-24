@@ -226,7 +226,7 @@
 ||merkurenergyports.com^$all
 ||mexpackingsolutions.com^$all
 ||midas-lighting.cn^$all
-||milvaousgroup.com^$all
+||milavousgroup.com^$all
 ||ministeriopublico.gob.ni^$all
 ||miran.ru^$all
 ||mksofttech.com^$all

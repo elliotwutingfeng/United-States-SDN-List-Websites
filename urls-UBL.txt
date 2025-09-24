@@ -613,7 +613,7 @@
 *://*.middleeastbank.ir/*
 *://*.midhco.com/*
 *://*.miguelleone.com/*
-*://*.milvaousgroup.com/*
+*://*.milavousgroup.com/*
 *://*.ministeriopublico.gob.ni/*
 *://*.miragewm.com/*
 *://*.miran.ru/*
