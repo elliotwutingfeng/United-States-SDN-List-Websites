@@ -824,6 +824,7 @@
 ||www.krona-bank.ru^$all
 ||www.krsormovo.nnov.ru^$all
 ||www.ksc.ir^$all
+||www.ksinternationalpharmacy.com^$all
 ||www.kunlunholding.com^$all
 ||www.kupol.ru^$all
 ||www.kurganmash.ru^$all

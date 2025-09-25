@@ -544,6 +544,7 @@
 *://*.krnpc.com/*
 *://*.krona-bank.ru/*
 *://*.ksc.ir/*
+*://*.ksinternationalpharmacy.com/*
 *://*.kunlunholding.com/*
 *://*.kupol.ru/*
 *://*.kurganmash.ru/*
