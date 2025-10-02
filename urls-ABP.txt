@@ -427,6 +427,7 @@
 ||ultran.ru^
 ||unicious.com^
 ||unijet.ru^
+||unitedbusiness.pt^
 ||univestltd.com^
 ||upt.ru^
 ||uranis.net^
@@ -784,6 +785,7 @@
 ||www.jalili.ir^
 ||www.jhcircuits.com^
 ||www.jhminshengpm.com^
+||www.jiepei.com^
 ||www.jotrin.com^
 ||www.jp-adv.com^
 ||www.jpcomplex.ir^
@@ -1005,6 +1007,7 @@
 ||www.raspletin.ru^
 ||www.raven-black.com^
 ||www.raybeam.cn^
+||www.raypcb.com^
 ||www.razavi.ir^
 ||www.rdb.ru^
 ||www.rdif.ru^
@@ -1024,6 +1027,7 @@
 ||www.ritmeurasia.org^
 ||www.rncb.ru^
 ||www.rnt.ru^
+||www.rocket-pcb.com^
 ||www.rodsmc.com^
 ||www.roe.ru^
 ||www.rosbank.ru^
@@ -1161,6 +1165,7 @@
 ||www.tylocalanesthesia.com^
 ||www.ubrr.ru^
 ||www.uec-saturn.ru^
+||www.uiy.com^
 ||www.ukrport.org.ua^
 ||www.unicumtrade.fi^
 ||www.unistream.ru^

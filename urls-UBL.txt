@@ -493,6 +493,7 @@
 *://*.janskinmn.lol/*
 *://*.jhcircuits.com/*
 *://*.jhminshengpm.com/*
+*://*.jiepei.com/*
 *://*.jotrin.com/*
 *://*.journal-neo.org/*
 *://*.jp-adv.com/*
@@ -805,6 +806,7 @@
 *://*.raspletin.ru/*
 *://*.raven-black.com/*
 *://*.raybeam.cn/*
+*://*.raypcb.com/*
 *://*.razavi.ir/*
 *://*.rdb.ru/*
 *://*.rdif.ru/*
@@ -825,6 +827,7 @@
 *://*.rivierasunrise.com/*
 *://*.rncb.ru/*
 *://*.rnt.ru/*
+*://*.rocket-pcb.com/*
 *://*.rodsmc.com/*
 *://*.roe.ru/*
 *://*.rosbank.ru/*
@@ -1070,6 +1073,7 @@
 *://*.tylocalanesthesia.com/*
 *://*.ubrr.ru/*
 *://*.uec-saturn.ru/*
+*://*.uiy.com/*
 *://*.ukrport.org.ua/*
 *://*.ukrpost.ua/*
 *://*.ukrtel.net/*
@@ -1079,6 +1083,7 @@
 *://*.unijet.ru/*
 *://*.unistream.ru/*
 *://*.united.ru/*
+*://*.unitedbusiness.pt/*
 *://*.unitedgservice.com/*
 *://*.unitedworldint.com/*
 *://*.univestltd.com/*
