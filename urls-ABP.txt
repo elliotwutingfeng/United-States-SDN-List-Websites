@@ -119,9 +119,11 @@
 ||exved.com^
 ||factoring.ru^
 ||fadicogroup.com^
+||fagalab.com.mx^
 ||famintrading.com^
 ||fanamoj.com^
 ||farzaneganpb.com^
+||favelab.com.mx^
 ||filistinvkf.org^
 ||fintender.ru^
 ||fishingareus.com^
@@ -209,6 +211,7 @@
 ||lgnch.spb.ru^
 ||lumiere-elysees.fr^
 ||m3eliteclub.com^
+||macerlab.com^
 ||magarach-institut.ru^
 ||mahantravel.com.my^
 ||mail.ylt.crimea.com^
@@ -299,6 +302,7 @@
 ||qinvictory.com^
 ||quarta.su^
 ||quartierlatinapartments.com^
+||quilab.mx^
 ||rairi.frccsc.ru^
 ||rambler.ru^
 ||raspletin.ru^
@@ -385,6 +389,7 @@
 ||stel.sebastopol.ua^
 ||steplamed.com^
 ||stg-eco.ru^
+||storelab.mx^
 ||stpr.ru^
 ||strategic-culture.org^
 ||street-motor-services.business.site^
@@ -438,6 +443,7 @@
 ||vebinfra.ru^
 ||vebinnovations.ru^
 ||vela-marine.ru^
+||viand.mx^
 ||vniigaz.gazprom.ru^
 ||vostobank.ru^
 ||vostok-kb.ru^
@@ -1124,7 +1130,6 @@
 ||www.sz-alloy.com^
 ||www.t-rubber.com^
 ||www.tabchem.ir^
-||www.tabesa.com.py^
 ||www.tadbirbroker.com^
 ||www.tadbirdrilling.com^
 ||www.tadbirenergy.com^

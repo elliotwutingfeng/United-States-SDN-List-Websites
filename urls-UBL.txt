@@ -317,11 +317,13 @@
 *://*.facebook.com/*
 *://*.factoring.ru/*
 *://*.fadicogroup.com/*
+*://*.fagalab.com.mx/*
 *://*.famintrading.com/*
 *://*.fanamoj.com/*
 *://*.fanap.ir/*
 *://*.farsnews.ir/*
 *://*.farzaneganpb.com/*
+*://*.favelab.com.mx/*
 *://*.feodosia.com.ua/*
 *://*.ferrogilan.com/*
 *://*.fiib.com.my/*
@@ -567,6 +569,7 @@
 *://*.lypgroup.com/*
 *://*.m23mars.org/*
 *://*.m3eliteclub.com/*
+*://*.macerlab.com/*
 *://*.madkandaloo.com/*
 *://*.magarach-institut.ru/*
 *://*.mahantravel.com.my/*
@@ -796,6 +799,7 @@
 *://*.qmb.ir/*
 *://*.quarta.su/*
 *://*.quartierlatinapartments.com/*
+*://*.quilab.mx/*
 *://*.radioautomatic.ru/*
 *://*.rahroshd.ir/*
 *://*.rahroshd.net/*
@@ -982,6 +986,7 @@
 *://*.steplatinamedica.com/*
 *://*.stg-eco.ru/*
 *://*.stop-imperialism.com/*
+*://*.storelab.mx/*
 *://*.stpc.ir/*
 *://*.stpr.ru/*
 *://*.straitship.com/*
@@ -1007,7 +1012,6 @@
 *://*.t-rubber.com/*
 *://*.t1.ru/*
 *://*.tabchem.ir/*
-*://*.tabesa.com.py/*
 *://*.tadbirbroker.com/*
 *://*.tadbirdrilling.com/*
 *://*.tadbirenergy.com/*
@@ -1108,6 +1112,7 @@
 *://*.vebinnovations.ru/*
 *://*.vela-marine.ru/*
 *://*.viam.ru/*
+*://*.viand.mx/*
 *://*.viansteel.com/*
 *://*.vikingbank.ru/*
 *://*.virgo-marine.com/*
