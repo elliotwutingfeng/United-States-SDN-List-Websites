@@ -60,6 +60,7 @@
 *://*.almahdi.ir/*
 *://*.almanar.com.lb/*
 *://*.almaz-kb.ru/*
+*://*.almuhandis.iq/*
 *://*.alnakshabandia-army.org/*
 *://*.alnakshabndia-army.com/*
 *://*.alpha06.cn/*
@@ -1110,6 +1111,7 @@
 *://*.vebeng.ru/*
 *://*.vebinfra.ru/*
 *://*.vebinnovations.ru/*
+*://*.vegastarsm.com/*
 *://*.vela-marine.ru/*
 *://*.viam.ru/*
 *://*.viand.mx/*

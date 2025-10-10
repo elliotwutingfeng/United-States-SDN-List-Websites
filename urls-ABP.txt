@@ -21,6 +21,7 @@
 ||allianceenergy.pk^
 ||alliancefleuvecongo.org^
 ||almahdi.ir^
+||almuhandis.iq^
 ||alquds-city.com^
 ||alquds-online.org^
 ||amanuf.ru^
@@ -1189,6 +1190,7 @@
 ||www.vaslab.ir^
 ||www.vast-chem.com^
 ||www.veb.ru^
+||www.vegastarsm.com^
 ||www.viam.ru^
 ||www.viansteel.com^
 ||www.vikingbank.ru^
