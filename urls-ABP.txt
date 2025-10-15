@@ -298,6 +298,7 @@
 ||port.kafa.crimea.ua^
 ||pouyaair.com^
 ||precious-bullion.com^
+||princebank.com.kh^
 ||ptrco.ir^
 ||pulseniru.com^
 ||qinvictory.com^
@@ -994,6 +995,7 @@
 ||www.presstv.ir^
 ||www.primbank.ru^
 ||www.primetankers.ae^
+||www.princeholdinggroup.com^
 ||www.psbank.ru^
 ||www.pscb.ru^
 ||www.pskb.com^

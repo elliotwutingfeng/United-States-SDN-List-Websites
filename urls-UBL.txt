@@ -785,6 +785,8 @@
 *://*.presstv.ir/*
 *://*.primbank.ru/*
 *://*.primetankers.ae/*
+*://*.princebank.com.kh/*
+*://*.princeholdinggroup.com/*
 *://*.psbank.ru/*
 *://*.pscb.ru/*
 *://*.pskb.com/*
