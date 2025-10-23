@@ -29,6 +29,7 @@
 ||amnafzar.com^
 ||amorlogis.com^
 ||annaboylechem.globalimporter.net^
+||anpz.rosneft.ru^
 ||ansarexchange.ir^
 ||anti-global.ru^
 ||anticrisis.cc^
@@ -210,6 +211,7 @@
 ||leasingday.ir^
 ||lescpanama.com^
 ||lgnch.spb.ru^
+||lukoil.ru^
 ||lumiere-elysees.fr^
 ||m3eliteclub.com^
 ||macerlab.com^
@@ -263,6 +265,7 @@
 ||nitc.co.ir^
 ||nitcsharjah.com^
 ||nitcshipping.com^
+||nknpz.rosneft.ru^
 ||nnp.surgutneftegas.ru^
 ||novilabmobile.com^
 ||novilabmobile.ru^
@@ -311,6 +314,7 @@
 ||rivierasunrise.com^
 ||rncb.ru^
 ||roseurofactoring.ru^
+||rosneft.ru^
 ||rossia3.ru^
 ||round.ru^
 ||ruhmeerdiamonds.com^
@@ -367,6 +371,7 @@
 ||smokeyschemsite.com^
 ||smp.com.ua^
 ||smt-k.ru^
+||snpz.rosneft.ru^
 ||snte.co.ao^
 ||solmatepciran.com^
 ||somelmark.store^
@@ -439,6 +444,7 @@
 ||upt.ru^
 ||uranis.net^
 ||utekcomposite.com^
+||vankoroil.ru^
 ||veb-leasing.ru^
 ||vebcapital.ru^
 ||vebeng.ru^
@@ -848,6 +854,7 @@
 ||www.lolalolita.com^
 ||www.lontek.cn^
 ||www.lordegan.co^
+||www.lukoil.ru^
 ||www.lypgroup.com^
 ||www.m23mars.org^
 ||www.madkandaloo.com^
@@ -1042,6 +1049,7 @@
 ||www.rosbank.ru^
 ||www.rose-shipping.gr^
 ||www.rosneft.com^
+||www.rosneft.ru^
 ||www.rostfinance.ru^
 ||www.rouhinasteel.com^
 ||www.round.ru^
@@ -1246,6 +1254,7 @@
 ||yaroslavl.ru^
 ||yolimachine.com^
 ||yorvinmobiliaria.com^
+||yungjsc.com^
 ||zalivkerch.com^
 ||zaovad.com^
 ||zapad-invest.gazprom.ru^

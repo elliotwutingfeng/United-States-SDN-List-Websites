@@ -566,6 +566,7 @@
 *://*.lolalolita.com/*
 *://*.lontek.cn/*
 *://*.lordegan.co/*
+*://*.lukoil.ru/*
 *://*.lumiere-elysees.fr/*
 *://*.lypgroup.com/*
 *://*.m23mars.org/*
@@ -841,6 +842,7 @@
 *://*.rose-shipping.gr/*
 *://*.roseurofactoring.ru/*
 *://*.rosneft.com/*
+*://*.rosneft.ru/*
 *://*.rossia3.ru/*
 *://*.rostfinance.ru/*
 *://*.rouhinasteel.com/*
@@ -1105,6 +1107,7 @@
 *://*.valerianlabs.com/*
 *://*.valfajr.ir/*
 *://*.vanessaimex.com/*
+*://*.vankoroil.ru/*
 *://*.vaslab.ir/*
 *://*.vast-chem.com/*
 *://*.veb-leasing.ru/*
@@ -1165,6 +1168,7 @@
 *://*.yorvinmobiliaria.com/*
 *://*.ytkmachine.com/*
 *://*.ytkpack.com/*
+*://*.yungjsc.com/*
 *://*.yuzemachinery.com/*
 *://*.zadna-int.com/*
 *://*.zaliv.com/*
