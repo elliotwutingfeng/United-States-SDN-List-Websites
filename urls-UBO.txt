@@ -313,6 +313,7 @@
 ||raspletin.ru^$all
 ||rivierasunrise.com^$all
 ||rncb.ru^$all
+||rosettagaming.com^$all
 ||roseurofactoring.ru^$all
 ||rosneft.ru^$all
 ||rossia3.ru^$all

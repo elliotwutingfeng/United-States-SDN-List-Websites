@@ -840,6 +840,7 @@
 *://*.roe.ru/*
 *://*.rosbank.ru/*
 *://*.rose-shipping.gr/*
+*://*.rosettagaming.com/*
 *://*.roseurofactoring.ru/*
 *://*.rosneft.com/*
 *://*.rosneft.ru/*
