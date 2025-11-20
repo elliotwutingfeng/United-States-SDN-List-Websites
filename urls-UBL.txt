@@ -562,6 +562,7 @@
 *://*.leasingday.ir/*
 *://*.lescpanama.com/*
 *://*.light-shipmanagement.com/*
+*://*.live.ca/*
 *://*.lockobank.ru/*
 *://*.lolalolita.com/*
 *://*.lontek.cn/*
@@ -572,6 +573,7 @@
 *://*.m23mars.org/*
 *://*.m3eliteclub.com/*
 *://*.macerlab.com/*
+*://*.madeinitalymotorcycles.com/*
 *://*.madkandaloo.com/*
 *://*.magarach-institut.ru/*
 *://*.mahantravel.com.my/*
@@ -629,6 +631,7 @@
 *://*.mizusushi.mx/*
 *://*.mkb.ru/*
 *://*.mksofttech.com/*
+*://*.ml.cloud/*
 *://*.mmkturkey.com.tr/*
 *://*.mobinogp.com/*
 *://*.mobinpc.net/*
@@ -944,6 +947,7 @@
 *://*.skynet.be/*
 *://*.slaviabank.ru/*
 *://*.sld-logistics.org/*
+*://*.smartdi.rs/*
 *://*.smilebitcard.com/*
 *://*.smilepayments.com/*
 *://*.smiletechnologies.com.ar/*
@@ -991,6 +995,7 @@
 *://*.steplamed.com/*
 *://*.steplatinamedica.com/*
 *://*.stg-eco.ru/*
+*://*.stileitaliano.com/*
 *://*.stop-imperialism.com/*
 *://*.storelab.mx/*
 *://*.stpc.ir/*

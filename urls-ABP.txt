@@ -211,6 +211,7 @@
 ||leasingday.ir^
 ||lescpanama.com^
 ||lgnch.spb.ru^
+||live.ca^
 ||lukoil.ru^
 ||lumiere-elysees.fr^
 ||m3eliteclub.com^
@@ -236,6 +237,7 @@
 ||ministeriopublico.gob.ni^
 ||miran.ru^
 ||mksofttech.com^
+||ml.cloud^
 ||mmkturkey.com.tr^
 ||modulbank.ru^
 ||mofa.lat^
@@ -367,6 +369,7 @@
 ||skyda.co^
 ||skynet.be^
 ||sld-logistics.org^
+||smartdi.rs^
 ||smilebitcard.com^
 ||smilepayments.com^
 ||smokeyschemsite.com^
@@ -858,6 +861,7 @@
 ||www.lukoil.ru^
 ||www.lypgroup.com^
 ||www.m23mars.org^
+||www.madeinitalymotorcycles.com^
 ||www.madkandaloo.com^
 ||www.manartv.com^
 ||www.marcap.ru^
@@ -1125,6 +1129,7 @@
 ||www.starscom.net^
 ||www.steplatinamedica.com^
 ||www.stg-eco.ru^
+||www.stileitaliano.com^
 ||www.stop-imperialism.com^
 ||www.stpc.ir^
 ||www.stpr.ru^
