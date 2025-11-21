@@ -226,6 +226,7 @@
 ||maps.southfront.org^$all
 ||marcap.ru^$all
 ||marines-solution.com^$all
+||marsinvestment.ae^$all
 ||massandra.ua^$all
 ||mazakatrading.com^$all
 ||med-std.ru^$all
@@ -715,6 +716,7 @@
 ||www.gmiprojects.de^$all
 ||www.gmships.com^$all
 ||www.goklergroup.com^$all
+||www.goldenargo.co^$all
 ||www.goldenrc.com^$all
 ||www.goldenstar-co.com^$all
 ||www.golfrateangola.com^$all
@@ -1258,6 +1260,7 @@
 ||ya.ru^$all
 ||yaltaport.com.ua^$all
 ||yaroslavl.ru^$all
+||yazdairways.com^$all
 ||yolimachine.com^$all
 ||yorvinmobiliaria.com^$all
 ||yungjsc.com^$all
