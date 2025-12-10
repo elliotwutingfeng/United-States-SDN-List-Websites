@@ -2,6 +2,7 @@
 *://*.3data.ru/*
 *://*.4test.ru/*
 *://*.911.af/*
+*://*.a4si.com.co/*
 *://*.aaestudioarquitectonico.com/*
 *://*.abank.ru/*
 *://*.abr.ru/*
@@ -377,6 +378,7 @@
 *://*.global-key.ru/*
 *://*.globalimporter.net/*
 *://*.globalrc.net/*
+*://*.globalstaffingsa.com/*
 *://*.globaltradinggroup.com/*
 *://*.globalvisiness.com/*
 *://*.gmfarmco.com/*
@@ -578,6 +580,7 @@
 *://*.madkandaloo.com/*
 *://*.magarach-institut.ru/*
 *://*.mahantravel.com.my/*
+*://*.maineglobal.net/*
 *://*.makeyev.ru/*
 *://*.mako-holding.com/*
 *://*.mako.ua/*

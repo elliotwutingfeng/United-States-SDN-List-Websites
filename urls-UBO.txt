@@ -1,6 +1,7 @@
 ||0day.llc^$all
 ||3data.ru^$all
 ||911.af^$all
+||a4si.com.co^$all
 ||abr.ru^$all
 ||aeza.net^$all
 ||aeza.ru^$all
@@ -156,6 +157,7 @@
 ||gkmotor.com^$all
 ||global-key.ru^$all
 ||globalrc.net^$all
+||globalstaffingsa.com^$all
 ||globalvisiness.com^$all
 ||gmfarmco.com^$all
 ||golfrate.com^$all
@@ -219,6 +221,7 @@
 ||magarach-institut.ru^$all
 ||mahantravel.com.my^$all
 ||mail.ylt.crimea.com^$all
+||maineglobal.net^$all
 ||makeyev.ru^$all
 ||mako-holding.com^$all
 ||mako.ua^$all
