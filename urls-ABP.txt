@@ -299,6 +299,7 @@
 ||peykasa.ir^
 ||pgapco.ir^
 ||phnompenhhotel.com^
+||phoenixfze.com^
 ||picreadi.com^
 ||picreadi.ru^
 ||pishro-tejarat.com^
@@ -644,6 +645,7 @@
 ||www.daltrd.com^
 ||www.damavandmining.com^
 ||www.damavandpg.co.ir^
+||www.daryashipping.in^
 ||www.daybankbroker.com^
 ||www.daybankinvest.com^
 ||www.dayexchange.ir^
