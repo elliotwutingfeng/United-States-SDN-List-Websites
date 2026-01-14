@@ -452,6 +452,8 @@
 *://*.igsm.ae/*
 *://*.ihu.ac.ir/*
 *://*.iib.int/*
+*://*.ikhwanweb.com/*
+*://*.ikhwaonline.com/*
 *://*.ikonpetroleum.com/*
 *://*.ilampetro.com/*
 *://*.imarwaiktissad.com/*

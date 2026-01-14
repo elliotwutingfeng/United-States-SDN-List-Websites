@@ -769,6 +769,8 @@
 ||www.igsm.ae^$all
 ||www.ihu.ac.ir^$all
 ||www.iib.int^$all
+||www.ikhwanweb.com^$all
+||www.ikhwaonline.com^$all
 ||www.ikonpetroleum.com^$all
 ||www.ilampetro.com^$all
 ||www.imarwaiktissad.com^$all
