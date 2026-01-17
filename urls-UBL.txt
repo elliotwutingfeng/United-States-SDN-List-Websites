@@ -12,6 +12,7 @@
 *://*.acidsazan.ir/*
 *://*.acuta.ru/*
 *://*.addameer.org/*
+*://*.adeema.com/*
 *://*.adoongroup.com/*
 *://*.aeoi.org.ir/*
 *://*.aerosila.ru/*
@@ -22,6 +23,7 @@
 *://*.afinor.biz/*
 *://*.ag-nord.ru/*
 *://*.agdbank.com/*
+*://*.agefzc.com/*
 *://*.agri-bank.com/*
 *://*.agroros.ru/*
 *://*.aictc.ir/*
@@ -69,6 +71,7 @@
 *://*.alphaindustry.cn/*
 *://*.alquds-city.com/*
 *://*.alquds-online.org/*
+*://*.alsaagroup.com/*
 *://*.alturath.org/*
 *://*.alweaam.ps/*
 *://*.alzarooniexchange.ae/*
@@ -882,6 +885,7 @@
 *://*.saidshuhada.com/*
 *://*.salavathz.ru/*
 *://*.salcocompany.com/*
+*://*.samaairline.com/*
 *://*.sanabel.org.uk/*
 *://*.sanlitun.com.tr/*
 *://*.sapa.ir/*

@@ -482,12 +482,14 @@
 ||www.acidsazan.ir^
 ||www.acuta.ru^
 ||www.addameer.org^
+||www.adeema.com^
 ||www.adoongroup.com^
 ||www.aeoi.org.ir^
 ||www.aerosila.ru^
 ||www.aerskyone.com^
 ||www.ag-nord.ru^
 ||www.agdbank.com^
+||www.agefzc.com^
 ||www.agri-bank.com^
 ||www.agroros.ru^
 ||www.aictc.ir^
@@ -518,6 +520,7 @@
 ||www.alpha06.com^
 ||www.alphaindustry.cn^
 ||www.alquds-online.org^
+||www.alsaagroup.com^
 ||www.alturath.org^
 ||www.alzarooniexchange.ae^
 ||www.aminib.com^
@@ -1080,6 +1083,7 @@
 ||www.saharathunder.com^
 ||www.saidshuhada.com^
 ||www.salavathz.ru^
+||www.samaairline.com^
 ||www.sanabel.org.uk^
 ||www.sanlitun.com.tr^
 ||www.sapidshpg.com^
