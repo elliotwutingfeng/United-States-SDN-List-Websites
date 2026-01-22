@@ -814,6 +814,7 @@
 *://*.ptsecurity.ru/*
 *://*.pullman.solutions/*
 *://*.pulseniru.com/*
+*://*.qawafilalkhair.net/*
 *://*.qinvictory.com/*
 *://*.qmb.ir/*
 *://*.quarta.su/*

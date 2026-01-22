@@ -311,6 +311,7 @@
 ||princebank.com.kh^$all
 ||ptrco.ir^$all
 ||pulseniru.com^$all
+||qawafilalkhair.net^$all
 ||qinvictory.com^$all
 ||quarta.su^$all
 ||quartierlatinapartments.com^$all
