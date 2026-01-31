@@ -1198,6 +1198,8 @@
 *://*.zapsibkombank.ru/*
 *://*.zarrincement.com/*
 *://*.zawayagroup.com/*
+*://*.zedcex.com/*
+*://*.zedxion.io/*
 *://*.zenit.ru/*
 *://*.zenships.com/*
 *://*.zest-leasing.ru/*

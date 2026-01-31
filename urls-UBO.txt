@@ -1261,6 +1261,8 @@
 ||www.zaovad.com^$all
 ||www.zapsibkombank.ru^$all
 ||www.zarrincement.com^$all
+||www.zedcex.com^$all
+||www.zedxion.io^$all
 ||www.zenit.ru^$all
 ||www.zenships.com^$all
 ||www.zest-leasing.ru^$all
