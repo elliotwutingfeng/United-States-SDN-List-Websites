@@ -203,6 +203,8 @@
 ||kk-pu.com^$all
 ||kmolz.ru^$all
 ||kohkongresort.com^$all
+||kovaydesarrollos.com^$all
+||kovaygardens.com^$all
 ||kpars.ir^$all
 ||kps-co.com^$all
 ||kpsk-ins.ru^$all
