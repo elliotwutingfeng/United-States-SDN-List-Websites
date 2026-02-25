@@ -3,6 +3,7 @@
 ||911.af^$all
 ||a4si.com.co^$all
 ||abr.ru^$all
+||advance-sec.com^$all
 ||aeza.net^$all
 ||aeza.ru^$all
 ||aezadns.com^$all
@@ -291,6 +292,7 @@
 ||onmedia.io^$all
 ||ooorngrp.rosneft.com^$all
 ||ooosgm.ru^$all
+||opzero.ru^$all
 ||orc.ru^$all
 ||oreanda.biz^$all
 ||parom-k.ru^$all

@@ -14,6 +14,7 @@
 *://*.addameer.org/*
 *://*.adeema.com/*
 *://*.adoongroup.com/*
+*://*.advance-sec.com/*
 *://*.aeoi.org.ir/*
 *://*.aerosila.ru/*
 *://*.aerskyone.com/*
@@ -740,6 +741,7 @@
 *://*.ooosgm.ru/*
 *://*.open.ru/*
 *://*.optimafreight.fi/*
+*://*.opzero.ru/*
 *://*.orc.ru/*
 *://*.oreanda.biz/*
 *://*.oreelaser.cn/*
