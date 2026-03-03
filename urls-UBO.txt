@@ -920,6 +920,7 @@
 ||www.mkb.ru^$all
 ||www.mobinogp.com^$all
 ||www.mobinpc.net^$all
+||www.mod.gov.rw^$all
 ||www.modulsan.com^$all
 ||www.moex.com^$all
 ||www.morskoybank.com^$all

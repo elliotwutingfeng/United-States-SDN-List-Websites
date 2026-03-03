@@ -649,6 +649,7 @@
 *://*.mmkturkey.com.tr/*
 *://*.mobinogp.com/*
 *://*.mobinpc.net/*
+*://*.mod.gov.rw/*
 *://*.modulbank.ru/*
 *://*.modulsan.com/*
 *://*.moex.com/*
