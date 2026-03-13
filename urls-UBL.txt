@@ -366,6 +366,7 @@
 *://*.gazprombank.ru/*
 *://*.gbpc.net/*
 *://*.gchfinland.fi/*
+*://*.gdd.org/*
 *://*.geg.ir/*
 *://*.genbank.ru/*
 *://*.generative.ir/*
@@ -545,6 +546,7 @@
 *://*.kk-pu.com/*
 *://*.kmolz.ru/*
 *://*.knaapo.ru/*
+*://*.knrp.org/*
 *://*.kohkongresort.com/*
 *://*.kovaydesarrollos.com/*
 *://*.kovaygardens.com/*

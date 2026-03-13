@@ -147,6 +147,7 @@
 ||garantex.io^
 ||garantex.org^
 ||gardencityhotel.com.kh^
+||gdd.org^
 ||genbank.ru^
 ||generative.ir^
 ||genesis.market^
@@ -203,6 +204,7 @@
 ||kingstonholding.com^
 ||kk-pu.com^
 ||kmolz.ru^
+||knrp.org^
 ||kohkongresort.com^
 ||kovaydesarrollos.com^
 ||kovaygardens.com^
