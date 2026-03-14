@@ -365,7 +365,6 @@
 *://*.gazprombank.lu/*
 *://*.gazprombank.ru/*
 *://*.gbpc.net/*
-*://*.gchfinland.fi/*
 *://*.gdd.org/*
 *://*.geg.ir/*
 *://*.genbank.ru/*
@@ -1115,7 +1114,6 @@
 *://*.ukrtel.net/*
 *://*.ultran.ru/*
 *://*.unicious.com/*
-*://*.unicumtrade.fi/*
 *://*.unijet.ru/*
 *://*.unistream.ru/*
 *://*.united.ru/*

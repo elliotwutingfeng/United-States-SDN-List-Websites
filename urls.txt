@@ -1032,7 +1032,6 @@ www.gatewick.com
 www.gazprombank.ch
 www.gazprombank.lu
 www.gazprombank.ru
-www.gchfinland.fi
 www.geg.ir
 www.genbank.ru
 www.ghbi.ir
@@ -1427,7 +1426,6 @@ www.ubrr.ru
 www.uec-saturn.ru
 www.uiy.com
 www.ukrport.org.ua
-www.unicumtrade.fi
 www.unistream.ru
 www.united.ru
 www.unitedworldint.com

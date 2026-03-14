@@ -718,7 +718,6 @@
 ||www.gazprombank.lu^
 ||www.gazprombank.ru^
 ||www.gbpc.net^
-||www.gchfinland.fi^
 ||www.geg.ir^
 ||www.genbank.ru^
 ||www.gerdab.ir^
@@ -1210,7 +1209,6 @@
 ||www.uec-saturn.ru^
 ||www.uiy.com^
 ||www.ukrport.org.ua^
-||www.unicumtrade.fi^
 ||www.unistream.ru^
 ||www.united.ru^
 ||www.unitedgservice.com^
