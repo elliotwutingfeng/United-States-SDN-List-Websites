@@ -200,6 +200,7 @@
 *://*.carlingtonpetchem.com/*
 *://*.caruna.com.ni/*
 *://*.casagrande-mne.com/*
+*://*.casinocentenarionld.com/*
 *://*.catalistparsian.com/*
 *://*.cbde-liquids.co.uk/*
 *://*.ccb.ru/*
@@ -270,6 +271,7 @@
 *://*.des.com.tw/*
 *://*.dialog-regions.ru/*
 *://*.dialog.info/*
+*://*.diamantecasino.com.mx/*
 *://*.didaaaa.com/*
 *://*.dirac-tech.com/*
 *://*.dlmm.com.cn/*

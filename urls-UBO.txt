@@ -63,6 +63,7 @@
 ||bveb.by^$all
 ||carlingtonltd.com^$all
 ||carlingtonpetchem.com^$all
+||casinocentenarionld.com^$all
 ||cdmcentite.com^$all
 ||cdredos.site^$all
 ||celulandiatallerstore.negocio.site^$all
@@ -95,6 +96,7 @@
 ||day-cc.com^$all
 ||dbosaas.ru^$all
 ||dep.tvcom.ru^$all
+||diamantecasino.com.mx^$all
 ||didaaaa.com^$all
 ||dirac-tech.com^$all
 ||dlmm.com.cn^$all
