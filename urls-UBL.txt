@@ -441,6 +441,7 @@
 *://*.hotelastorres.com/*
 *://*.hotelito.com/*
 *://*.house-of-art.com.hk/*
+*://*.houseofshipping.com/*
 *://*.hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/*
 *://*.hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/*
 *://*.iasco.ir/*
@@ -749,6 +750,7 @@
 *://*.orc.ru/*
 *://*.oreanda.biz/*
 *://*.oreelaser.cn/*
+*://*.orielgrp.com/*
 *://*.orientalreview.org/*
 *://*.ovlas-trading.com/*
 *://*.oxinsteel.ir/*
@@ -1055,6 +1057,7 @@
 *://*.tarasteel.com/*
 *://*.tas-tek.com/*
 *://*.tasnimnews.com/*
+*://*.taylor-shipping.com/*
 *://*.tcbank.by/*
 *://*.tchaintech.com/*
 *://*.tdday.ir/*

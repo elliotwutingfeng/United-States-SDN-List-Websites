@@ -182,6 +182,7 @@
 ||hhbank.com.kh^$all
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
+||houseofshipping.com^$all
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
 ||hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion^$all
 ||ideascup.me^$all
@@ -299,6 +300,7 @@
 ||opzero.ru^$all
 ||orc.ru^$all
 ||oreanda.biz^$all
+||orielgrp.com^$all
 ||parom-k.ru^$all
 ||pars-tile.com^$all
 ||parssarralle.ir^$all
@@ -429,6 +431,7 @@
 ||t1.ru^$all
 ||tagmspl.com^$all
 ||tas-tek.com^$all
+||taylor-shipping.com^$all
 ||tdday.ir^$all
 ||tdpmolds.com^$all
 ||tefcas.com.my^$all
