@@ -685,6 +685,7 @@
 ||www.elemento.com.mt^$all
 ||www.elgoliat.com.ni^$all
 ||www.elitdiamond.net^$all
+||www.emsanic.com^$all
 ||www.en.alweaam.ps^$all
 ||www.en.msc.ir^$all
 ||www.en.tmgic.ir^$all

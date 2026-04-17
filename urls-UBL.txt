@@ -300,6 +300,7 @@
 *://*.elgoliat.com.ni/*
 *://*.elitdiamond.net/*
 *://*.eluent.ru/*
+*://*.emsanic.com/*
 *://*.emtp.com.ua/*
 *://*.enbank.ir/*
 *://*.energobank.ru/*
