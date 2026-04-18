@@ -183,6 +183,7 @@
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
 ||houseofshipping.com^$all
+||hrfenix.com^$all
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
 ||hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion^$all
 ||ideascup.me^$all
@@ -245,6 +246,7 @@
 ||merkurenergyports.com^$all
 ||mexpackingsolutions.com^$all
 ||midas-lighting.cn^$all
+||mifuturoglobal.com^$all
 ||milavousgroup.com^$all
 ||ministeriopublico.gob.ni^$all
 ||miran.ru^$all

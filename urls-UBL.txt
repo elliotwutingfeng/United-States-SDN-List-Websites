@@ -443,6 +443,7 @@
 *://*.hotelito.com/*
 *://*.house-of-art.com.hk/*
 *://*.houseofshipping.com/*
+*://*.hrfenix.com/*
 *://*.hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/*
 *://*.hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/*
 *://*.iasco.ir/*
@@ -640,6 +641,7 @@
 *://*.midasrs.com/*
 *://*.middleeastbank.ir/*
 *://*.midhco.com/*
+*://*.mifuturoglobal.com/*
 *://*.miguelleone.com/*
 *://*.milavousgroup.com/*
 *://*.ministeriopublico.gob.ni/*
