@@ -214,6 +214,7 @@
 *://*.cfb.ru/*
 *://*.cgstc.com/*
 *://*.cgtradefze.com/*
+*://*.chabok.aero/*
 *://*.chadormalu.com/*
 *://*.chatex.com/*
 *://*.chatextech.com/*
