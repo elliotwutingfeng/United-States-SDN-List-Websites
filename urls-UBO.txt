@@ -67,6 +67,7 @@
 ||cdmcentite.com^$all
 ||cdredos.site^$all
 ||celulandiatallerstore.negocio.site^$all
+||central-logistica-de-servicios.webnode.es^$all
 ||chatex.com^$all
 ||chatextech.com^$all
 ||chimmed.ru^$all
@@ -179,6 +180,7 @@
 ||haleelcommodities.com^$all
 ||hejabtextile.com^$all
 ||hermexint.com^$all
+||hfcommercialbank.com^$all
 ||hhbank.com.kh^$all
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
