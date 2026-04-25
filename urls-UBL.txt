@@ -432,6 +432,7 @@
 *://*.hdsac.net/*
 *://*.hebeicrovell.com/*
 *://*.hejabtextile.com/*
+*://*.henglipc.com/*
 *://*.hermexint.com/*
 *://*.herzallah.ps/*
 *://*.hfcommercialbank.com/*

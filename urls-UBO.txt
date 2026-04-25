@@ -767,6 +767,7 @@
 ||www.hdasco.com^$all
 ||www.hdsac.net^$all
 ||www.hebeicrovell.com^$all
+||www.henglipc.com^$all
 ||www.herzallah.ps^$all
 ||www.hibank24.ir^$all
 ||www.hiflb.com^$all
