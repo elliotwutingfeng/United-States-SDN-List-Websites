@@ -417,6 +417,7 @@
 *://*.gsk-sd.com/*
 *://*.guanlang-group.com/*
 *://*.guhring.ru/*
+*://*.gulfenergy.info/*
 *://*.gutabank.ru/*
 *://*.gwt.com.my/*
 *://*.gzgomei.cn/*
