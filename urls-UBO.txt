@@ -111,6 +111,7 @@
 ||ebonet.net^$all
 ||element-msc.ru^$all
 ||elgoliat.com.ni^$all
+||elitefzco.com^$all
 ||eluent.ru^$all
 ||emtp.com.ua^$all
 ||en.ivbb.ir^$all
@@ -276,6 +277,7 @@
 ||nahaja.aja.ir^$all
 ||najipars.com^$all
 ||naver.com^$all
+||navira.com.mx^$all
 ||neovox.ru^$all
 ||newhorizon.ir^$all
 ||news-front.info^$all
@@ -1193,6 +1195,7 @@
 ||www.tdpmolds.com^$all
 ||www.tdpsell.com^$all
 ||www.tecnotar.com^$all
+||www.teesat.com^$all
 ||www.tehrancement.com^$all
 ||www.tejaratbank.ir^$all
 ||www.teleserveplus.com^$all

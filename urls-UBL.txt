@@ -300,6 +300,7 @@
 *://*.elemento.com.mt/*
 *://*.elgoliat.com.ni/*
 *://*.elitdiamond.net/*
+*://*.elitefzco.com/*
 *://*.eluent.ru/*
 *://*.emsanic.com/*
 *://*.emtp.com.ua/*
@@ -690,6 +691,7 @@
 *://*.najipars.com/*
 *://*.narod.ru/*
 *://*.naver.com/*
+*://*.navira.com.mx/*
 *://*.nbsaige.com/*
 *://*.ndb24.ru/*
 *://*.ndco.ir/*
@@ -1071,6 +1073,7 @@
 *://*.tdpmolds.com/*
 *://*.tdpsell.com/*
 *://*.tecnotar.com/*
+*://*.teesat.com/*
 *://*.tefcas.com.my/*
 *://*.tehrancement.com/*
 *://*.tehranprisons.ir/*
