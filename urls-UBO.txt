@@ -976,6 +976,7 @@
 ||www.nsd.ru^$all
 ||www.nsg-ins.ru^$all
 ||www.nskbl.ru^$all
+||www.oceanallianz.com^$all
 ||www.oceanen-tech.com^$all
 ||www.oceanos.ru^$all
 ||www.oceanpribor.ru^$all

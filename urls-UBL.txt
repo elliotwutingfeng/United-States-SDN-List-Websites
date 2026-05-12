@@ -733,6 +733,7 @@
 *://*.nskbl.ru/*
 *://*.nstri.ir/*
 *://*.nsvet.com.ua/*
+*://*.oceanallianz.com/*
 *://*.oceanen-tech.com/*
 *://*.oceanleonid.com/*
 *://*.oceanos.ru/*
