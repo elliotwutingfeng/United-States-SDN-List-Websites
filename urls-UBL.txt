@@ -798,6 +798,7 @@
 *://*.pgbidboland.ir/*
 *://*.pgpic.ir/*
 *://*.pgpicc.com/*
+*://*.pgsa.ir/*
 *://*.pgsoc.ir/*
 *://*.phiolent.com/*
 *://*.phnompenhhotel.com/*

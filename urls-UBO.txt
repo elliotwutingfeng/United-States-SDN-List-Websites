@@ -315,6 +315,7 @@
 ||peykasa.com^$all
 ||peykasa.ir^$all
 ||pgapco.ir^$all
+||pgsa.ir^$all
 ||phnompenhhotel.com^$all
 ||phoenixfze.com^$all
 ||picreadi.com^$all
