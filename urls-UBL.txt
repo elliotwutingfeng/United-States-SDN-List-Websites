@@ -413,6 +413,7 @@
 *://*.grarquitectos.mx/*
 *://*.greenarea.me/*
 *://*.greenen.com.tr/*
+*://*.greenlightuae.com/*
 *://*.grupoarosfran.net/*
 *://*.grupoepta.com/*
 *://*.gsk-sd.com/*
@@ -1001,6 +1002,7 @@
 *://*.somelmark.store/*
 *://*.somicgroup.ir/*
 *://*.somicgroup.net/*
+*://*.sorena.ir/*
 *://*.source1herbs.com/*
 *://*.sourceonewellness.com/*
 *://*.southfront.org/*

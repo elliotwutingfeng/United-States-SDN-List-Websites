@@ -403,6 +403,7 @@
 ||snte.co.ao^$all
 ||solmatepciran.com^$all
 ||somelmark.store^$all
+||sorena.ir^$all
 ||southfront.org^$all
 ||sovcombank-leasing.ru^$all
 ||sovcombank.ru^$all
@@ -756,6 +757,7 @@
 ||www.granpect.com^$all
 ||www.grarquitectos.mx^$all
 ||www.greenarea.me^$all
+||www.greenlightuae.com^$all
 ||www.grupoarosfran.net^$all
 ||www.grupoepta.com^$all
 ||www.gsk-sd.com^$all
