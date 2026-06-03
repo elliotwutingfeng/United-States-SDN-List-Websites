@@ -50,6 +50,7 @@
 ||begemot.media^$all
 ||best2pay.net^$all
 ||biopharmist.com^$all
+||bitpin.ir^$all
 ||bk.ru^$all
 ||blender.io^$all
 ||blender.to^$all
@@ -288,6 +289,7 @@
 ||nitcshipping.com^$all
 ||nknpz.rosneft.ru^$all
 ||nnp.surgutneftegas.ru^$all
+||nobitex.ir^$all
 ||novilabmobile.com^$all
 ||novilabmobile.ru^$all
 ||novorossia.co^$all
@@ -336,6 +338,7 @@
 ||quilab.mx^$all
 ||rairi.frccsc.ru^$all
 ||rambler.ru^$all
+||ramzinex.com^$all
 ||raspletin.ru^$all
 ||rivierasunrise.com^$all
 ||rncb.ru^$all
@@ -490,6 +493,7 @@
 ||vtbcapital.com^$all
 ||waatasemu.org^$all
 ||waatasemu.org.ly^$all
+||wallex.ir^$all
 ||wantashipping.com^$all
 ||waybank.ru^$all
 ||wmi.midhco.com^$all
