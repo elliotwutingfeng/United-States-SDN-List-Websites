@@ -508,6 +508,7 @@
 ||www.acuta.ru^$all
 ||www.addameer.org^$all
 ||www.adeema.com^$all
+||www.adhenergyfze.com^$all
 ||www.adoongroup.com^$all
 ||www.aeoi.org.ir^$all
 ||www.aerosila.ru^$all

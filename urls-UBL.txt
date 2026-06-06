@@ -13,6 +13,7 @@
 *://*.acuta.ru/*
 *://*.addameer.org/*
 *://*.adeema.com/*
+*://*.adhenergyfze.com/*
 *://*.adoongroup.com/*
 *://*.advance-sec.com/*
 *://*.aeoi.org.ir/*
