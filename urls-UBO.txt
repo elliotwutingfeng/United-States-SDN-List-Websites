@@ -378,6 +378,7 @@
 ||shabakah.net.sa^$all
 ||shahr-bank.ir^$all
 ||shamexpress.com.tr^$all
+||shangshunhk.com^$all
 ||sharif.edu^$all
 ||shastan.ir^$all
 ||shoga.net^$all
