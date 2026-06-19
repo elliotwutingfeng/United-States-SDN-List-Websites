@@ -393,6 +393,7 @@
 *://*.globalstaffingsa.com/*
 *://*.globaltradinggroup.com/*
 *://*.globalvisiness.com/*
+*://*.globe-co.com/*
 *://*.gmfarmco.com/*
 *://*.gmiprojects.de/*
 *://*.gmships.com/*

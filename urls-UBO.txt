@@ -749,6 +749,7 @@
 ||www.gicdf.org^$all
 ||www.globalrc.net^$all
 ||www.globaltradinggroup.com^$all
+||www.globe-co.com^$all
 ||www.gmiprojects.de^$all
 ||www.gmships.com^$all
 ||www.goklergroup.com^$all
