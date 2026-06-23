@@ -45,6 +45,7 @@
 *://*.alamalthrwa.com/*
 *://*.alameyahexpress-ye.com/*
 *://*.alamir-lb.com/*
+*://*.alankbot.com/*
 *://*.aldarproperties.qa/*
 *://*.aleseb.com/*
 *://*.alexbank.ru/*
@@ -60,6 +61,7 @@
 *://*.aliafco.com/*
 *://*.alinmaa-group.com/*
 *://*.alinmaa.com.lb/*
+*://*.alkarammt.com/*
 *://*.allianceenergy.pk/*
 *://*.alliancefleuvecongo.org/*
 *://*.almahdi.ir/*
@@ -1024,6 +1026,7 @@
 *://*.spbbank.com/*
 *://*.spbexchange.ru/*
 *://*.spc.co.ir/*
+*://*.spidermt.com/*
 *://*.spiint.co.za/*
 *://*.spmco.co/*
 *://*.srpt.ir/*

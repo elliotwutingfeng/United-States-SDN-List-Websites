@@ -12,6 +12,7 @@
 ||al-nour.net^$all
 ||aladham-exchange.com.sy^$all
 ||alameyahexpress-ye.com^$all
+||alankbot.com^$all
 ||alfa-instr.ru^$all
 ||alfabank.com^$all
 ||alfabank.ru^$all
@@ -539,6 +540,7 @@
 ||www.alhazmiex.com^$all
 ||www.alinmaa-group.com^$all
 ||www.alinmaa.com.lb^$all
+||www.alkarammt.com^$all
 ||www.almanar.com.lb^$all
 ||www.almaz-kb.ru^$all
 ||www.alnakshabandia-army.org^$all
@@ -1169,6 +1171,7 @@
 ||www.sourceonewellness.com^$all
 ||www.spbbank.com^$all
 ||www.spc.co.ir^$all
+||www.spidermt.com^$all
 ||www.spmco.co^$all
 ||www.sslil.net^$all
 ||www.star.ru^$all
