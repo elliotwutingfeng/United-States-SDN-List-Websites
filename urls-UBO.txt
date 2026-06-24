@@ -87,6 +87,7 @@
 ||consolstroy.ru^$all
 ||council.gov.ru^$all
 ||crb-dnr.ru^$all
+||crs.co^$all
 ||cryptex.net^$all
 ||ctr-co.com^$all
 ||daa.computer^$all
@@ -109,6 +110,7 @@
 ||dongchuangchem.com^$all
 ||dorstroycom.ru^$all
 ||draco-buren.com^$all
+||eastlinklondon.com^$all
 ||eastrise.hk^$all
 ||ebonet.net^$all
 ||element-msc.ru^$all
@@ -139,6 +141,7 @@
 ||fishingareus.com^$all
 ||fkutaman.ru^$all
 ||fondvostok.ru^$all
+||fortunenetworktechnologyltd.com^$all
 ||forwarderz.com^$all
 ||fothigarage.business.site^$all
 ||fpi.gov.ru^$all
@@ -147,6 +150,7 @@
 ||funnull.buzz^$all
 ||funnull.com^$all
 ||funnull.io^$all
+||futurewing.co^$all
 ||fznc.world^$all
 ||g3n3sis.org^$all
 ||g3n3sis.pro^$all
@@ -498,6 +502,7 @@
 ||wallex.ir^$all
 ||wantashipping.com^$all
 ||waybank.ru^$all
+||winner8games.com^$all
 ||wmi.midhco.com^$all
 ||www.4test.ru^$all
 ||www.aaestudioarquitectonico.com^$all
@@ -775,6 +780,7 @@
 ||www.gutabank.ru^$all
 ||www.gzsc.ir^$all
 ||www.haleel.co^$all
+||www.halochat.io^$all
 ||www.hals-development.ru^$all
 ||www.hanhong-med.com^$all
 ||www.haokunny.com^$all

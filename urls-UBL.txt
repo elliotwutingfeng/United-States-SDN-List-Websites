@@ -248,6 +248,7 @@
 *://*.creative-python.com/*
 *://*.crimea.com/*
 *://*.crimearw.ru/*
+*://*.crs.co/*
 *://*.cryogenmash.ru/*
 *://*.cryptex.net/*
 *://*.csc-sb.hr/*
@@ -291,6 +292,7 @@
 *://*.draco-buren.com/*
 *://*.dscmmc.com/*
 *://*.eastasiatrading.net/*
+*://*.eastlinklondon.com/*
 *://*.eastrise.hk/*
 *://*.ebonet.net/*
 *://*.echelon.ru/*
@@ -352,6 +354,7 @@
 *://*.fondvostok.ru/*
 *://*.forabank.ru/*
 *://*.forsys.ru/*
+*://*.fortunenetworktechnologyltd.com/*
 *://*.forwarderz.com/*
 *://*.fossilcontracting.org/*
 *://*.frccsc.ru/*
@@ -361,6 +364,7 @@
 *://*.funnull.com/*
 *://*.funnull.io/*
 *://*.futurebank.com.bh/*
+*://*.futurewing.co/*
 *://*.fznc.world/*
 *://*.g3n3sis.org/*
 *://*.g3n3sis.pro/*
@@ -432,6 +436,7 @@
 *://*.h-terre.org/*
 *://*.haleel.co/*
 *://*.haleelcommodities.com/*
+*://*.halochat.io/*
 *://*.hals-development.ru/*
 *://*.hanhong-med.com/*
 *://*.haokunny.com/*
@@ -1209,6 +1214,7 @@
 *://*.webkamerton.ru/*
 *://*.webnode.es/*
 *://*.whc.or.id/*
+*://*.winner8games.com/*
 *://*.wscb.ru/*
 *://*.xiaolipharma.com/*
 *://*.xiunashangmao.com/*
