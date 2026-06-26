@@ -164,6 +164,7 @@
 ||genesis7zoveavupiiwnrycmaq6uro3kn5h2be3el7wdnbjti2ln2wid.onion^$all
 ||geopolitica.ru^$all
 ||gge.ru^$all
+||ggr.co.rw^$all
 ||gicdf.org^$all
 ||giesgroup.com^$all
 ||gkmotor.com^$all
@@ -639,6 +640,7 @@
 ||www.brklogistics.com^$all
 ||www.bspb.ru^$all
 ||www.btc.co.ir^$all
+||www.bugambiramines.rw^$all
 ||www.burgaz.ru^$all
 ||www.bystrobank.ru^$all
 ||www.bzpc.ir^$all
@@ -1286,6 +1288,7 @@
 ||www.web3tech.ru^$all
 ||www.webkamerton.ru^$all
 ||www.whc.or.id^$all
+||www.wmprwanda.rw^$all
 ||www.wscb.ru^$all
 ||www.xiaolipharma.com^$all
 ||www.xr-shipping.com^$all

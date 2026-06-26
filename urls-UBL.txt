@@ -189,6 +189,7 @@
 *://*.brklogistics.com/*
 *://*.bspb.ru/*
 *://*.btc.co.ir/*
+*://*.bugambiramines.rw/*
 *://*.burgaz.ru/*
 *://*.business.site/*
 *://*.buybestelectronic.com/*
@@ -387,6 +388,7 @@
 *://*.geopolitica.ru/*
 *://*.gerdab.ir/*
 *://*.gge.ru/*
+*://*.ggr.co.rw/*
 *://*.ghadir-invest.com/*
 *://*.ghbi.ir/*
 *://*.gibank.ru/*
@@ -1215,6 +1217,7 @@
 *://*.webnode.es/*
 *://*.whc.or.id/*
 *://*.winner8games.com/*
+*://*.wmprwanda.rw/*
 *://*.wscb.ru/*
 *://*.xiaolipharma.com/*
 *://*.xiunashangmao.com/*
