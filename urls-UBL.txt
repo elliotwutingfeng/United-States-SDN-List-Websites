@@ -940,6 +940,7 @@
 *://*.sberbank.ru/*
 *://*.sberbank.ua/*
 *://*.sberleasing.ru/*
+*://*.sblenergy.com/*
 *://*.sbrf.com.ua/*
 *://*.scanform.ru/*
 *://*.scemsal.site/*

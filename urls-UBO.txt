@@ -1141,6 +1141,7 @@
 ||www.sberbank.ru^$all
 ||www.sberbank.ua^$all
 ||www.sberleasing.ru^$all
+||www.sblenergy.com^$all
 ||www.scf-group.com^$all
 ||www.scsco.net^$all
 ||www.sdm.ru^$all
