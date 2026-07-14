@@ -1,4 +1,8 @@
 ||0day.llc^
+||1jabber.com^
+||1vpns.com^
+||1vpns.net^
+||1vpns.org^
 ||3data.ru^
 ||911.af^
 ||a4si.com.co^
@@ -447,6 +451,7 @@
 ||surgutneftegas.ru^
 ||swaidexchange.com^
 ||t-platforms.ru^
+||t.me^
 ||t1.ru^
 ||tagmspl.com^
 ||tas-tek.com^

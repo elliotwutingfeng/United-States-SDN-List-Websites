@@ -1,4 +1,8 @@
 *://*.0day.llc/*
+*://*.1jabber.com/*
+*://*.1vpns.com/*
+*://*.1vpns.net/*
+*://*.1vpns.org/*
 *://*.3data.ru/*
 *://*.4test.ru/*
 *://*.911.af/*
@@ -1074,6 +1078,7 @@
 *://*.sz-alloy.com/*
 *://*.t-platforms.ru/*
 *://*.t-rubber.com/*
+*://*.t.me/*
 *://*.t1.ru/*
 *://*.tabchem.ir/*
 *://*.tadbirbroker.com/*
