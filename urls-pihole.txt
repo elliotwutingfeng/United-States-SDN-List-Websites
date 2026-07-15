@@ -129,6 +129,7 @@ en.vtb.az
 energyglobal.info
 eramedia.com.ua
 etm-p.ru
+evoritglobal.com
 exiar.ru
 eximbank.ru
 exportcenter.ru
@@ -508,6 +509,7 @@ waatasemu.org.ly
 wallex.ir
 wantashipping.com
 waybank.ru
+wefreight.com
 winner8games.com
 wmi.midhco.com
 www.4test.ru

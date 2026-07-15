@@ -129,6 +129,7 @@
 ||energyglobal.info^$all
 ||eramedia.com.ua^$all
 ||etm-p.ru^$all
+||evoritglobal.com^$all
 ||exiar.ru^$all
 ||eximbank.ru^$all
 ||exportcenter.ru^$all
@@ -508,6 +509,7 @@
 ||wallex.ir^$all
 ||wantashipping.com^$all
 ||waybank.ru^$all
+||wefreight.com^$all
 ||winner8games.com^$all
 ||wmi.midhco.com^$all
 ||www.4test.ru^$all

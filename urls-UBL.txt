@@ -329,6 +329,7 @@
 *://*.esfst.com/*
 *://*.etbank.ru/*
 *://*.etm-p.ru/*
+*://*.evoritglobal.com/*
 *://*.evrofinance.ru/*
 *://*.exiar.ru/*
 *://*.exibank.ru/*
@@ -1220,6 +1221,7 @@
 *://*.web3tech.ru/*
 *://*.webkamerton.ru/*
 *://*.webnode.es/*
+*://*.wefreight.com/*
 *://*.whc.or.id/*
 *://*.winner8games.com/*
 *://*.wmprwanda.rw/*
