@@ -48,6 +48,7 @@
 ||asiafuel.net^
 ||autofinancebank.ru^
 ||avinextech.com^
+||avratek.com^
 ||baltnet.ru^
 ||bank.bcs.ru^
 ||barkatventures.com^
@@ -295,6 +296,7 @@
 ||news-front.info^
 ||nii-vektor.ru^
 ||niip.ru^
+||nikajet.com^
 ||nitc.co.ir^
 ||nitcsharjah.com^
 ||nitcshipping.com^
