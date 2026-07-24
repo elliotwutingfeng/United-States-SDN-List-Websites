@@ -660,6 +660,7 @@
 *://*.mfk-bank.ru/*
 *://*.mibic.ir/*
 *://*.mic-ir.com/*
+*://*.midad-alkhair.com/*
 *://*.midas-lighting.cn/*
 *://*.midasrs.com/*
 *://*.middleeastbank.ir/*
@@ -1143,6 +1144,7 @@
 *://*.trust.ru/*
 *://*.trv-e.ru/*
 *://*.ttbank.ir/*
+*://*.tujuhbulir.com/*
 *://*.tula.net/*
 *://*.tuta.io/*
 *://*.tutanota.com/*

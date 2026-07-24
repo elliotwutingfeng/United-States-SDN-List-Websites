@@ -262,6 +262,7 @@
 ||mehdishipping.com^$all
 ||merkurenergyports.com^$all
 ||mexpackingsolutions.com^$all
+||midad-alkhair.com^$all
 ||midas-lighting.cn^$all
 ||mifuturoglobal.com^$all
 ||milavousgroup.com^$all
@@ -480,6 +481,7 @@
 ||tpe.ru^$all
 ||tribit.ru^$all
 ||trport.kerch.crimea.com^$all
+||tujuhbulir.com^$all
 ||tula.net^$all
 ||tuta.io^$all
 ||tutanota.com^$all
