@@ -13,6 +13,7 @@
 ||aezadns.com^$all
 ||afinor.biz^$all
 ||air-burg.ru^$all
+||airlines.dotone.ir^$all
 ||al-nour.net^$all
 ||aladham-exchange.com.sy^$all
 ||alameyahexpress-ye.com^$all
@@ -114,6 +115,8 @@
 ||dnronline.su^$all
 ||dongchuangchem.com^$all
 ||dorstroycom.ru^$all
+||dotone.ir^$all
+||dotonetrip.com^$all
 ||draco-buren.com^$all
 ||eastlinklondon.com^$all
 ||eastrise.hk^$all
@@ -315,6 +318,7 @@
 ||oceanleonid.com^$all
 ||odnarodyna.org^$all
 ||omiddayins.ir^$all
+||one-holding.ir^$all
 ||onerearth.xyz^$all
 ||online.databank.ru^$all
 ||onmedia.io^$all
@@ -458,6 +462,7 @@
 ||t.me^$all
 ||t1.ru^$all
 ||tagmspl.com^$all
+||talatoken.com^$all
 ||tas-tek.com^$all
 ||taylor-shipping.com^$all
 ||tdday.ir^$all
@@ -1317,6 +1322,7 @@
 ||www.zapsibkombank.ru^$all
 ||www.zarrincement.com^$all
 ||www.zedcex.com^$all
+||www.zedpay.com^$all
 ||www.zedxion.io^$all
 ||www.zenit.ru^$all
 ||www.zenships.com^$all

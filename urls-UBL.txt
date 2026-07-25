@@ -293,6 +293,8 @@
 *://*.domrfbank.ru/*
 *://*.dongchuangchem.com/*
 *://*.dorstroycom.ru/*
+*://*.dotone.ir/*
+*://*.dotonetrip.com/*
 *://*.dpi-co.ir/*
 *://*.draco-buren.com/*
 *://*.dscmmc.com/*
@@ -769,6 +771,7 @@
 *://*.omaday.ir/*
 *://*.omiddayins.ir/*
 *://*.omidrey.com/*
+*://*.one-holding.ir/*
 *://*.onegastar.ru/*
 *://*.onerearth.xyz/*
 *://*.onmedia.io/*
@@ -1091,6 +1094,7 @@
 *://*.tagmspl.com/*
 *://*.tajco-ltd.com/*
 *://*.tajcogambia.com/*
+*://*.talatoken.com/*
 *://*.taloon.ir/*
 *://*.tarasteel.com/*
 *://*.tas-tek.com/*
@@ -1254,6 +1258,7 @@
 *://*.zarrincement.com/*
 *://*.zawayagroup.com/*
 *://*.zedcex.com/*
+*://*.zedpay.com/*
 *://*.zedxion.io/*
 *://*.zenit.ru/*
 *://*.zenships.com/*
