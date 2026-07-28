@@ -490,6 +490,7 @@
 ||tula.net^$all
 ||tuta.io^$all
 ||tutanota.com^$all
+||uecrus.com^$all
 ||ukrpost.ua^$all
 ||ultran.ru^$all
 ||unicious.com^$all
@@ -1249,6 +1250,7 @@
 ||www.toplabrc.com^$all
 ||www.totallook.mx^$all
 ||www.tourismbank.ir^$all
+||www.tpe.ru^$all
 ||www.tplshipping.com^$all
 ||www.trans-flot.ru^$all
 ||www.transgulfagency.ae^$all
@@ -1262,6 +1264,7 @@
 ||www.ubrr.ru^$all
 ||www.uec-saturn.ru^$all
 ||www.uiy.com^$all
+||www.uk-odk.ru^$all
 ||www.ukrport.org.ua^$all
 ||www.unistream.ru^$all
 ||www.united.ru^$all

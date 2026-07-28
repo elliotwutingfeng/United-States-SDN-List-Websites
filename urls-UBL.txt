@@ -1157,7 +1157,9 @@
 *://*.tylocalanesthesia.com/*
 *://*.ubrr.ru/*
 *://*.uec-saturn.ru/*
+*://*.uecrus.com/*
 *://*.uiy.com/*
+*://*.uk-odk.ru/*
 *://*.ukrport.org.ua/*
 *://*.ukrpost.ua/*
 *://*.ukrtel.net/*
