@@ -200,6 +200,7 @@
 ||hermexint.com^$all
 ||hfcommercialbank.com^$all
 ||hhbank.com.kh^$all
+||hormuzsafe.ir^$all
 ||hotel-plaza-mexicali.negocio.site^$all
 ||hotelastorres.com^$all
 ||houseofshipping.com^$all

@@ -464,6 +464,7 @@
 *://*.hodico.com/*
 *://*.hong-union.com/*
 *://*.hormoz-fc.com/*
+*://*.hormuzsafe.ir/*
 *://*.hotelastorres.com/*
 *://*.hotelito.com/*
 *://*.house-of-art.com.hk/*
