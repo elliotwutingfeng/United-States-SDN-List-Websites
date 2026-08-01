@@ -262,6 +262,7 @@
 *://*.cyberpolice.ir/*
 *://*.cytrox.com/*
 *://*.daa.computer/*
+*://*.dadenegarco.com/*
 *://*.daletours.com/*
 *://*.daltrd.com/*
 *://*.damavandmining.com/*
@@ -505,6 +506,7 @@
 *://*.investinrussia.com/*
 *://*.iranair.co.ir/*
 *://*.iranair.com/*
+*://*.iranmahanair.com/*
 *://*.iranohind.com/*
 *://*.iranoshargh.com/*
 *://*.irantireco.com/*
@@ -1006,6 +1008,7 @@
 *://*.sinocnc.com.cn/*
 *://*.sinocpa.com/*
 *://*.sjsco.ir/*
+*://*.skiez.in/*
 *://*.skyda.co/*
 *://*.skynet.be/*
 *://*.slaviabank.ru/*

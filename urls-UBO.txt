@@ -97,6 +97,7 @@
 ||cryptex.net^$all
 ||ctr-co.com^$all
 ||daa.computer^$all
+||dadenegarco.com^$all
 ||dafos1990.business.site^$all
 ||daletours.com^$all
 ||daralsalam-lb.com^$all
@@ -413,6 +414,7 @@
 ||sinnoelec.com^$all
 ||sinnogroup.ru^$all
 ||sinocpa.com^$all
+||skiez.in^$all
 ||skyda.co^$all
 ||skynet.be^$all
 ||sld-logistics.org^$all
@@ -844,6 +846,7 @@
 ||www.investinrussia.com^$all
 ||www.iranair.co.ir^$all
 ||www.iranair.com^$all
+||www.iranmahanair.com^$all
 ||www.iranohind.com^$all
 ||www.iranoshargh.com^$all
 ||www.irantireco.com^$all
