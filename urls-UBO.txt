@@ -6,6 +6,7 @@
 ||3data.ru^$all
 ||911.af^$all
 ||a4si.com.co^$all
+||abantether.com^$all
 ||abr.ru^$all
 ||advance-sec.com^$all
 ||aeza.net^$all
@@ -1173,6 +1174,7 @@
 ||www.shahedaviation.com^$all
 ||www.shark-intl.com^$all
 ||www.sheilauriaspa.com^$all
+||www.shelbit.com^$all
 ||www.shibamholding.com^$all
 ||www.shomalcement.com^$all
 ||www.siab.ru^$all

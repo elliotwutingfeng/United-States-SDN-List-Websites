@@ -9,6 +9,7 @@
 *://*.a4si.com.co/*
 *://*.aaestudioarquitectonico.com/*
 *://*.abank.ru/*
+*://*.abantether.com/*
 *://*.abr.ru/*
 *://*.absolutbank.by/*
 *://*.absolutbank.com/*
@@ -986,6 +987,7 @@
 *://*.shark-intl.com/*
 *://*.shastan.ir/*
 *://*.sheilauriaspa.com/*
+*://*.shelbit.com/*
 *://*.shibamholding.com/*
 *://*.shoga.net/*
 *://*.shomalcement.com/*
