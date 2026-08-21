@@ -103,6 +103,7 @@
 *://*.aquanika.com/*
 *://*.aquanikacompany.ru/*
 *://*.arabisc-haram.com/*
+*://*.arcasdenoe.com/*
 *://*.archconsulting.com.lb/*
 *://*.arenasdeloreto.com/*
 *://*.arfada.com/*
