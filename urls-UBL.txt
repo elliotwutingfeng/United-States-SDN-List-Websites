@@ -191,6 +191,9 @@
 *://*.bpi.ir/*
 *://*.bps-sberbank.by/*
 *://*.bptshipping.com/*
+*://*.bre-line.co/*
+*://*.bre-line.com/*
+*://*.bre-line.org/*
 *://*.bricinmobiliaria.com/*
 *://*.brklogistics.com/*
 *://*.bspb.ru/*
@@ -705,6 +708,7 @@
 *://*.mse-overseas.com/*
 *://*.mtronics.ru/*
 *://*.mtsbank.ru/*
+*://*.mttlhk.com/*
 *://*.mut.ac.ir/*
 *://*.myaviation.biz/*
 *://*.mytransmarine.com/*
@@ -1239,6 +1243,7 @@
 *://*.webkamerton.ru/*
 *://*.webnode.es/*
 *://*.wefreight.com/*
+*://*.wellbred.com/*
 *://*.whc.or.id/*
 *://*.winner8games.com/*
 *://*.wmprwanda.rw/*
