@@ -13,6 +13,7 @@
 ||aeza.ru^$all
 ||aezadns.com^$all
 ||afinor.biz^$all
+||ai-odv.org^$all
 ||air-burg.ru^$all
 ||airlines.dotone.ir^$all
 ||al-nour.net^$all
@@ -610,6 +611,7 @@
 ||www.atunchemical.com^$all
 ||www.aukcion-sbrf.ru^$all
 ||www.ausay.com^$all
+||www.autistici.org^$all
 ||www.avangard-plastik.ru^$all
 ||www.avangard.ru^$all
 ||www.avia-group.su^$all

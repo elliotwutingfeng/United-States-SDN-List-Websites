@@ -33,6 +33,7 @@
 *://*.agefzc.com/*
 *://*.agri-bank.com/*
 *://*.agroros.ru/*
+*://*.ai-odv.org/*
 *://*.aictc.ir/*
 *://*.aionov.ru/*
 *://*.air-burg.ru/*
@@ -125,6 +126,7 @@
 *://*.atunchemical.com/*
 *://*.aukcion-sbrf.ru/*
 *://*.ausay.com/*
+*://*.autistici.org/*
 *://*.autofinancebank.ru/*
 *://*.avangard-plastik.ru/*
 *://*.avangard.ru/*
