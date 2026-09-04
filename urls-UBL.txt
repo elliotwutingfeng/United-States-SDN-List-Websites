@@ -140,6 +140,7 @@
 *://*.bakeandkitchen.com/*
 *://*.baltinfocom.ru/*
 *://*.baltnet.ru/*
+*://*.bancoexteriorcuba.cu/*
 *://*.bangdeyapharm.com/*
 *://*.bank-hlynov.ru/*
 *://*.bank-maskan.ir/*

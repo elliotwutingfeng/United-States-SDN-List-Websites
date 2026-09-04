@@ -53,6 +53,7 @@
 ||avinextech.com^
 ||avratek.com^
 ||baltnet.ru^
+||bancoexteriorcuba.cu^
 ||bank.bcs.ru^
 ||barkatventures.com^
 ||bbe.ir^
