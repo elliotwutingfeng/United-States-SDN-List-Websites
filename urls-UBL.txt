@@ -423,6 +423,9 @@
 *://*.gmships.com/*
 *://*.goklergroup.com/*
 *://*.goldenargo.co/*
+*://*.goldenglobalbank.com.tr/*
+*://*.goldenglobalportfoy.com.tr/*
+*://*.goldenglobalvks.com.tr/*
 *://*.goldenrc.com/*
 *://*.goldenstar-co.com/*
 *://*.golfrate.com/*

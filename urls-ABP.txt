@@ -186,6 +186,8 @@
 ||globalstaffingsa.com^
 ||globalvisiness.com^
 ||gmfarmco.com^
+||goldenglobalportfoy.com.tr^
+||goldenglobalvks.com.tr^
 ||golfrate.com^
 ||golfrateangola.com^
 ||gomei.com.hk^
@@ -790,6 +792,7 @@
 ||www.gmships.com^
 ||www.goklergroup.com^
 ||www.goldenargo.co^
+||www.goldenglobalbank.com.tr^
 ||www.goldenrc.com^
 ||www.goldenstar-co.com^
 ||www.golfrateangola.com^
