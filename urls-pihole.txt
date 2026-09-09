@@ -16,6 +16,7 @@ afinor.biz
 ai-odv.org
 air-burg.ru
 airlines.dotone.ir
+airshiraz.com
 al-nour.net
 aladham-exchange.com.sy
 alameyahexpress-ye.com
@@ -49,7 +50,9 @@ aquanikacompany.ru
 artual.co
 ascentgeneralinsurance.com
 asiafuel.net
+atlasairplus.com
 autofinancebank.ru
+avaair.ir
 avinextech.com
 avratek.com
 baltnet.ru
@@ -226,6 +229,7 @@ itb.ru
 janskinmn.lol
 jhminshengpm.com
 journal-neo.org
+jskyair.com
 kerch.sf.ukrtel.net
 kersino.com
 kes.co.ir
@@ -244,6 +248,7 @@ kps-co.com
 kpsk-ins.ru
 kraftway.ru
 krimtec.com
+ladairways.ir
 lasingenierias.com
 lcis.media
 leasingday.ir
@@ -270,6 +275,7 @@ massandra.ua
 mazakatrading.com
 med-std.ru
 mehdishipping.com
+mehrairways.com
 merkurenergyports.com
 mexpackingsolutions.com
 midad-alkhair.com
@@ -300,6 +306,7 @@ nabu-leaks.net
 nabu-leaks.org
 nahaja.aja.ir
 najipars.com
+nasimairlines.ir
 naver.com
 navira.com.mx
 neovox.ru
@@ -361,6 +368,7 @@ qinvictory.com
 quarta.su
 quartierlatinapartments.com
 quilab.mx
+raimonair.com
 rairi.frccsc.ru
 rambler.ru
 ramzinex.com
@@ -434,6 +442,7 @@ snte.co.ao
 solmatepciran.com
 somelmark.store
 sorena.ir
+soroushair.com
 southfront.org
 sovcombank-leasing.ru
 sovcombank.ru
@@ -469,6 +478,7 @@ swaidexchange.com
 t-platforms.ru
 t.me
 t1.ru
+taban.aero
 tagmspl.com
 talatoken.com
 tas-tek.com
@@ -490,6 +500,7 @@ tidewaterco.ir
 timerbank.ru
 tiscali.net
 tkbbank.com
+toosairline.com
 tornado.cash
 tpe.ru
 tribit.ru
@@ -509,6 +520,7 @@ upt.ru
 uranis.net
 utekcomposite.com
 vankoroil.ru
+vareshairline.com
 veb-leasing.ru
 vebcapital.ru
 vebeng.ru
@@ -553,6 +565,7 @@ www.agri-bank.com
 www.agroros.ru
 www.aictc.ir
 www.aionov.ru
+www.air1air.com
 www.ajmac.com
 www.akaliexpeditions.com
 www.akbars.ru
@@ -609,6 +622,7 @@ www.arvandpvc.ir
 www.aryasasol.com
 www.asbgroup.com.tr
 www.asealu.com
+www.ataair.ir
 www.atlassarafi.com
 www.atomyze.ru
 www.atunchemical.com
@@ -691,6 +705,7 @@ www.cetelem.ru
 www.cfb.ru
 www.cgstc.com
 www.cgtradefze.com
+www.chabaharairlines.com
 www.chabok.aero
 www.chadormalu.com
 www.chelindbank.ru
@@ -766,6 +781,7 @@ www.ferrogilan.com
 www.fiib.com.my
 www.finsb.ru
 www.fkoz.feodosia.com.ua
+www.flypersia.aero
 www.fnpcc.com
 www.forabank.ru
 www.forsys.ru
@@ -829,6 +845,7 @@ www.hong-union.com
 www.hormoz-fc.com
 www.hotelito.com
 www.house-of-art.com.hk
+www.iaa.ir
 www.iasco.ir
 www.ibyemen.com
 www.icgoo.net
@@ -857,6 +874,7 @@ www.investcapitalbank.ru
 www.investinrussia.com
 www.iranair.co.ir
 www.iranair.com
+www.iranairtour.ir
 www.iranmahanair.com
 www.iranohind.com
 www.iranoshargh.com
@@ -897,6 +915,7 @@ www.kalco.ir
 www.kamaran.com
 www.kamkombank.ru
 www.karafarinbank.com
+www.karunair.ir
 www.katranji.com
 www.kbm.ru
 www.kbptula.ru
@@ -916,6 +935,7 @@ www.khorasansteel.com
 www.kibank.ru
 www.kinef.ru
 www.kirishiavtoservis.ru
+www.kishairlines.ir
 www.kishpandi.com
 www.kk-pu.com
 www.knaapo.ru
@@ -1055,6 +1075,7 @@ www.ozarkashipping.com
 www.ozonehobby.com
 www.paravar-pars.com
 www.pars-bana.com
+www.parsair.ir
 www.parsian-bank.com
 www.parsisotope.com
 www.parsmcs.com
@@ -1104,6 +1125,7 @@ www.ptkb.ru
 www.ptsecurity.com
 www.ptsecurity.ru
 www.pullman.solutions
+www.qeshm-air.com
 www.qinvictory.com
 www.qmb.ir
 www.radioautomatic.ru
@@ -1180,6 +1202,7 @@ www.sdm.ru
 www.sebastianomoda.com
 www.sedcompany.ir
 www.sedfirm.com
+www.sepehranairlines.com
 www.severgazbank.ru
 www.sfi.co.ir
 www.shahedaviation.com
@@ -1215,6 +1238,8 @@ www.spbbank.com
 www.spc.co.ir
 www.spidermt.com
 www.spmco.co
+www.ssistem.com
+www.ssistem.com.tr
 www.sslil.net
 www.star.ru
 www.starscom.net
@@ -1337,6 +1362,7 @@ www.ytkmachine.com
 www.ytkpack.com
 www.yuzemachinery.com
 www.zadna-int.com
+www.zagrosairlines.com
 www.zaliv.com
 www.zalivkerch.com
 www.zaovad.com

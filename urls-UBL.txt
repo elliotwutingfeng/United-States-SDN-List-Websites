@@ -37,6 +37,8 @@
 *://*.aictc.ir/*
 *://*.aionov.ru/*
 *://*.air-burg.ru/*
+*://*.air1air.com/*
+*://*.airshiraz.com/*
 *://*.aja.ir/*
 *://*.ajmac.com/*
 *://*.akaliexpeditions.com/*
@@ -121,6 +123,8 @@
 *://*.ascentgeneralinsurance.com/*
 *://*.asealu.com/*
 *://*.asiafuel.net/*
+*://*.ataair.ir/*
+*://*.atlasairplus.com/*
 *://*.atlassarafi.com/*
 *://*.atomyze.ru/*
 *://*.atunchemical.com/*
@@ -128,6 +132,7 @@
 *://*.ausay.com/*
 *://*.autistici.org/*
 *://*.autofinancebank.ru/*
+*://*.avaair.ir/*
 *://*.avangard-plastik.ru/*
 *://*.avangard.ru/*
 *://*.avia-group.su/*
@@ -231,6 +236,7 @@
 *://*.cfb.ru/*
 *://*.cgstc.com/*
 *://*.cgtradefze.com/*
+*://*.chabaharairlines.com/*
 *://*.chabok.aero/*
 *://*.chadormalu.com/*
 *://*.chatex.com/*
@@ -367,6 +373,7 @@
 *://*.fintender.ru/*
 *://*.fishingareus.com/*
 *://*.fkutaman.ru/*
+*://*.flypersia.aero/*
 *://*.fnpcc.com/*
 *://*.fondvostok.ru/*
 *://*.forabank.ru/*
@@ -484,6 +491,7 @@
 *://*.hrfenix.com/*
 *://*.hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/*
 *://*.hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/*
+*://*.iaa.ir/*
 *://*.iasco.ir/*
 *://*.ibyemen.com/*
 *://*.icgoo.net/*
@@ -517,6 +525,7 @@
 *://*.investinrussia.com/*
 *://*.iranair.co.ir/*
 *://*.iranair.com/*
+*://*.iranairtour.ir/*
 *://*.iranmahanair.com/*
 *://*.iranohind.com/*
 *://*.iranoshargh.com/*
@@ -555,6 +564,7 @@
 *://*.journal-neo.org/*
 *://*.jp-adv.com/*
 *://*.jpcomplex.ir/*
+*://*.jskyair.com/*
 *://*.jxlszb.com/*
 *://*.jyalco.com/*
 *://*.kafa.crimea.ua/*
@@ -562,6 +572,7 @@
 *://*.kamaran.com/*
 *://*.kamkombank.ru/*
 *://*.karafarinbank.com/*
+*://*.karunair.ir/*
 *://*.katranji.com/*
 *://*.kbm.ru/*
 *://*.kbptula.ru/*
@@ -585,6 +596,7 @@
 *://*.kinef.ru/*
 *://*.kingstonholding.com/*
 *://*.kirishiavtoservis.ru/*
+*://*.kishairlines.ir/*
 *://*.kishpandi.com/*
 *://*.kk-pu.com/*
 *://*.kmolz.ru/*
@@ -609,6 +621,7 @@
 *://*.kunlunholding.com/*
 *://*.kupol.ru/*
 *://*.kurganmash.ru/*
+*://*.ladairways.ir/*
 *://*.lakeviewshipmanagement.in/*
 *://*.lanta.ru/*
 *://*.lapc.ir/*
@@ -659,6 +672,7 @@
 *://*.mega-chips.cn/*
 *://*.mehdishipping.com/*
 *://*.mehdishipping.net/*
+*://*.mehrairways.com/*
 *://*.mehrpc.com/*
 *://*.mekpco.com/*
 *://*.mellatbank.am/*
@@ -726,6 +740,7 @@
 *://*.nahb.my/*
 *://*.najipars.com/*
 *://*.narod.ru/*
+*://*.nasimairlines.ir/*
 *://*.naver.com/*
 *://*.navira.com.mx/*
 *://*.nbsaige.com/*
@@ -809,6 +824,7 @@
 *://*.parom-k.ru/*
 *://*.pars-bana.com/*
 *://*.pars-tile.com/*
+*://*.parsair.ir/*
 *://*.parsian-bank.com/*
 *://*.parsisotope.com/*
 *://*.parsmcs.com/*
@@ -875,6 +891,7 @@
 *://*.pullman.solutions/*
 *://*.pulseniru.com/*
 *://*.qawafilalkhair.net/*
+*://*.qeshm-air.com/*
 *://*.qinvictory.com/*
 *://*.qmb.ir/*
 *://*.quarta.su/*
@@ -883,6 +900,7 @@
 *://*.radioautomatic.ru/*
 *://*.rahroshd.ir/*
 *://*.rahroshd.net/*
+*://*.raimonair.com/*
 *://*.ramanco.ir/*
 *://*.rambler.ru/*
 *://*.ramor.com.tr/*
@@ -983,6 +1001,7 @@
 *://*.sedcompany.ir/*
 *://*.sedfirm.com/*
 *://*.selkbaf.ir/*
+*://*.sepehranairlines.com/*
 *://*.septemcapital.ru/*
 *://*.sequoia.li/*
 *://*.severgazbank.ru/*
@@ -1046,6 +1065,7 @@
 *://*.somicgroup.ir/*
 *://*.somicgroup.net/*
 *://*.sorena.ir/*
+*://*.soroushair.com/*
 *://*.source1herbs.com/*
 *://*.sourceonewellness.com/*
 *://*.southfront.org/*
@@ -1065,6 +1085,8 @@
 *://*.spiint.co.za/*
 *://*.spmco.co/*
 *://*.srpt.ir/*
+*://*.ssistem.com/*
+*://*.ssistem.com.tr/*
 *://*.sslil.net/*
 *://*.star.ru/*
 *://*.stardragon.hk/*
@@ -1104,6 +1126,7 @@
 *://*.t-rubber.com/*
 *://*.t.me/*
 *://*.t1.ru/*
+*://*.taban.aero/*
 *://*.tabchem.ir/*
 *://*.tadbirbroker.com/*
 *://*.tadbirdrilling.com/*
@@ -1150,6 +1173,7 @@
 *://*.tmgic.ir/*
 *://*.tmico.ir/*
 *://*.tochka.com/*
+*://*.toosairline.com/*
 *://*.topfashion-online.de/*
 *://*.toplabrc.com/*
 *://*.tornado.cash/*
@@ -1201,6 +1225,7 @@
 *://*.valfajr.ir/*
 *://*.vanessaimex.com/*
 *://*.vankoroil.ru/*
+*://*.vareshairline.com/*
 *://*.vaslab.ir/*
 *://*.vast-chem.com/*
 *://*.veb-leasing.ru/*
@@ -1271,6 +1296,7 @@
 *://*.yungjsc.com/*
 *://*.yuzemachinery.com/*
 *://*.zadna-int.com/*
+*://*.zagrosairlines.com/*
 *://*.zaliv.com/*
 *://*.zalivkerch.com/*
 *://*.zaovad.com/*
