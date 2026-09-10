@@ -388,6 +388,7 @@
 ||russianstandard.com^$all
 ||rvc.ru^$all
 ||sadafexchange.com^$all
+||safew.org^$all
 ||salcocompany.com^$all
 ||sanabel.org.uk^$all
 ||sapa.ir^$all
@@ -1176,6 +1177,7 @@
 ||www.russitabank.ru^$all
 ||www.sadaf-cb.com^$all
 ||www.sadra.ir^$all
+||www.safew-app.org^$all
 ||www.sahab.ir^$all
 ||www.saharathunder.com^$all
 ||www.saidshuhada.com^$all
@@ -1378,6 +1380,7 @@
 ||www.zjwonder.com^$all
 ||www.zrenergy.com^$all
 ||www.zvezda.spb.ru^$all
+||xinbi.com^$all
 ||xiunashangmao.com^$all
 ||ya.ru^$all
 ||yaltaport.com.ua^$all

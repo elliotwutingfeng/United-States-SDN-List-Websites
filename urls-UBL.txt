@@ -960,6 +960,8 @@
 *://*.sadaf-cb.com/*
 *://*.sadafexchange.com/*
 *://*.sadra.ir/*
+*://*.safew-app.org/*
+*://*.safew.org/*
 *://*.sahab.ir/*
 *://*.saharathunder.com/*
 *://*.saidshuhada.com/*
@@ -1280,6 +1282,7 @@
 *://*.wmprwanda.rw/*
 *://*.wscb.ru/*
 *://*.xiaolipharma.com/*
+*://*.xinbi.com/*
 *://*.xiunashangmao.com/*
 *://*.xr-shipping.com/*
 *://*.ya.ru/*
