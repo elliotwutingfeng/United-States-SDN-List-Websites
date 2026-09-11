@@ -1014,6 +1014,8 @@
 *://*.shahedaviation.com/*
 *://*.shahr-bank.ir/*
 *://*.shamexpress.com.tr/*
+*://*.shamsandbahr.ae/*
+*://*.shamsbahr.com/*
 *://*.shangshunhk.com/*
 *://*.sharif.edu/*
 *://*.shark-intl.com/*

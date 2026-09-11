@@ -1208,6 +1208,8 @@
 ||www.severgazbank.ru^$all
 ||www.sfi.co.ir^$all
 ||www.shahedaviation.com^$all
+||www.shamsandbahr.ae^$all
+||www.shamsbahr.com^$all
 ||www.shark-intl.com^$all
 ||www.sheilauriaspa.com^$all
 ||www.shelbit.com^$all
