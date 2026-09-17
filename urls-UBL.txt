@@ -712,7 +712,6 @@
 *://*.mobinpc.net/*
 *://*.mod.gov.rw/*
 *://*.modulbank.ru/*
-*://*.modulsan.com/*
 *://*.moex.com/*
 *://*.mofa.lat/*
 *://*.moran-group.org/*
