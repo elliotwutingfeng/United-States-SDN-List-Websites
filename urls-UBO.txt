@@ -660,6 +660,8 @@
 ||www.bidc.ir^$all
 ||www.bilad-bank.com^$all
 ||www.bim.ir^$all
+||www.bitbank.com^$all
+||www.bitbank3.com^$all
 ||www.bitpapa.com^$all
 ||www.bitpapa.org^$all
 ||www.bki.ir^$all
@@ -1104,6 +1106,7 @@
 ||www.phnompenhhotel.com^$all
 ||www.pidmco.ir^$all
 ||www.pishrowiran.ir^$all
+||www.pishtazsimorgh.com^$all
 ||www.plazavirreyes.com^$all
 ||www.pnoc-afc.com.ph^$all
 ||www.pogidc.com^$all

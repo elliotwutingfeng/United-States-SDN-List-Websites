@@ -173,6 +173,8 @@
 *://*.bilad-bank.com/*
 *://*.bim.ir/*
 *://*.biopharmist.com/*
+*://*.bitbank.com/*
+*://*.bitbank3.com/*
 *://*.bitpapa.com/*
 *://*.bitpapa.org/*
 *://*.bitpin.ir/*
@@ -862,6 +864,7 @@
 *://*.pidmco.ir/*
 *://*.pishro-tejarat.com/*
 *://*.pishrowiran.ir/*
+*://*.pishtazsimorgh.com/*
 *://*.planar-elements.ru/*
 *://*.plazavirreyes.com/*
 *://*.pnoc-afc.com.ph/*

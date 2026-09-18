@@ -660,6 +660,8 @@ www.bid.com.ve
 www.bidc.ir
 www.bilad-bank.com
 www.bim.ir
+www.bitbank.com
+www.bitbank3.com
 www.bitpapa.com
 www.bitpapa.org
 www.bki.ir
@@ -1104,6 +1106,7 @@ www.phiolent.com
 www.phnompenhhotel.com
 www.pidmco.ir
 www.pishrowiran.ir
+www.pishtazsimorgh.com
 www.plazavirreyes.com
 www.pnoc-afc.com.ph
 www.pogidc.com
