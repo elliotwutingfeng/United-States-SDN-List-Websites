@@ -217,6 +217,7 @@
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
 ||hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion^$all
 ||ideascup.me^$all
+||iesecurity.com.mx^$all
 ||ifdk.com^$all
 ||inb.ps^$all
 ||indefibank.com^$all

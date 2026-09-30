@@ -504,6 +504,7 @@
 *://*.iedc.ir/*
 *://*.ieicorp.com/*
 *://*.ieimil.ir/*
+*://*.iesecurity.com.mx/*
 *://*.ifdk.com/*
 *://*.igisco.com/*
 *://*.igsm.ae/*
