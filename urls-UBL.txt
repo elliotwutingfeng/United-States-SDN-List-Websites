@@ -435,6 +435,7 @@
 *://*.goldenglobalbank.com.tr/*
 *://*.goldenglobalportfoy.com.tr/*
 *://*.goldenglobalvks.com.tr/*
+*://*.goldenmotorcycle.id/*
 *://*.goldenrc.com/*
 *://*.goldenstar-co.com/*
 *://*.golfrate.com/*
@@ -476,6 +477,7 @@
 *://*.hebeicrovell.com/*
 *://*.hejabtextile.com/*
 *://*.henglipc.com/*
+*://*.hepcoir.com/*
 *://*.hermexint.com/*
 *://*.herzallah.ps/*
 *://*.hfcommercialbank.com/*
@@ -494,6 +496,7 @@
 *://*.hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion/*
 *://*.hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion/*
 *://*.iaa.ir/*
+*://*.iap.ae/*
 *://*.iasco.ir/*
 *://*.ibyemen.com/*
 *://*.icgoo.net/*
@@ -903,7 +906,9 @@
 *://*.radioautomatic.ru/*
 *://*.rahroshd.ir/*
 *://*.rahroshd.net/*
+*://*.rai.ir/*
 *://*.raimonair.com/*
+*://*.raja.ir/*
 *://*.ramanco.ir/*
 *://*.rambler.ru/*
 *://*.ramor.com.tr/*
@@ -960,6 +965,7 @@
 *://*.russianstandard.com/*
 *://*.russitabank.ru/*
 *://*.rvc.ru/*
+*://*.rwt.ir/*
 *://*.sadaf-cb.com/*
 *://*.sadafexchange.com/*
 *://*.sadra.ir/*
@@ -1193,6 +1199,7 @@
 *://*.transmartdmcc.com/*
 *://*.trendgyo.com.tr/*
 *://*.tribit.ru/*
+*://*.troytrading.com.tr/*
 *://*.trust.ru/*
 *://*.trv-e.ru/*
 *://*.ttbank.ir/*

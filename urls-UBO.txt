@@ -191,6 +191,7 @@
 ||gmfarmco.com^$all
 ||goldenglobalportfoy.com.tr^$all
 ||goldenglobalvks.com.tr^$all
+||goldenmotorcycle.id^$all
 ||golfrate.com^$all
 ||golfrateangola.com^$all
 ||gomei.com.hk^$all
@@ -206,6 +207,7 @@
 ||h-terre.org^$all
 ||haleelcommodities.com^$all
 ||hejabtextile.com^$all
+||hepcoir.com^$all
 ||hermexint.com^$all
 ||hfcommercialbank.com^$all
 ||hhbank.com.kh^$all
@@ -216,6 +218,7 @@
 ||hrfenix.com^$all
 ||hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion^$all
 ||hydram6esdjf6otepmr5c3vjyndsoddz22afphbbjznwb5ln2c6op7ad.onion^$all
+||iap.ae^$all
 ||ideascup.me^$all
 ||iesecurity.com.mx^$all
 ||ifdk.com^$all
@@ -388,6 +391,7 @@
 ||rusmedtorg.ru^$all
 ||russianstandard.com^$all
 ||rvc.ru^$all
+||rwt.ir^$all
 ||sadafexchange.com^$all
 ||safew.org^$all
 ||salcocompany.com^$all
@@ -1135,6 +1139,8 @@
 ||www.radioautomatic.ru^$all
 ||www.rahroshd.ir^$all
 ||www.rahroshd.net^$all
+||www.rai.ir^$all
+||www.raja.ir^$all
 ||www.ramanco.ir^$all
 ||www.ramor.com.tr^$all
 ||www.rashedexchange.com^$all
@@ -1305,6 +1311,7 @@
 ||www.transgulfagency.ae^$all
 ||www.transmartdmcc.com^$all
 ||www.trendgyo.com.tr^$all
+||www.troytrading.com.tr^$all
 ||www.trust.ru^$all
 ||www.trv-e.ru^$all
 ||www.ttbank.ir^$all
