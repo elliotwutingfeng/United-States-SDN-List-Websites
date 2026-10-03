@@ -123,6 +123,7 @@
 *://*.ascentgeneralinsurance.com/*
 *://*.asealu.com/*
 *://*.asiafuel.net/*
+*://*.associationbaraka.fr/*
 *://*.ataair.ir/*
 *://*.atlasairplus.com/*
 *://*.atlassarafi.com/*

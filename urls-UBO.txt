@@ -50,6 +50,7 @@
 ||artual.co^$all
 ||ascentgeneralinsurance.com^$all
 ||asiafuel.net^$all
+||associationbaraka.fr^$all
 ||atlasairplus.com^$all
 ||autofinancebank.ru^$all
 ||avaair.ir^$all
