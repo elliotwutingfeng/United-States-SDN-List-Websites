@@ -860,6 +860,7 @@
 ||www.icgoo.net^$all
 ||www.iciiclab.com^$all
 ||www.icioc.ir^$all
+||www.idb.iq^$all
 ||www.idronaut.it^$all
 ||www.iedc.ir^$all
 ||www.ieicorp.com^$all

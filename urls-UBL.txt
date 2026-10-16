@@ -503,6 +503,7 @@
 *://*.icgoo.net/*
 *://*.iciiclab.com/*
 *://*.icioc.ir/*
+*://*.idb.iq/*
 *://*.ideascup.me/*
 *://*.idronaut.it/*
 *://*.iedc.ir/*
