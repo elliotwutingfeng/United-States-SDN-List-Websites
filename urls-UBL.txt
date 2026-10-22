@@ -88,6 +88,7 @@
 *://*.alweaam.ps/*
 *://*.alzarooniexchange.ae/*
 *://*.amanuf.ru/*
+*://*.amigozsg.com/*
 *://*.aminib.com/*
 *://*.amlogistics.ru/*
 *://*.amnafzar.com/*
@@ -580,6 +581,7 @@
 *://*.kamaran.com/*
 *://*.kamkombank.ru/*
 *://*.karafarinbank.com/*
+*://*.karnakiskarnakis.com/*
 *://*.karunair.ir/*
 *://*.katranji.com/*
 *://*.kbm.ru/*
@@ -1291,6 +1293,7 @@
 *://*.webnode.es/*
 *://*.wefreight.com/*
 *://*.wellbred.com/*
+*://*.whalesshipping.com/*
 *://*.whc.or.id/*
 *://*.winner8games.com/*
 *://*.wmprwanda.rw/*

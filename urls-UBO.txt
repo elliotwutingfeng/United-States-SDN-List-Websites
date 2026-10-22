@@ -36,6 +36,7 @@
 ||alquds-city.com^$all
 ||alquds-online.org^$all
 ||amanuf.ru^$all
+||amigozsg.com^$all
 ||amlogistics.ru^$all
 ||amnafzar.com^$all
 ||amorlogis.com^$all
@@ -235,6 +236,7 @@
 ||jhminshengpm.com^$all
 ||journal-neo.org^$all
 ||jskyair.com^$all
+||karnakiskarnakis.com^$all
 ||kerch.sf.ukrtel.net^$all
 ||kersino.com^$all
 ||kes.co.ir^$all
@@ -1365,6 +1367,7 @@
 ||www.web3tech.ru^$all
 ||www.webkamerton.ru^$all
 ||www.wellbred.com^$all
+||www.whalesshipping.com^$all
 ||www.whc.or.id^$all
 ||www.wmprwanda.rw^$all
 ||www.wscb.ru^$all
