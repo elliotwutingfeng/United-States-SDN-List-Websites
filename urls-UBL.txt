@@ -1330,6 +1330,7 @@
 *://*.zenships.com/*
 *://*.zest-leasing.ru/*
 *://*.zhongsheng-magnet.com/*
+*://*.zigamacss.rw/*
 *://*.zik.ru/*
 *://*.zjwonder.com/*
 *://*.zmat.com/*
