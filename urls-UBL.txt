@@ -88,6 +88,7 @@
 *://*.alweaam.ps/*
 *://*.alzarooniexchange.ae/*
 *://*.amanuf.ru/*
+*://*.amaocr.org/*
 *://*.amigozsg.com/*
 *://*.aminib.com/*
 *://*.amlogistics.ru/*
@@ -334,6 +335,7 @@
 *://*.elitdiamond.net/*
 *://*.elitefzco.com/*
 *://*.eluent.ru/*
+*://*.ema.org.sz/*
 *://*.emsanic.com/*
 *://*.emtp.com.ua/*
 *://*.enbank.ir/*
@@ -342,6 +344,7 @@
 *://*.energyglobal.info/*
 *://*.enexchanger.com/*
 *://*.enkatrade.com/*
+*://*.epnicaragua.org/*
 *://*.era-tehnopolis.ru/*
 *://*.eramedia.com.ua/*
 *://*.eric1234.com/*
@@ -387,6 +390,7 @@
 *://*.fossilcontracting.org/*
 *://*.frccsc.ru/*
 *://*.fsday.ir/*
+*://*.fugoaviation.com/*
 *://*.funnull.app/*
 *://*.funnull.buzz/*
 *://*.funnull.com/*
@@ -735,6 +739,8 @@
 *://*.msc.ir/*
 *://*.msd.co.za/*
 *://*.mse-overseas.com/*
+*://*.msta-registry.com/*
+*://*.mstaregistry.com/*
 *://*.mtronics.ru/*
 *://*.mtsbank.ru/*
 *://*.mttlhk.com/*
@@ -1067,6 +1073,7 @@
 *://*.smilepayments.com/*
 *://*.smiletechnologies.com.ar/*
 *://*.smiletraveltours.com/*
+*://*.smmrm.com/*
 *://*.smokeyschemsite.com/*
 *://*.smp.com.ua/*
 *://*.smpbank.ru/*
@@ -1183,6 +1190,7 @@
 *://*.tidewaterco.com/*
 *://*.tidewaterco.ir/*
 *://*.timerbank.ru/*
+*://*.timorleste-registry.org/*
 *://*.tinkoff.ru/*
 *://*.tiscali.net/*
 *://*.tkbbank.com/*
@@ -1297,6 +1305,7 @@
 *://*.whc.or.id/*
 *://*.winner8games.com/*
 *://*.wmprwanda.rw/*
+*://*.wordpress.com/*
 *://*.wscb.ru/*
 *://*.xiaolipharma.com/*
 *://*.xinbi.com/*

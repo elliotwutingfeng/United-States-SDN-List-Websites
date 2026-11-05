@@ -36,6 +36,7 @@
 ||alquds-city.com^$all
 ||alquds-online.org^$all
 ||amanuf.ru^$all
+||amaocr.org^$all
 ||amigozsg.com^$all
 ||amlogistics.ru^$all
 ||amnafzar.com^$all
@@ -134,12 +135,14 @@
 ||elgoliat.com.ni^$all
 ||elitefzco.com^$all
 ||eluent.ru^$all
+||ema.org.sz^$all
 ||emtp.com.ua^$all
 ||en.ivbb.ir^$all
 ||en.miu.ac^$all
 ||en.vtb-bank.kz^$all
 ||en.vtb.az^$all
 ||energyglobal.info^$all
+||epnicaragua.org^$all
 ||eramedia.com.ua^$all
 ||etm-p.ru^$all
 ||evoritglobal.com^$all
@@ -224,6 +227,7 @@
 ||ideascup.me^$all
 ||iesecurity.com.mx^$all
 ||ifdk.com^$all
+||imsagregistry.wordpress.com^$all
 ||inb.ps^$all
 ||indefibank.com^$all
 ||inforion.ru^$all
@@ -303,6 +307,8 @@
 ||mostro.ru^$all
 ||mrb-bank.ru^$all
 ||mriyaresort.com^$all
+||msta-registry.com^$all
+||mstaregistry.com^$all
 ||mtronics.ru^$all
 ||myaviation.biz^$all
 ||mytransmarine.com^$all
@@ -443,6 +449,7 @@
 ||smartdi.rs^$all
 ||smilebitcard.com^$all
 ||smilepayments.com^$all
+||smmrm.com^$all
 ||smokeyschemsite.com^$all
 ||smp.com.ua^$all
 ||smt-k.ru^$all
@@ -797,6 +804,7 @@
 ||www.forabank.ru^$all
 ||www.forsys.ru^$all
 ||www.fossilcontracting.org^$all
+||www.fugoaviation.com^$all
 ||www.futurebank.com.bh^$all
 ||www.galileosmarine.com^$all
 ||www.gardencityhotel.com.kh^$all
@@ -1301,6 +1309,7 @@
 ||www.tibalaji.com^$all
 ||www.tiber.su^$all
 ||www.tidewaterco.com^$all
+||www.timorleste-registry.org^$all
 ||www.tinkoff.ru^$all
 ||www.tkbbank.ru^$all
 ||www.tmico.ir^$all

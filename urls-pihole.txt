@@ -36,6 +36,7 @@ almuhandis.iq
 alquds-city.com
 alquds-online.org
 amanuf.ru
+amaocr.org
 amigozsg.com
 amlogistics.ru
 amnafzar.com
@@ -134,12 +135,14 @@ element-msc.ru
 elgoliat.com.ni
 elitefzco.com
 eluent.ru
+ema.org.sz
 emtp.com.ua
 en.ivbb.ir
 en.miu.ac
 en.vtb-bank.kz
 en.vtb.az
 energyglobal.info
+epnicaragua.org
 eramedia.com.ua
 etm-p.ru
 evoritglobal.com
@@ -224,6 +227,7 @@ iap.ae
 ideascup.me
 iesecurity.com.mx
 ifdk.com
+imsagregistry.wordpress.com
 inb.ps
 indefibank.com
 inforion.ru
@@ -303,6 +307,8 @@ morskoybank.com
 mostro.ru
 mrb-bank.ru
 mriyaresort.com
+msta-registry.com
+mstaregistry.com
 mtronics.ru
 myaviation.biz
 mytransmarine.com
@@ -443,6 +449,7 @@ sld-logistics.org
 smartdi.rs
 smilebitcard.com
 smilepayments.com
+smmrm.com
 smokeyschemsite.com
 smp.com.ua
 smt-k.ru
@@ -797,6 +804,7 @@ www.fnpcc.com
 www.forabank.ru
 www.forsys.ru
 www.fossilcontracting.org
+www.fugoaviation.com
 www.futurebank.com.bh
 www.galileosmarine.com
 www.gardencityhotel.com.kh
@@ -1301,6 +1309,7 @@ www.tequilaonze.com
 www.tibalaji.com
 www.tiber.su
 www.tidewaterco.com
+www.timorleste-registry.org
 www.tinkoff.ru
 www.tkbbank.ru
 www.tmico.ir
