@@ -90,6 +90,7 @@
 *://*.amanuf.ru/*
 *://*.amaocr.org/*
 *://*.amigozsg.com/*
+*://*.aminexchange.ca/*
 *://*.aminib.com/*
 *://*.amlogistics.ru/*
 *://*.amnafzar.com/*
@@ -275,6 +276,7 @@
 *://*.crs.co/*
 *://*.cryogenmash.ru/*
 *://*.cryptex.net/*
+*://*.cryptoyal.net/*
 *://*.csc-sb.hr/*
 *://*.ctexlb.com/*
 *://*.ctr-co.com/*
@@ -287,6 +289,7 @@
 *://*.damavandmining.com/*
 *://*.damavandpg.co.ir/*
 *://*.daralsalam-lb.com/*
+*://*.darvishexchange.com/*
 *://*.daryashipping.in/*
 *://*.databank.ru/*
 *://*.datana.ru/*
@@ -712,6 +715,7 @@
 *://*.mifuturoglobal.com/*
 *://*.miguelleone.com/*
 *://*.milavousgroup.com/*
+*://*.millionex.ca/*
 *://*.ministeriopublico.gob.ni/*
 *://*.miragewm.com/*
 *://*.miran.ru/*
@@ -783,6 +787,7 @@
 *://*.nkbank.ru/*
 *://*.nko-cmr.ru/*
 *://*.nmbank.ru/*
+*://*.nnce.ca/*
 *://*.nnov.ru/*
 *://*.nobitex.ir/*
 *://*.novikom.ru/*
@@ -991,6 +996,7 @@
 *://*.sanlitun.com.tr/*
 *://*.sapa.ir/*
 *://*.sapidshpg.com/*
+*://*.sarafic.com/*
 *://*.saraproperties.co.uk/*
 *://*.satech.com.my/*
 *://*.sayehbansepehr.com/*

@@ -38,6 +38,7 @@
 ||amanuf.ru^$all
 ||amaocr.org^$all
 ||amigozsg.com^$all
+||aminexchange.ca^$all
 ||amlogistics.ru^$all
 ||amnafzar.com^$all
 ||amorlogis.com^$all
@@ -104,12 +105,14 @@
 ||crb-dnr.ru^$all
 ||crs.co^$all
 ||cryptex.net^$all
+||cryptoyal.net^$all
 ||ctr-co.com^$all
 ||daa.computer^$all
 ||dadenegarco.com^$all
 ||dafos1990.business.site^$all
 ||daletours.com^$all
 ||daralsalam-lb.com^$all
+||darvishexchange.com^$all
 ||datana.ru^$all
 ||daum.net^$all
 ||davos.exchange^$all
@@ -293,6 +296,7 @@
 ||midas-lighting.cn^$all
 ||mifuturoglobal.com^$all
 ||milavousgroup.com^$all
+||millionex.ca^$all
 ||ministeriopublico.gob.ni^$all
 ||miran.ru^$all
 ||mksofttech.com^$all
@@ -332,6 +336,7 @@
 ||nitcsharjah.com^$all
 ||nitcshipping.com^$all
 ||nknpz.rosneft.ru^$all
+||nnce.ca^$all
 ||nnp.surgutneftegas.ru^$all
 ||nobitex.ir^$all
 ||novilabmobile.com^$all
@@ -406,6 +411,7 @@
 ||salcocompany.com^$all
 ||sanabel.org.uk^$all
 ||sapa.ir^$all
+||sarafic.com^$all
 ||satech.com.my^$all
 ||sb24.ir^$all
 ||sbrf.com.ua^$all
