@@ -1379,6 +1379,7 @@
 ||www.vvbank.ru^$all
 ||www.vyborgshipyard.ru^$all
 ||www.wasteelco.com^$all
+||www.wataawano.org^$all
 ||www.web3tech.ru^$all
 ||www.webkamerton.ru^$all
 ||www.wellbred.com^$all

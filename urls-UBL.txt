@@ -1301,6 +1301,7 @@
 *://*.wallex.ir/*
 *://*.wantashipping.com/*
 *://*.wasteelco.com/*
+*://*.wataawano.org/*
 *://*.waybank.ru/*
 *://*.web3tech.ru/*
 *://*.webkamerton.ru/*
