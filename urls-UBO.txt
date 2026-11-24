@@ -65,6 +65,7 @@
 ||barkatventures.com^$all
 ||bbe.ir^$all
 ||begemot.media^$all
+||berkeleytrade.com^$all
 ||best2pay.net^$all
 ||biopharmist.com^$all
 ||bitpin.ir^$all
@@ -873,6 +874,7 @@
 ||www.iaa.ir^$all
 ||www.iasco.ir^$all
 ||www.ibyemen.com^$all
+||www.ice.ir^$all
 ||www.icgoo.net^$all
 ||www.iciiclab.com^$all
 ||www.icioc.ir^$all

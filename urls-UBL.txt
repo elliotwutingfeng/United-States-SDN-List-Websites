@@ -171,6 +171,7 @@
 *://*.behranoil.co/*
 *://*.behsazco.ir/*
 *://*.belinvestbank.by/*
+*://*.berkeleytrade.com/*
 *://*.best2pay.net/*
 *://*.bid.com.ve/*
 *://*.bidc.ir/*
@@ -508,6 +509,7 @@
 *://*.iap.ae/*
 *://*.iasco.ir/*
 *://*.ibyemen.com/*
+*://*.ice.ir/*
 *://*.icgoo.net/*
 *://*.iciiclab.com/*
 *://*.icioc.ir/*
